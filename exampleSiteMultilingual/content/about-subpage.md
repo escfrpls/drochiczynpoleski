@@ -9,14 +9,14 @@ menu:
     identifier: about-subpage-s
     parent: about
     name: About the author
-    title: About Subpage
+    title: About the author
     url: /about/subpage/
     weight: 1
   subpage2:
     identifier: about-subpage2-s
     parent: about
     name: About the project
-    title: Second About Subpage
+    title: About the project
     url: /about/subpage2/
     weight: 10
 ---
