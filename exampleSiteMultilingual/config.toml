@@ -1,7 +1,7 @@
 baseURL = "https://drochiczynpoleski.com"
 languageCode = "en-us"
 defaultContentLanguage = "en"
-title = "DrochiczynPoleski"
+title = "Drochiczyn Poleski"
 theme = "anubis"
 paginate = 3
 
