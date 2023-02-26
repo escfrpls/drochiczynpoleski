@@ -1,22 +1,22 @@
 ---
 title: "About"
-description: "Hugo, the world’s fastest framework for building websites"
-date: "2019-02-28"
+description: "About"
+date: "2023-02-26"
 aliases: ["about-us","about-hugo","contact"]
-author: "Hugo Authors"
+author: "Tymoteusz Kaljuita"
 menu:
   subpage:
     identifier: about-subpage
     parent: about
-    name: About the author
-    title: About the author
+    name: About the project
+    title: About the project
     url: /about/subpage/
     weight: 1
   subpage2:
     identifier: about-subpage2
     parent: about
-    name: About the project
-    title: About the project  
+    name: Support the project
+    title: Support the project
     url: /about/subpage2/
     weight: 10
 ---
