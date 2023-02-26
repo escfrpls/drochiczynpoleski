@@ -12,7 +12,7 @@ googleAnalytics = ""
 name = "Tymoteusz Kaljuta"
 
 [params]
-author = "Tymoteusz Kaljuta""
+author = "Tymoteusz Kaljuta"
 description = "The history of my family and the region of Drochig Poleski"
 dateFormat = "2006-01-02"
 paginationSinglePost = true
