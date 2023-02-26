@@ -1,7 +1,7 @@
-baseURL = "https://example.com"
+baseURL = "https://drochiczynpoleski.com"
 languageCode = "en-us"
 defaultContentLanguage = "en"
-title = "Anubis"
+title = "DrochiczynPoleski"
 theme = "anubis"
 paginate = 3
 
@@ -9,11 +9,11 @@ disqusShortname = ""
 googleAnalytics = ""
 
 [author]
-name = "Dmitry Kolosov"
+name = "Tymoteusz Kaljuta"
 
 [params]
-author = "Dmitry Kolosov"
-description = "Anubis is a simple minimalist theme for Hugo blog engine."
+author = "Tymoteusz Kaljuta""
+description = "The history of my family and the region of Drochig Poleski"
 dateFormat = "2006-01-02"
 paginationSinglePost = true
 style = "auto"
@@ -33,12 +33,21 @@ utterancesIssue = "" # optional
 utterancesLabel = "" # optional
   
 [[params.social]]
-id = "docs"
-url = "https://gohugo.io/documentation/"
+id = "facebook"
+url = "https://www.facebook.com/timkaljuta"
 
 [[params.social]]
-id = "github"
-url = "https://github.com/mitrichius/hugo-theme-anubis"
+id = "instagram"
+url = "https://www.instagram.com/drohiczynpoleski"
+
+[[params.social]]
+id = "linkedin"
+url = "https://www.linkedin.com/in/tymoteusz-kaljuta-180b97216/"
+
+[[params.social]]
+id = "telegram"
+url = "https://t.me/+Z7Ad_SV6jFphNzhk"
+
 
 [languages.en]
 languageName = "English"
@@ -61,29 +70,29 @@ identifier = "archive"
 url = "/posts/"
 weight = 3
 
-[languages.pl]
-languageName = "Polski"
+[languages.ru]
+languageName = "Russian"
 
-[[languages.pl.menu.main]]
+[[languages.ru.menu.main]]
 identifier = "about"
-name = "O Hugo"
+name = "О авторе"
 url = "/about/"
 weight = 1
 
-[[languages.pl.menu.main]]
+[[languages.ru.menu.main]]
 identifier = "tags"
-name = "Tagi"
+name = "Теги"
 url = "/tags/"
 weight = 2
 
-[[languages.pl.menu.main]]
+[[languages.ru.menu.main]]
 identifier = "archive"
-name = "Archiwum"
+name = "Архив"
 url = "/posts/"
 weight = 3
 
-[[languages.pl.params]]
-locale = "pl-pl"
+[[languages.ry.params]]
+locale = "ru-ru"
 
 [taxonomies]
 category = "categories"
