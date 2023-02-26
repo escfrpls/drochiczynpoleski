@@ -8,14 +8,14 @@ menu:
   subpage:
     identifier: about-subpage-s
     parent: about
-    name: About Subpage
+    name: О авторе
     title: About Subpage
     url: /about/subpage/
     weight: 1
   subpage2:
     identifier: about-subpage2-s
     parent: about
-    name: Second About Subpage
+    name: О проекте
     title: Second About Subpage
     url: /about/subpage2/
     weight: 10
