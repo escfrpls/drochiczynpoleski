@@ -2,21 +2,21 @@
 title: "About"
 description: "Hugo, the world’s fastest framework for building websites"
 date: "2019-02-28"
-aliases: ["about-us","about-hugo","contact"]
+aliases: ["about-ru","about-hugo","contact"]
 author: "Hugo Authors"
 menu:
   subpage:
     identifier: about-subpage
     parent: about
-    name: About the author
-    title: About the author
+    name: О авторе
+    title: О авторе
     url: /about/subpage/
     weight: 1
   subpage2:
     identifier: about-subpage2
     parent: about
-    name: About the project
-    title: About the project
+    name: О проекте
+    title: О проекте
     url: /about/subpage2/
     weight: 10
 ---
