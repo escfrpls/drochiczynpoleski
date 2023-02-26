@@ -1,6 +1,6 @@
 ---
-title: "About Subpage"
-description: "About Subpage"
+title: "О авторе"
+description: "О авторе"
 date: "2019-02-28"
 author: "Hugo Authors"
 slug: /about/subpage

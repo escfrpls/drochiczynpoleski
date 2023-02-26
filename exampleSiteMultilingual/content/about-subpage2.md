@@ -1,6 +1,6 @@
 ---
-title: "Second About Subpage"
-description: "Second About Subpage"
+title: "About the project"
+description: "About the project"
 date: "2019-02-28"
 author: "Hugo Authors"
 slug: /about/subpage2
