@@ -1,8 +1,9 @@
 ---
 title: "Antopol, the Estate of the Breverns"
 date: "2023-03-01"
+categories: 
 tags: 
-  - "Antopol" "Brewern"
+  - "Antopol" 
 ---
 
 In the past Antopol was part of a large landed property. In the XVIII and XIX centuries, it belonged to the Bystry family, then to the Giedroyts. At the turn of the XVIII-XIX centuries a classicist mansion was built there.
