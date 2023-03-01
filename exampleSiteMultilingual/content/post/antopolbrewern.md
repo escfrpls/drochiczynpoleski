@@ -17,15 +17,17 @@ In the second half of the 19th century Duke Romuald Giedroytz married Barbara vo
 
 A drawing of the Napoleon Orda estate for 1861-1877 has been preserved.
 
-![](https://ibb.co/p1H8bbh)
+<img src="https://i.ibb.co/nwXv66P/1.webp" alt="1" border="0">
 
 View from the side of the access road. One-story mansion with columned portico porch and leading above wide staircase. Inscription: Antopol; inscription on the backing: Antopol Grodno.
 
 During the II Rzeczypospolitej (1918 - 1938) the manor house gradually fell into decline, with the arrival of the Communist regime it was finally destroyed. The only thing that remained was a part of the manor park.
 
-![](https://ibb.co/s3Cq0zH)
+<img src="https://i.ibb.co/12MTDj6/2.webp" alt="2" border="0">
 
 The place where the manor house was in Antopol.
+
+***
 
 References and information used in the material:
 
