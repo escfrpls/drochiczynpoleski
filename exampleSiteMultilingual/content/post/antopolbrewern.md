@@ -9,9 +9,6 @@ tags:
   - "Antopol"
 ---
 
-
-## Antopol, the estate of the Breverns.
-
 In the past Antopol was part of a large landed property. In the XVIII and XIX centuries, it belonged to the Bystry family, then to the Giedroyts. At the turn of the XVIII-XIX centuries a classicist mansion was built there.
 
 > It was one-storey, with a rectangular base, with a four-pitch roof with mansard windows. The portico was decorated with a triangular top. The mansion was surrounded by a landscaped park. Nowadays, only groups of trees and fragments of the driveway mark the place of the former mansion.
