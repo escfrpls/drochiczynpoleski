@@ -1,7 +1,6 @@
 ---
 title: "About"
 description: "About"
-date: "2023-02-26"
 aliases: ["about-us","about-hugo","contact"]
 author: "Tymoteusz Kaljuita"
 menu:

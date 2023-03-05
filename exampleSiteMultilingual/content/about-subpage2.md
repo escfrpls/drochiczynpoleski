@@ -1,7 +1,6 @@
 ---
 title: "Support the project"
 description: "Support the project"
-date: "2023-02-26"
 author: "Tymoteusz Kaljuta"
 slug: /about/subpage2
 menu:

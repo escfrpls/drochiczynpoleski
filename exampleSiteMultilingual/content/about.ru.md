@@ -1,7 +1,6 @@
 ---
 title: "Информация"
 description: "Информация"
-date: "2023-02-26"
 aliases: ["about-ru","about-hugo","contact"]
 author: "Tymoteusz Kaljuta"
 menu:

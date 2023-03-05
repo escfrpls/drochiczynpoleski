@@ -1,7 +1,6 @@
 ---
 title: "About the project"
 description: "About the project"
-date: "2023-02-26"
 author: "Tymoteusz Kaljuita"
 slug: /about/subpage
 menu:
@@ -21,7 +20,9 @@ menu:
     weight: 10
 ---
 
-The project "Drochiczyn Poleski" was created for people who are interested in their family, history and native places of Drohiczyn district, now Republic of Belarus.
+Site “Drohiczyn-Poleski” is dedicated to the history of Drohiczyn and Drohiczyn district.
+Here are collected materials ranging from the first mentioning of the city and settlements, churches, forgotten cemeteries, historical sites which are part of the Drohiczyn district or have ever been to this day.
+This site is maintained only by me in 2 languages: Russian and English.
 
 Each article is updated as new facts emerge. On the site menu "Tags", you can select the desired settlement or other information that interests you and you will see a directory of articles on your area. 
 In the article be sure to search and specify local history books on settlements and the place where they are stored (online or archive).
