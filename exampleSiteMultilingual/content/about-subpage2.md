@@ -21,4 +21,8 @@ menu:
     weight: 10
 ---
 
+This project is created entirely free of charge. To help people in search of documents, their relatives, or someone who wants to learn more about the homeland of their ancestors. 
 
+But in any case, if you want you can support the project through the links below. All funds raised will go to improve the site, pay for hosting and other improvements to the project.
+
+[<img src="https://i.ibb.co/cNy45h6/paypal.png">](https://paypal.me/EsFrPls?country.x=PL&locale.x=en_US)
