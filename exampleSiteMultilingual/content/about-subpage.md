@@ -21,4 +21,11 @@ menu:
     weight: 10
 ---
 
+The project "Drochiczyn Poleski" was created for people who are interested in their family, history and native places of Drohiczyn district, now Republic of Belarus.
+
+Each article is updated as new facts emerge. On the site menu "Tags", you can select the desired settlement or other information that interests you and you will see a directory of articles on your area. 
+In the article be sure to search and specify local history books on settlements and the place where they are stored (online or archive).
+
+Aim of the project: To help and guide people who are interested in history of their family that looking for genealogy and history of your area is not so difficult. You don't always have to pay money in order to get a result. 
+Also, as much as possible to help restore family ties that have been severed due to war, revolutions and migrations to other countries. This site will also contain quite a few historical facts before 1939.
 
