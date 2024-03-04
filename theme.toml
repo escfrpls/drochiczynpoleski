@@ -19,7 +19,3 @@ tags = [
     "multilingual"
 ]
 features = ["blog"]
-
-[author]
-    name = "Dmitry Kolosov"
-    homepage = "http://dmitrykolosov.ru"
