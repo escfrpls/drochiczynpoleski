@@ -12,6 +12,7 @@ tags = [
 As we can see the manor is called on the plan "Tolkovo Manor". And the very name "Tolkovo" as a village, is formed from 3 villages there. Kagaly, Kazany and Yatskivtsi.</p>
 <!--more-->
 
-![Maps](https://res.cloudinary.com/dppjmfllq/image/upload/v1677349038/test2_r0bzfe.png)
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53607065502/in/dateposted-public/" title="obraz"><img src="https://live.staticflickr.com/65535/53607065502_5d8ded4ca2_h.jpg" width="1465" height="932" /></a>
+
 [Download File](https://drive.google.com/file/d/1_YmG5LQ1zEs-84lmxn25iqO14XsLmunG)
 
