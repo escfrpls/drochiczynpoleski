@@ -45,9 +45,8 @@ id = "linkedin"
 url = "https://www.linkedin.com/in/tymoteusz-kaljuta-180b97216/"
 
 [[params.social]]
-id = "telegram"
-url = "https://t.me/+Z7Ad_SV6jFphNzhk"
-
+id = "github"
+url = "https://github.com/escfrpls"
 
 [languages.en]
 languageName = "English"
