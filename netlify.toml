@@ -1,5 +1,5 @@
 [build]
-publish = "exampleSiteMultilingual/public"
+publish = "drgpls/public"
 command = "cd drgpls && hugo --themesDir=../.. --baseURL $URL"
 
 [build.environment]
