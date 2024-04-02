@@ -1,0 +1,101 @@
+baseURL = "https://drochiczynpoleski.com"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+title = "Drochiczyn Poleski"
+theme = "anubis"
+paginate = 3
+
+disqusShortname = ""
+googleAnalytics = ""
+
+[author]
+name = "Tymoteusz Kaljuta"
+
+[params]
+author = "Timotheus Kaljuta"
+description = "The history of my family and the region of Drochiczyn Poleski"
+dateFormat = "2006-01-02"
+paginationSinglePost = true
+style = "auto"
+readMore = false
+readNextPosts = 2
+copyCodeButton = true
+rssAsSocialIcon = true
+locale = "en-us"
+
+# Graphcomment support
+graphcommentId = ""
+
+# utteranc.es support
+utterancesRepo = ""  # mandatory
+utterancesTheme = "" # optional
+utterancesIssue = "" # optional
+utterancesLabel = "" # optional
+  
+[[params.social]]
+id = "facebook"
+url = "https://www.facebook.com/timkaljuta"
+
+[[params.social]]
+id = "instagram"
+url = "https://www.instagram.com/drohiczynpoleski"
+
+[[params.social]]
+id = "linkedin"
+url = "https://www.linkedin.com/in/tymoteusz-kaljuta-180b97216/"
+
+[[params.social]]
+id = "github"
+url = "https://github.com/escfrpls"
+
+[languages.en]
+languageName = "English"
+
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 1
+
+[[menu.main]]
+identifier = "tags"
+name = "Tags"
+url = "/tags/"
+weight = 2
+
+[[menu.main]]
+name = "Archive"
+identifier = "archive"
+url = "/posts/"
+weight = 3
+
+[languages.ru]
+languageName = "Russian"
+
+[[languages.ru.menu.main]]
+identifier = "about"
+name = "О авторе"
+url = "/about/"
+weight = 1
+
+[[languages.ru.menu.main]]
+identifier = "tags"
+name = "Теги"
+url = "/tags/"
+weight = 2
+
+[[languages.ru.menu.main]]
+identifier = "archive"
+name = "Архив"
+url = "/posts/"
+weight = 3
+
+[[languages.ry.params]]
+locale = "ru-ru"
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+
+[markup.goldmark.renderer]
+unsafe = true
