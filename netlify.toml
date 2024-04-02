@@ -1,13 +1,13 @@
 [build]
 publish = "exampleSiteMultilingual/public"
-command = "cd exampleSiteMultilingual && hugo --themesDir=../.. --baseURL $URL"
+command = "cd drgpls && hugo --themesDir=../.. --baseURL $URL"
 
 [build.environment]
 HUGO_VERSION = "0.92.0"
 HUGO_THEME = "repo"
 
 [context.deploy-preview]
-command = "cd exampleSiteMultilingual &&  hugo --themesDir=../.. --buildFuture --buildDrafts --baseURL $DEPLOY_PRIME_URL"
+command = "cd drgpls &&  hugo --themesDir=../.. --buildFuture --buildDrafts --baseURL $DEPLOY_PRIME_URL"
 
 [[headers]]
   for = "/*"
