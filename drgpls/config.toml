@@ -1,7 +1,7 @@
-baseURL = "https://drochiczynpoleski.com"
+baseURL = "https://drohiczyn-poleski.com"
 languageCode = "en-us"
 defaultContentLanguage = "en"
-title = "Drochiczyn Poleski"
+title = "Drohiczyn Poleski"
 theme = "anubis"
 paginate = 3
 
@@ -13,7 +13,7 @@ name = "Tymoteusz Kaljuta"
 
 [params]
 author = "Timotheus Kaljuta"
-description = "The history of my family and the region of Drochiczyn Poleski"
+description = "The history of my family and the region of Drohiczyn Poleski"
 dateFormat = "2006-01-02"
 paginationSinglePost = true
 style = "auto"
