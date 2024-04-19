@@ -24,5 +24,7 @@ menu:
 
 Но в любом случае, если вы захотите можете поддеражть проект по ссылками ниже. Все собранные средства пойдут на улучшение сайта, оплаты хостинга и другие возможности улучшение проекта.
 
-[<img src="https://i.ibb.co/cNy45h6/paypal.png" width="200"/>(https://paypal.me/EsFrPls?country.x=PL&locale.x=en_US)
+![image width="200"](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/7045bc92-762d-4624-8a21-a250dd144c07)
+
+
 
