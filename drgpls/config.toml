@@ -10,7 +10,7 @@ googleAnalytics = ""
 
 [author]
 name = "Tymoteusz Kaljuta"
-The project works on [Netlify](https://netlify.com)
+name = "The project works on [Netlify](https://netlify.com)"
 
 [params]
 author = "Timotheus Kaljuta"
