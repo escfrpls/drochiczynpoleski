@@ -25,6 +25,6 @@ This project is created entirely free of charge. To help people in search of doc
 But in any case, if you want you can support the project through the links below. All funds raised will go to improve the site, pay for hosting and other improvements to the project.
 
 [<img src="https://i.ibb.co/cNy45h6/paypal.png">](https://paypal.me/EsFrPls?country.x=PL&locale.x=en_US)
-<a href="https://ibb.co/kBxtQ2S"><img src="https://i.ibb.co/KhXJFxr/kogi.jpg" alt="kofi" border="0"></a>
+<a href="https://ko-fi.com/drohiczynpoleski"><img src="https://i.ibb.co/KhXJFxr/kogi.jpg" alt="kofi" border="0"></a>
 
 
