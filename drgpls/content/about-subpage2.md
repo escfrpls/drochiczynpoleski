@@ -25,3 +25,5 @@ This project is created entirely free of charge. To help people in search of doc
 But in any case, if you want you can support the project through the links below. All funds raised will go to improve the site, pay for hosting and other improvements to the project.
 
 [<img src="https://i.ibb.co/cNy45h6/paypal.png">](https://paypal.me/EsFrPls?country.x=PL&locale.x=en_US)
+<br>
+https://ko-fi.com/drohiczynpoleski ![image](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/56cadd97-fbc6-4af2-82c0-2765dbe22360)
