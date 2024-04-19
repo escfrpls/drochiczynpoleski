@@ -26,5 +26,4 @@ But in any case, if you want you can support the project through the links below
 
 [<img src="https://i.ibb.co/cNy45h6/paypal.png">](https://paypal.me/EsFrPls?country.x=PL&locale.x=en_US)
 <br>
-https://ko-fi.com/drohiczynpoleski ![image]()
-[<img src="[![image](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/4e8dc4b9-3c81-4dc4-9bbe-3b24d93ab074)" width="200">](https://ko-fi.com/drohiczynpoleski)
+[<img src="https://ibb.co/kBxtQ2S)" width="200">](https://ko-fi.com/drohiczynpoleski)
