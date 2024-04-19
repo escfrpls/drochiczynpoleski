@@ -26,5 +26,5 @@ But in any case, if you want you can support the project through the links below
 
 [<img src="https://i.ibb.co/cNy45h6/paypal.png">](https://paypal.me/EsFrPls?country.x=PL&locale.x=en_US)
 <br>
-<a href="[https://ibb.co/kBxtQ2S"](https://ko-fi.com/drohiczynpoleski)><img src="https://i.ibb.co/KhXJFxr/kogi.jpg" alt="kogi" border="0"></a>
+<a href="[https://ibb.co/kBxtQ2S"]</a>(https://ko-fi.com/drohiczynpoleski)><img src="https://i.ibb.co/KhXJFxr/kogi.jpg" alt="kogi" border="0"></a>
 
