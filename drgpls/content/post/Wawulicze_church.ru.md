@@ -17,7 +17,8 @@ tags:
 
 В списке христианских католических поселений 1726 года упоминаются Вавуличи (Wawuliga). Парафии Бездеж, это подтверждает, что на то время уже там была действующая церковь.
 
-(https://github.com/escfrpls/drochiczynpoleski/tree/main/drgpls/content/img/Wawulicze/1725_53659884938_o.jpg)
+<img src="[relative/path/in/repository/to/image.svg](https://github.com/escfrpls/drochiczynpoleski/tree/main/drgpls/content/img/Wawulicze/1725_53659884938_o.j)" width="128"/>
+
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53659884938/in/dateposted-public/" title="1725"><img src="https://live.staticflickr.com/65535/53659884938_cf5b3af63e_m.jpg" width="240" height="55" alt="1725"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Также в архиве РГИА имеются сохранившиеся униатские метрики церкви с 1735 по 1798 гг.
