@@ -19,8 +19,7 @@ tags:
 
 ![Image](https://github.com/escfrpls/drochiczynpoleski/blob/2fa0d0ecdf4ebf2aab1dc81ecbca68f6c76daf3e/drgpls/content/img/Wawulicze/1725_53659884938_o.jpg)
 
-![Image]([drgpls/content/img/Wawulicze/1725_53659884938_o.jpg])
-
+![1725_53659884938_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/09e2ee4b-9306-439c-9767-de08adc33c89)
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53659884938/in/dateposted-public/" title="1725"><img src="https://live.staticflickr.com/65535/53659884938_cf5b3af63e_m.jpg" width="240" height="55" alt="1725"/>
 
