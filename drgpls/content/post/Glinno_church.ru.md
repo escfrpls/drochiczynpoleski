@@ -8,7 +8,7 @@ tags:
 
 Первое упоминание о церкви в Глинно можно отнести к 1660 г. Тогдашнюю православную разрушило войско польское. Данная запись упоминается в книге Володимира Леонтюка "Словник Берестейщини".
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53659894953/in/dateposted-public/" title="1660"><img src="https://live.staticflickr.com/65535/53659894953_4a2664665b_m.jpg" width="240" height="50" alt="1660"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1660_53659894953_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/e1529819-84f9-4295-bd8b-62224479d1aa)
 
 Не известно в каком году и кем была построена или восстановлена старая православная церковь. В следующих записях данная церковь упоминается как униатская. Подтверждение тому список греко-католических священнослужителей в Глинно:
 
@@ -23,16 +23,17 @@ tags:
 
 Также не имеется сведений, что стало с униатской церковью, но в 1773 году Антоний Куликовский строит (или восстанавливает) церковь в Глинно.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53660139065/in/dateposted-public/" title="1773"><img src="https://live.staticflickr.com/65535/53660139065_9b0ec4cbbd_m.jpg" width="240" height="159" alt="1773"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1773_53660139065_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/82db0fd6-4cb3-4688-8613-93000bf6c48e)
 
 Начиная с 1754 по 1801 гг. В РГИА имеются униатские метрические книги по нашей церкви.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53660139255/in/dateposted-public/" title="1791-1801"><img src="https://live.staticflickr.com/65535/53660139255_97c75f771a_m.jpg" width="240" height="28" alt="1791-1801"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1791-1801_53660139255_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/3c072254-9a07-4d05-a061-310cd1e7aee1)
 
 После Полоцкого собора, церковь была передана православным. В время Российской Империи, церковь была действующая, что подтверждают карты тех времен Шуберта и Риттиха.
 
 <figure>
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53659668661/in/dateposted-public/" title="1864"><img src="https://live.staticflickr.com/65535/53659668661_2dfbe18ba0_m.jpg" width="240" height="189" alt="1864"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+![1864_53659668661_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/a1f15fbb-042f-49f8-bb46-a24b4173f2bd)
 
 <figcaption>
 
@@ -43,8 +44,8 @@ tags:
 </figure>
 
 <figure>
-
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53660139725/in/dateposted-public/" title="1866-1867"><img src="https://live.staticflickr.com/65535/53660139725_e302cecb81_m.jpg" width="240" height="109" alt="1866-1867"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  
+![1866-1867_53660139725_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/debcb63d-8786-4a4f-9d52-b30728954f3b)
 
 <figcaption>
 
@@ -56,7 +57,7 @@ tags:
 
 Во время II Rzeczypospolitej до начала второй мировой войны, церковь также была действующая, была отмечена на польских картах.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53660139945/in/dateposted-public/" title="1919-1938"><img src="https://live.staticflickr.com/65535/53660139945_739b13d8a0_m.jpg" width="240" height="105" alt="1919-1938"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1919-1938_53660139945_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/40d5c428-a854-404d-9090-807f2130d855)
 
 На сегодняшний момент в Глинно церкви нет, к сожалению информации о судьбе церкви после 2-й мировой не известно, кто и когда ее разрушил. Возможно статью, получиться в будущем дополнить после запроса в благочиние по Ивановскому району.
 
