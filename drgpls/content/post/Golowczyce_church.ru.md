@@ -7,19 +7,19 @@ tags:
 
 Точных данных о строительстве либо уже действующей церкви до Брестской унии нет. Первое официальное упоминание на данный момент можно считать в списке христианских католических поселений 1726 года, где упоминаются Hołowczyce.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53659903823/in/dateposted-public/" title="1725-2"><img src="https://live.staticflickr.com/65535/53659903823_45a0d19563_m.jpg" width="240" height="68" alt="1725-2"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1725-2_53659903823_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/475c6e9a-9a41-4e09-9a60-67869e8f7716)
 
 В описание "Описания церквей и приходов. Гродненский православно-церковный календарь. Том 1", упоминается, что действующая церковь была построена владельцем Головчицкого имения Кутниковым и прихожанами в 1766 году на месте старой церкви, которая сгорела. Строилась как униатская. Во время постройки использовались материалы старого Тороканского храма.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53660037324/in/dateposted-public/" title="1766"><img src="https://live.staticflickr.com/65535/53660037324_f1d0e6a115_m.jpg" width="220" height="240" alt="1766"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1766_53660037324_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/d6504267-19a6-40f0-a66d-8fba7d280390)
 
 В архиве РГИА сохранились униатские метрические книги от 1767 до 1801 гг.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53659676946/in/dateposted-public/" title="1767-1801"><img src="https://live.staticflickr.com/65535/53659676946_2c2cab0d73_m.jpg" width="240" height="22" alt="1767-1801"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1767-1801_53659676946_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/4a3f2afa-d3da-4a21-9695-90ff859e61ba)
 
 На сайте мармонов также имеются униатские метрики за 1823 год.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53659904158/in/dateposted-public/" title="1823"><img src="https://live.staticflickr.com/65535/53659904158_664cafe11f_m.jpg" width="240" height="95" alt="1823"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1823_53659904158_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/dc1440dc-ad40-4346-81f1-5ba86338c235)
 
 Также есть записи о униатских священниках, которые несли службу в Головчицах:
 
@@ -31,23 +31,23 @@ tags:
 
 На картах Риттиха за 1864 г. на картах в Головчицах отмечен православный приход.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53658817197/in/dateposted-public/" title="1864-4"><img src="https://live.staticflickr.com/65535/53658817197_72f228e26d_m.jpg" width="240" height="204" alt="1864-4"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1864-4_53658817197_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/193e7c92-67fa-4360-84b8-2abefbb9fc98)
 
 1866 год и на картах Шуберта, также он имеется.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53659904488/in/dateposted-public/" title="1866"><img src="https://live.staticflickr.com/65535/53659904488_9df08652aa_m.jpg" width="240" height="126" alt="1866"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1866_53659904488_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/52c669ea-0a99-4be8-bc21-0b3e4f454785)
 
 В 1875 году церковь была отремонтирована. В ходе ремонта был устроен новый иконостас и новый пол.
 
 Имеется фото церкви на начало XX века.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53660037879/in/dateposted-public/" title="xx"><img src="https://live.staticflickr.com/65535/53660037879_848d33c5da_m.jpg" width="240" height="180" alt="xx"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![xx_53660037879_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/9d549996-6e98-451a-a084-d38f594c70aa)
 
 Но по неизвестным причинам церковь была утрачена в начале 20 века. Тогда в деревне Повить Кобринского района была разобрана церковь и материал из церкви был доставлен в деревню Головчицы для восстановления храма. Он был построен «крестом» и действовал до 1942 года.
 
 Во время II Rzeczpospolita храм был действующий, также был отмечен на польских картах 1919 — 1939 гг.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53659677496/in/dateposted-public/" title="1919-1939-5"><img src="https://live.staticflickr.com/65535/53659677496_c154b3aed9_m.jpg" width="240" height="110" alt="1919-1939-5"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1919-1939-5_53659677496_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/e0388a14-f91d-43b0-b0e9-2e38b5155aab)
 
 Из воспоминаний старожилов, в 1942 году в Великую Пятницу Страстной седмицы днем, перед выносом Плащаницы, произошел пожар. Из церковной утвари удалось спасти хоругви и гроб Плащаницы. После пожара несколько богослужений проводилось на пепелище, а затем прихожане стали ходить в церковь д. Толково. По разрешению немецких властей вскоре церковь была отстроена из разобранной и перевезенной еврейской синагоги с Антополя. Богослужения начали совершать уже в 1943 году на Пасху.  
 В 1948 семья священника была репрессирована и вывезена в Сибирь, а священник расстрелян.  
@@ -56,7 +56,7 @@ tags:
 
 <figure>
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53658817777/in/dateposted-public/" title="2005"><img src="https://live.staticflickr.com/65535/53658817777_091293994c_m.jpg" width="240" height="176" alt="2005"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![2005_53658817777_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/d5dc45ef-2eb9-4f17-bd72-453ee6247371)
 
 <figcaption>
 
