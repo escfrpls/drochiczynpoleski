@@ -7,7 +7,8 @@ tags:
 
 Церковь в Белине была построена в 1785 года родом Ожешко. Что потверждается в "«Описания церквей и приходов. Гродненский православно-церковный календарь. Том 1» Также написанно в данном документе, что в 1880 году церковь пришла в упадок. Однако это информация не верно, подробности будут описаны ниже.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53657009522/in/dateposted-public/" title="ikona"><img src="https://live.staticflickr.com/65535/53657009522_2abe0e818a_m.jpg" width="195" height="240" alt="ikona"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![ikona_53657009522_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/f53e7124-12e3-459b-86a4-ce029d39f75d)
+
 
 Самое ранее упоминание о данной церкви это список униатских священослужителей, также стоит отметить, что в 1832 года, она уопинается как каплица и считается приписной к Осовской церкви.
 
@@ -17,17 +18,18 @@ tags:
 
 На "Карта народонаселения Гродненской губернии из атласа Риттиха", церковь в отмечена в "Белинскъ" как приписная.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53658233344/in/dateposted-public/" title="1864"><img src="https://live.staticflickr.com/65535/53658233344_c3f8966290_m.jpg" width="200" height="85" alt="1864"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1864_53658233344_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/4cbae70d-c4ce-43b9-8a00-18b2c817bf3b)
+
 
 На картах Шуберта 1866 - 1867 гг. церковь тоже была отмечена на карте.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53657882701/in/dateposted-public/" title="1866-67"><img src="https://live.staticflickr.com/65535/53657882701_0e49633d5a_n.jpg" width="320" height="223" alt="1866-67"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1866-67_53657882701_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/621ef014-c04c-40f5-bb3d-3b411a7384e9)
 
 Во времена II Rzeczpospolitej (1918 - 1939) на картах обозначена как действущая каплица. После II мировой войны, каплица пришла в упадок и не сохранилась.
 
 Примерное место, где была каплица на сегодняшних картах.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53657882841/in/dateposted-public/" title="2019"><img src="https://live.staticflickr.com/65535/53657882841_87f0c991a8_n.jpg" width="320" height="255" alt="2019"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![2019_53657882841_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/3a974fa3-a32f-4dce-8210-357df661b955)
 
 Ссылки и информация используемая в материале:
 
