@@ -21,7 +21,9 @@ During the II Rzeczypospolitej (1918 - 1938) the manor gradually fell into decay
 
 
 <figure>
-![2020-3_53615176378_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/7d2e9a52-995a-43a1-8d03-5ec9e80d6aa6)
+
+![2020-3_53615176378_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/21c1b18e-0135-401f-98ca-f81daab2c797)
+
 
 <figcaption>
 
