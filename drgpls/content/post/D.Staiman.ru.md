@@ -5,7 +5,7 @@ tags:
   - "Хомск"
 ---
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53635510261/in/dateposted-public/" title="steinman"><img src="https://live.staticflickr.com/65535/53635510261_6a11dc78f8_m.jpg" width="209" height="240" alt="steinman"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![image](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/3213500a-65b0-42a0-aa35-d15ea082f5c9)
 
 Давид Стайнман (David Barnard Steinman) - американский инженер-мостостроитель.
 
