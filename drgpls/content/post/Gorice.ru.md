@@ -9,7 +9,7 @@ tags:
 
 <figure>
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53635953720/in/dateposted-public/" title="1864"><img src="https://live.staticflickr.com/65535/53635953720_bd7f86b049_m.jpg" width="240" height="159" alt="1864"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1864_53635953720_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/351fb08d-57b6-462a-8a07-7c29b5c2d778)
 
 <figcaption>
 
@@ -21,7 +21,7 @@ tags:
 
 Во время II Rzeczpospolita 1919 - 1939 гг. На карте упоминаются Horyce уже как деревня на том же месте где сейчас находится деревня, выше же на карте можно увидеть фольварек Horyce, который был отмечен на картах Шуберта.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53635843209/in/dateposted-public/" title="1919-1939"><img src="https://live.staticflickr.com/65535/53635843209_586c9374ab_m.jpg" width="240" height="184" alt="1919-1939"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1919-1939_53635843209_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/ab4a397b-fdac-4a3f-875c-5295109fb65b)
 
 Подтверждение того, что деревня Горице уже существовала до прихода СССР на территорию западной Беларуси подтверждает запись 27 Пехотной Волынской дивизии (27 Wołyńska Dywizja Piechoty) 1944-1945 года.
 
