@@ -9,15 +9,15 @@ tags:
 
 В описание книги 1909г. "Przewodnik po Litwie i Białejrusi" N. Rouba, упоминается капелла в Антополе, в Гродненской губернии.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53636013714/in/album-72177720316033635/" title="1909"><img src="https://live.staticflickr.com/65535/53636013714_f0882231aa_m.jpg" width="240" height="144" alt="1909"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1909_53636013714_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/32b5e31e-176b-4d64-9ffc-7ea032a495d6)
 
 Также упоминание о постройке костела есть в книге "Збор помнікаў гісторыі і культуры. Брестская область"
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53635885808/in/album-72177720316033635/" title="1838"><img src="https://live.staticflickr.com/65535/53635885808_71d7856b6a_m.jpg" width="210" height="240" alt="1838"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1838_53635885808_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/50ceb2f5-36cb-4fc4-aff9-bd5d929d251c)
 
 Учитываю, что каппела относилась к Городецкой парафии, Кобринско-Римского деканата, стоит обратить внимание на сохранившиеся метрические книги по данной местности на сайте мармонов с 1706 по 1866 года.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53635886063/in/album-72177720316033635/" title="1706-1866"><img src="https://live.staticflickr.com/65535/53635886063_3f4f68b927_m.jpg" width="240" height="83" alt="1706-1866"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1706-1866_53635886063_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/b06cf3f4-6195-43f9-94fa-d061a25f6542)
 
 На картах Шуберта и Риттиха 1866 - 1890 каппела не была отмечена на карте.
 
@@ -27,15 +27,16 @@ tags:
 
 Также каппела была отмечена на польских картах того времени.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53635679506/in/album-72177720316033635/" title="1919"><img src="https://live.staticflickr.com/65535/53635679506_fc643ecf67_m.jpg" width="240" height="200" alt="1919"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1919_53635679506_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/44b2dd00-799b-4329-8431-9c1a70a6d87a)
 
 После войны костел пришел в упадок, сейчас там находится пожарная часть города Антополь.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53634784237/in/album-72177720316033635/" title="20203"><img src="https://live.staticflickr.com/65535/53634784237_862a6f5ebc_m.jpg" width="180" height="240" alt="20203"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![20203_53634784237_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/11eae731-3008-44ca-9c6f-d01dbe2c6233)
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53634784842/in/album-72177720316033635/" title="2020-2"><img src="https://live.staticflickr.com/65535/53634784842_3554986190_m.jpg" width="240" height="180" alt="2020-2"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![2020-2_53634784842_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/f1a6209a-27df-4172-afb5-0585888ed2ea)
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53636126155/in/album-72177720316033635/" title="20202"><img src="https://live.staticflickr.com/65535/53636126155_1824c34379_m.jpg" width="180" height="240" alt="20202"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![20202_53636126155_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/d3721f5a-d535-4ddf-b29b-de75777e49c4)
+
 
 Ссылки и информация используемая в материале:
 
