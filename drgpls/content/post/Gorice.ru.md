@@ -9,7 +9,7 @@ tags:
 
 <figure>
 
-![1864_53635953720_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/351fb08d-57b6-462a-8a07-7c29b5c2d778)
+![1864_53635953720_o](https://github.com/escfrpls/drochiczynpoleski/blob/ba0aebbc04cefea18917f2b76a6b19f1cc7db6cd/assets/1726-1_.jpg)
 
 <figcaption>
 
