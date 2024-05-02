@@ -9,7 +9,7 @@ tags:
 
 Церковь после подписания унии была переведа в греко-католичество, тому подтверждение сохранившиеся метрические униатские книги в РГИА за 1800-1801 гг.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53659899633/in/dateposted-public/" title="1800-1801"><img src="https://live.staticflickr.com/65535/53659899633_c349042c0f_m.jpg" width="240" height="27" alt="1800-1801"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1800-1801_53659899633_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/ec8acc23-fdbd-4d5f-99dd-e062744c8fc1)
 
 Также имеется список униатских священнослужителей с 1759 года:
 
@@ -23,15 +23,15 @@ tags:
 
 Стоить отметить, что в 1820 году, церковь была построена заново. Не известно по какой причине была разрушена старая. Это упоминается в "Описания церквей и приходов. Гродненский православно-церковный календарь. Том 1". Сооружил (либо отреставрировал) ее Иосиф Гутовский. На то время она была греко-католическая.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53658812722/in/dateposted-public/" title="1820"><img src="https://live.staticflickr.com/65535/53658812722_17bfe4590b_m.jpg" width="240" height="155" alt="1820"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1820_53658812722_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/22e5e2ad-5efb-4f41-8bfc-7c6839aa7921)
 
 После полоцкого собра 1839 года, церковь была передана православным.
 
 На картах 1864 и 1866 годах церковь в Гревчицах отмечена на картах.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53658812867/in/dateposted-public/" title="1864-4"><img src="https://live.staticflickr.com/65535/53658812867_571f5fb9d8_m.jpg" width="240" height="142" alt="1864-4"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1864-4_53658812867_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/9b390ad8-c35a-47b3-bc7d-5439e17e1858)
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53658813017/in/dateposted-public/" title="1866-1867-1"><img src="https://live.staticflickr.com/65535/53658813017_c0ed6e3cdd_m.jpg" width="240" height="98" alt="1866-1867-1"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1866-1867-1_53658813017_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/572d8be3-47bc-4b0c-b821-579278244acc)
 
 15 января 1878 г. Ивановским благочинным было освящено здание церкви после её починки.
 
@@ -39,13 +39,13 @@ tags:
 
 В 1921 году в селе Гневчицы числилось 414 православных христиан и ни одного католика. В период с 1914 по 1923 год приход села Гневчицы входил в состав Ивановской гмины. В 1930 году настоятелем церкви села Гневчицы был священник Николай Микитчук, при котором церковь была отремонтирована.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53659900328/in/dateposted-public/" title="1918-1938"><img src="https://live.staticflickr.com/65535/53659900328_643f404a62_m.jpg" width="240" height="189" alt="1918-1938"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1918-1938_53659900328_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/25c76cfd-0c02-49a4-b65c-aaeadbf2f771)
 
 В начале 1960-х годов прошлого столетия храм был закрыт.
 
 В конце 70-х годов храм был полностью разрушен. В 1999 году была организована православная община, освещён камень под закладку и начато строительство нового храма. на пожертвования прихожан. 24 июня 2002 года был совершен чин основания храма. 24 ноября 2007 г – освящение храма.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53660033949/in/dateposted-public/" title="2020-2"><img src="https://live.staticflickr.com/65535/53660033949_f25b61a53a_m.jpg" width="240" height="160" alt="2020-2"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![2020-2_53660033949_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/f9b3053b-05ae-417e-a759-a5bc7dc004f4)
 
 Ссылки и информация используемая в материале:
 
