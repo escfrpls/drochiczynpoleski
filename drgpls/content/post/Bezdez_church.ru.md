@@ -9,7 +9,8 @@ tags:
 
 В списке христианских католических поселений 1726 года упоминается парафия Biezdziez. Центром парафии был Бездеж, значит на то время там уже был действующий храм.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53659719601/in/dateposted-public/" title="1726-2"><img src="https://live.staticflickr.com/65535/53659719601_c49f437449_m.jpg" width="240" height="54" alt="1726-2"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1726-2_53659719601_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/34aa9e8d-4bfa-4e78-aa5b-aafb2978f796)
+
 
 Действующая Свято-Троицкая церковь была построена в 1784 году на фундаменте униатской церкви XVII века, которая сгорела. По другим данным она была построена 1818 г. на месте опусталого храма. И она также была униатской. Тому подтверждение записей о униатских священниках, которые несли службу в данной церкви до 1839 года:
 
@@ -27,7 +28,7 @@ tags:
 
 <figure>
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53659719846/in/dateposted-public/" title="1864-2"><img src="https://live.staticflickr.com/65535/53659719846_715a72e18f_m.jpg" width="240" height="149" alt="1864-2"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1864-2_53659719846_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/f6b691a5-9b86-4afb-ac3c-f117c2cb9d58)
 
 <figcaption>
 
@@ -41,7 +42,7 @@ tags:
 
 <figure>
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53659947658/in/dateposted-public/" title="1866-1"><img src="https://live.staticflickr.com/65535/53659947658_1c6a8c1472_m.jpg" width="240" height="145" alt="1866-1"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1866-1_53659947658_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/d139510c-9ef9-44e9-99d9-bc3796859194)
 
 <figcaption>
 
@@ -53,16 +54,16 @@ tags:
 
 В книге «Описания церквей и приходов. Гродненский православно-церковный календарь. Том 1», 1899 года. имеется описание Свято-Троицкой церкви в Бездеже.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53660081159/in/dateposted-public/" title="1799"><img src="https://live.staticflickr.com/65535/53660081159_dc36c18560_m.jpg" width="240" height="129" alt="1799"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1799_53660081159_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/d27fd836-048c-4386-a800-1c9cd0f6292e)
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53660190525/in/dateposted-public/" title="1799-2"><img src="https://live.staticflickr.com/65535/53660190525_7b09572a58_m.jpg" width="240" height="116" alt="1799-2"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1799-2_53660190525_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/854ed560-feca-49ee-90e6-0c5db4c1a4e8)
 
 Во времена II Rzeczpospolita (1918 — 1939) имеется карта где отмечены Церковь и Костел.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53659720526/in/dateposted-public/" title="1919-1"><img src="https://live.staticflickr.com/65535/53659720526_5514321fb5_m.jpg" width="240" height="162" alt="1919-1"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1919-1_53659720526_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/b8c8d746-e183-40c0-9ef9-761302d0615a)
 
 1919 - 1939 гг.
 
 В настоящее время храм находится в удовлетворительном состоянии.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53660081489/in/dateposted-public/" title="2015"><img src="https://live.staticflickr.com/65535/53660081489_fe58bbb3cc_m.jpg" width="240" height="163" alt="2015"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![2015_53660081489_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/0dd4fe69-bdd3-4ee9-8d7c-6591d23faf44)
