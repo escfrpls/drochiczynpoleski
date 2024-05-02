@@ -11,7 +11,7 @@ tags:
 
 В списке христианских католических поселений 1726 года упоминаются Horki.
 
-![1864_53635953720_o](https://github.com/escfrpls/drochiczynpoleski/blob/ba0aebbc04cefea18917f2b76a6b19f1cc7db6cd/assets/1726-1_.jpg)
+![1864_53635953720_o](https://github.com/escfrpls/drochiczynpoleski/blob/74847ce28f4eac9d74adff0f550206b36613426b/drgpls/content/img/Gorki/1726-1_53659908563_o.jpg)
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53659908563/in/dateposted-public/" title="1726-1"><img src="https://live.staticflickr.com/65535/53659908563_bc6c9d2568_m.jpg" width="240" height="126" alt="1726-1"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
