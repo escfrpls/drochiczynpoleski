@@ -13,8 +13,7 @@ In the second half of the 19th century, Duke Romuald Giedroyc married Barbara vo
 
 A drawing of the Napoleon Orde estate from 1861-1877 has been preserved.
 
-
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53614966891/in/dateposted-public/" title="1861-1"><img src="https://live.staticflickr.com/65535/53614966891_aa7288c655_z.jpg" width="571" height="395" alt="1861-1"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1861-1_53614966891_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/21800faa-4044-495d-9b30-f52895e6aa9b)
 
 View from the side of the driveway. One-story mansion with a porch in the form of a columned portico and leading above a wide staircase. Inscription: Antopol; inscription on the backing: Antopol g. Grodno.
 
@@ -22,8 +21,7 @@ During the II Rzeczypospolitej (1918 - 1938) the manor gradually fell into decay
 
 
 <figure>
-
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53615176378/in/dateposted-public/" title="2020-3"><img src="https://live.staticflickr.com/65535/53615176378_4fd6e367f5_w.jpg" width="393" height="365" alt="2020-3"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![2020-3_53615176378_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/7d2e9a52-995a-43a1-8d03-5ec9e80d6aa6)
 
 <figcaption>
 
