@@ -10,7 +10,7 @@ tags:
 
 Но стоит упомянуть, что Детковичи упоминаются в "В списке христианских католических поселений 1726 года"
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53660170985/in/dateposted-public/" title="1725-2"><img src="https://live.staticflickr.com/65535/53660170985_7f886b0264_m.jpg" width="240" height="79" alt="1725-2"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1725-2_53660170985_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/44d34007-fde7-4003-9f0c-f533195b6ba3)
 
 Описание церкви:
 
@@ -18,13 +18,13 @@ tags:
 
 В РГИА имеются метрические книга церквь с 1742 по 1801 года.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53659927583/in/dateposted-public/" title="1742-1798"><img src="https://live.staticflickr.com/65535/53659927583_0283cb383a_m.jpg" width="240" height="36" alt="1742-1798"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1742-1798_53659927583_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/0c383610-2584-4b8f-afe7-e28da60ac4ca)
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53659927668/in/dateposted-public/" title="1798-1801"><img src="https://live.staticflickr.com/65535/53659927668_c867ce39cd_m.jpg" width="240" height="20" alt="1798-1801"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1798-1801_53659927668_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/15018617-60c0-48a4-9356-48ae0a0a3ff6)
 
 На сайте мармонов имеется копия метрических записей униатской цервки за 1823 - 1828 года.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53659927853/in/dateposted-public/" title="1823-28"><img src="https://live.staticflickr.com/65535/53659927853_99256942c2_m.jpg" width="240" height="72" alt="1823-28"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1823-28_53659927853_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/3a22a476-75f3-4a34-ba14-b4a0b39f3e7b)
 
 Также имеется список униатского духовенства:
 
@@ -38,30 +38,30 @@ tags:
 
 На картах Риттиха 1864 года, отмечены Детковичи с храмом.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53659701001/in/dateposted-public/" title="1864-1"><img src="https://live.staticflickr.com/65535/53659701001_5e34c2b15c_m.jpg" width="240" height="140" alt="1864-1"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1864-1_53659701001_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/02b65d92-fc91-4026-a9b1-94e573b704d6)
 
 Уже на картах Шуберта 1866 года, в Детковичах отмечено 2 храма, один наша церковь, второй костёл, который будет описан позже.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53658841722/in/dateposted-public/" title="1866"><img src="https://live.staticflickr.com/65535/53658841722_3985097f9e_m.jpg" width="240" height="160" alt="1866"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1866_53658841722_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/77ccb460-c867-4079-afff-614ea6c1adcc)
 
 В книге 1899 года "Описания церквей и приходов. Гродненский православно-церковный календарь. Том 1". Есть описание церкви.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53659701631/in/dateposted-public/" title="189911"><img src="https://live.staticflickr.com/65535/53659701631_21aaf67f59_m.jpg" width="240" height="60" alt="189911"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![189911_53659701631_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/4b8ab5d3-e0fb-4a8e-bdeb-1e7272cb5f4c)
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53660062564/in/dateposted-public/" title="189922"><img src="https://live.staticflickr.com/65535/53660062564_3612813ece_m.jpg" width="240" height="153" alt="189922"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![189922_53660062564_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/37e6b7ad-1ffe-469d-ad2e-7e6f7de8ad9c)
 
 В 1884 году настоятелем в эту церковь был назначен священник Константин Жукович, который поставил перед собой задачу – обновить и привести в надлежащий вид Божий храм. Перестройка храма была произведена в 1884 году по проекту инженера А. Ремера. Ремонтные работы начались в первые дни мая и уже к 15 октября были закончены.  
 22 октября 1888 года освящение храма совершил благочинный священник Иоанн Огиевич с 6 священниками и диаконом.
 
 Во время II Rzeczypospolitej 1919-1939 храм был действующий, также отмечен на картах того времени.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53659928928/in/dateposted-public/" title="1919-1939-2"><img src="https://live.staticflickr.com/65535/53659928928_525a4bfda6_m.jpg" width="240" height="125" alt="1919-1939-2"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1919-1939-2_53659928928_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/b197655d-6841-4cca-8c94-dc53483a82df)
 
 В настоящее время Свято-Покровская церковь выглядит так: два прямоугольных в плане разновеликих сруба основного объема и апсиды накрыты общей двускатной крышей с вальмами над апсидой и с застрешниками в местах соединения срубов. Над главным фасадом крыша увенчана восьмигранной башенкой с луковичной главкой. Небольшой объем притвора накрыт двускатной крышей. К торцу апсиды присоединен более низкий объем ризницы. Боковые фасады горизонтально обшиты досками, расчленены лопатками и прямоугольными оконными проемами, завершены развитым карнизом. Внутреннее пространство церкви перекрыто плоским потолком, над входом выступают хоры. Перед храмом стоит брама-звонница – двухъярусный четырехгранный объем с пологой шатровой крышей. Первый ярус вертикально обшит досками с нащельниками, второй – открытый, укреплен каркасными стойками. Церковь – памятник народного деревянного зодчества.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53658842537/in/dateposted-public/" title="2011"><img src="https://live.staticflickr.com/65535/53658842537_ddef71fae5_m.jpg" width="160" height="240" alt="2011"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![2011_53658842537_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/d67962f8-66ca-413b-898f-d0079566b021)
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53659702351/in/dateposted-public/" title="201221"><img src="https://live.staticflickr.com/65535/53659702351_400ee22d5f_m.jpg" width="160" height="240" alt="201221"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![201221_53659702351_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/19579d26-615a-4202-8c7c-9cc32ce76424)
 
 Ссылки и информация используемая в материале:
 
