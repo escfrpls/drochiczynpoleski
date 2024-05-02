@@ -9,15 +9,15 @@ tags:
 
 Пожалуй ранним документом упоминания о церкви в Дрогичине является упоминание в "В списке христианских католических поселений 1726 года упоминается Dorochyczyn Oppidum."
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53660030061/in/dateposted-public/" title="1726"><img src="https://live.staticflickr.com/65535/53660030061_cb7a2756be_m.jpg" width="240" height="77" alt="1726"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1726_53660030061_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/62a560ff-7e3d-4830-b76e-041eb21c372f)
 
 Далее в РГИА имеются униатские метрические книги в РГИА с 1760 по 1798 гг.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53660497420/in/dateposted-public/" title="1760-1798"><img src="https://live.staticflickr.com/65535/53660497420_efa524f6e5_m.jpg" width="240" height="34" alt="1760-1798"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1760-1798_53660497420_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/41e70ff1-2349-432d-b873-3e700b00cdec)
 
 Также стоит отметить униатские метрики за 1823 год у мармонов.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53660387364/in/dateposted-public/" title="1823-1"><img src="https://live.staticflickr.com/65535/53660387364_2580230d79_m.jpg" width="240" height="73" alt="1823-1"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1823-1_53660387364_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/522fcbe6-c627-4b91-96c2-fd8fde2d6bf1)
 
 В 1827 году церковь сгорела, удалось спасти лишь икону. Церковь была деревянная и от нее остался только фундамент.
 
@@ -31,7 +31,7 @@ tags:
 
 В 1837 году вышло распоряжение Литовской духовной консистории «О постройке в местечке Дрогичин новой приходской церкви», так как был упразднен униатский монастырь девиц и в распоряжение православной Свято-Сретенской церкви передано каменное одноэтажное здание монастыря. Из-за ветхости этого помещения, тонкости его стен, оно было не пригодно к перестройке в православную церковь. Но при этом там проводились службы, как до полоцкого собора униатские так и после уже православные. Подтверждение тому, сохранившиеся православные метрики в Гродненском архиве.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53659167702/in/dateposted-public/" title="1845-1861"><img src="https://live.staticflickr.com/65535/53659167702_9b49ea6c7c_m.jpg" width="240" height="45" alt="1845-1861"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1845-1861_53659167702_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/b784d292-5f9e-441a-8453-249d679e259d)
 
 Почти 20 лет решался вопрос о возведении нового храма. Только в 1858 году Кобринский уездный представитель дворянства подал прошение в Гродненскую губерн-скую строительную компанию и получил разрешение «…позволить священнику Павловичу заняться заготовкой дерева на постройку церкви на сумму 775 рублей, находящихся в ее наличии».  
 К этому прошению было приложено два плана: один – о настоящем состоянии церкви, другой – на ее перестройку. Гродненской губернской строительной комиссии было рекомендовано произвести смету и чертежи новой церкви.  
@@ -42,23 +42,23 @@ tags:
 
 Также в "Описания церквей и приходов. Гродненский православно-церковный календарь. Том 1", есть упоминание о церкви в Дрогичине.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53660498065/in/dateposted-public/" title="1899_1"><img src="https://live.staticflickr.com/65535/53660498065_e4562d5178_m.jpg" width="240" height="227" alt="1899_1"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1899_1_53660498065_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/86d7d5e4-42c4-478f-92cc-f2982646b326)
 
 Также у мармонов имеются метрические православные книги по цервки за 1912-1914 гг.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53660031166/in/dateposted-public/" title="1912-1914"><img src="https://live.staticflickr.com/65535/53660031166_cc309f1e23_m.jpg" width="240" height="78" alt="1912-1914"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1912-1914_53660031166_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/fe820e55-4aca-4b83-8ccb-78060a539c9f)
 
 На картах Риттиха за 1864 год, православная церковь отмечена на карте в Дрогичине.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53660498435/in/dateposted-public/" title="1864-4"><img src="https://live.staticflickr.com/65535/53660498435_1c4ee257c4_m.jpg" width="240" height="140" alt="1864-4"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1864-4_53660498435_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/185ef09f-b261-46d7-8731-ff0315dafb1e)
 
 Также на картах Шуберна за 1866 - 1887 гг., церковь также отмечена.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53660031546/in/dateposted-public/" title="1866-1887-3"><img src="https://live.staticflickr.com/65535/53660031546_41f146ba6b_m.jpg" width="240" height="148" alt="1866-1887-3"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1866-1887-3_53660031546_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/12197495-ab67-40e8-b74c-9e1957e5eff4)
 
 Во времена II Rzeczypospolitej за 1918 - 1938гг. церковь была действующая православная и была отображена на карте. Но была отмечена как костел.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53660255403/in/dateposted-public/" title="ii"><img src="https://live.staticflickr.com/65535/53660255403_12389b7056_m.jpg" width="240" height="138" alt="ii"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![ii_53660255403_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/e5a01fbc-758b-437d-919e-f55f58210633)
 
 После прихода коммунистической власти, церковь пришла в упадок. К 1970-м годам церковь находилась в бедственном положении. Именно такое «наследство» получил протоиерей Петр Пинчук, переехавший в это время с семьей в Дрогичин.
 
@@ -68,7 +68,7 @@ tags:
 
 На сегодняшний момент церковь действующая и в хорошем состоянии.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53659168762/in/dateposted-public/" title="2018"><img src="https://live.staticflickr.com/65535/53659168762_e4761318d9_m.jpg" width="240" height="135" alt="2018"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![2018_53659168762_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/08db45a3-1e99-47e0-a2d2-d78a95d7a04c)
 
 Ссылки и информация используемая в материале:
 
