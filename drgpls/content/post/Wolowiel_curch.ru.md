@@ -7,19 +7,19 @@ tags:
 
 Точной даты когда была построена церковь в Воловели пока нет и к какой конфессии она относилась. В "Słownik geograficzny Królestwa Polskiego i innych krajów słowiańskich" упоминается гмина Воловель как часть Dobra Królewska Zakoziel (Экономия Закозель).
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53634594262/in/album-72177720316036221/" title="dobra-kr-ka"><img src="https://live.staticflickr.com/65535/53634594262_2101f3c826_n.jpg" width="283" height="46" alt="dobra-kr-ka"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![dobra-kr-ka_53634594262_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/f36e969f-818f-44e8-a3b7-a74d6f7de67d)
 
 Впервые церковь упоминается в 1569 году, в связи с образованием люблинской унии, как униатская.
 
 В списке христианских католических поселений 1726 года упоминается Воловель.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53635824854/in/album-72177720316036221/" title="1726"><img src="https://live.staticflickr.com/65535/53635824854_b8e6c27c56_n.jpg" width="320" height="105" alt="1726"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1726_53635824854_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/21aa7856-a8c4-4c3b-a40d-dbf72162c32a)
 
 Церковь великомученика Георгия Победоносца была построена в 1766 году из дерева. Строилась как униатская церковь. Не известно, что стало со старой церковью и была церковь Георгия Победоносца построена на месте старой церкви.
 
 Имеется описание "Описания церквей и приходов. Гродненский православно-церковный календарь." С описание селений, кол-во прихожан, описание церковной школы и земли при церкви.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53635695778/in/album-72177720316036221/" title="1766"><img src="https://live.staticflickr.com/65535/53635695778_281abbf0ea_n.jpg" width="320" height="232" alt="1766"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1766_53635695778_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/0077d85a-5962-407a-9d76-3377cb2da1b2)
 
 > Церковь сооружена из прямоугольного основного и пятигранного алтарного срубов, объединявшихся двускатой гонтовой крышей, которая образовывала треугольные навесы в местах соединения срубов. Г лавный западный фасад завершон криволинейным фронтоном, фланкированным 2-мя четырехгранными башнями с шатрами и главками над ними. Над алтарным срубом – луковичная главка. С обеих сторон апсиды (свода) пристроены низкие ризница и пономарка. Стены обшиты. Оконные проемы прямоугольные, на главном фасаде – полукруглые люкарны. Над входом — хоры. Апсида выделена деревянным иконостасом выполненным в 1830 годы. (как следует из переписки о предоставлении Литовской епархии ведомостей количества устроенных иконостасов в церквях в 1834 году а воловельской церкви был устроен новый иконостас.) Иконы 18-19 вв. «Георгия Победоносца», «Архангел Михаил», «Богоматерь Умиление». Около церкви находится каркасная двухъярусная колокольня, накрыта низкой шатровой крышей: первый ярус глухой, второй сквозной с дощатым парапетом. Колокольня впервые упоминалась в архивных документах в 1899 году. Сохранился колокол с датой «1858». Свято-Георгиевская церковь является памятником народного деревянного зодчества с элементами барокко.
 
@@ -27,7 +27,7 @@ tags:
 
 Также метрические книги униатов можно найти в РГИА, но к сожалению онлайн они не доступны. С описание можно ознакомится [тут](http://rgia.su/imageViewer/img?url=mZaTmpGekprCl4uLj8XQ0M7IzdHNztHL0cvFxs/Gz9CNmJaeoIyLkI2emJrN0NDPz8/J0M/Lyc/Qz8nJx9GPm5nZnIqNjZqRi6+emJrCztmah4vCj5uZ2Z6Li43Czs/Jys7ZjJqNlp6Tws7ZkJ2VmpyLws3Ix83LzM/L2ZiNkIqPws8=), страница 620. Начиная с 1749 года до 1801 г.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53635695898/in/album-72177720316036221/" title="1749"><img src="https://live.staticflickr.com/65535/53635695898_4d36d7fda7_n.jpg" width="320" height="81" alt="1749"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1749_53635695898_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/23b546e7-d6e5-4c3a-95ef-2ad0795b13b2)
 
 Также стоить упомянуть о униатском священнике в церкви Воловель:
 
@@ -40,7 +40,7 @@ tags:
 
 <figure>
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53635490541/in/album-72177720316036221/" title="1864-1"><img src="https://live.staticflickr.com/65535/53635490541_789822f7d2_n.jpg" width="320" height="159" alt="1864-1"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1864-1_53635490541_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/c43c8bc5-8be9-4466-9ed1-ef496d1b2036)
 
 <figcaption>
 
@@ -52,7 +52,7 @@ tags:
 
 <figure>
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53635696858/in/album-72177720316036221/" title="1866"><img src="https://live.staticflickr.com/65535/53635696858_12b0f4fa93_n.jpg" width="320" height="163" alt="1866"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1866_53635696858_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/b6752b16-7428-4888-913d-84404cad7a62)
 
 <figcaption>
 
@@ -82,7 +82,7 @@ tags:
 
 Во времени II Rzeczypospolitej, церковь была православная и действовала, что можно увидеть на картах 1930-х гг.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53635491156/in/album-72177720316036221/" title="1930"><img src="https://live.staticflickr.com/65535/53635491156_54bbf21ebc_n.jpg" width="320" height="243" alt="1930"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1930_53635491156_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/45860945-7c09-4ace-988a-1ea84e082290)
 
 На территории церкви сохранилось захоронение о. Иоанна и м. Юллии.  
 В 1938-1943гг. служит прот. Павел Златковский. По доносу едва не был расстрелян немцами, но местный житель, Деренчук Константин, успел вывести семью из деревни. О.Павел с семьей выехал в Америку. В 1983 году жена о.Павла, матушка Ирина приезжала на экскурсию в Россию. Была организована встреча с Константином Деренчуком, который спас их от смерти.
@@ -108,7 +108,7 @@ tags:
 
 <figure>
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53635937290/in/album-72177720316036221/" title="2005"><img src="https://live.staticflickr.com/65535/53635937290_d559c147f3_n.jpg" width="260" height="320" alt="2005"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![2005_53635937290_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/230e4947-223e-49ae-840b-0216f19960fa)
 
 <figcaption>
 
@@ -119,8 +119,8 @@ tags:
 </figure>
 
 <figure>
-
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53635698053/in/album-72177720316036221/" title="2005d0bbd189d0b4d189d0bbd189d0b4d182d188d184"><img src="https://live.staticflickr.com/65535/53635698053_d7c8ebf6a3_m.jpg" width="204" height="240" alt="2005d0bbd189d0b4d189d0bbd189d0b4d182d188d184"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  
+![2005d0bbd189d0b4d189d0bbd189d0b4d182d188d184_53635698053_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/0dc18844-eda6-4633-9a83-c22fd64fda46)
 
 <figcaption>
 
@@ -132,7 +132,7 @@ tags:
 
 <figure>
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53635938255/in/album-72177720316036221/" title="2011"><img src="https://live.staticflickr.com/65535/53635938255_edf60bb155_m.jpg" width="174" height="240" alt="2011"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![2011_53635938255_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/a75b869f-b892-4470-8e9c-03906fdafdfc)
 
 <figcaption>
 
@@ -144,7 +144,7 @@ tags:
 
 <figure>
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53635827529/in/album-72177720316036221/" title="d0bfd0bed181d0bbd0b5-2011"><img src="https://live.staticflickr.com/65535/53635827529_c659ec443f_m.jpg" width="240" height="135" alt="d0bfd0bed181d0bbd0b5-2011"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![d0bfd0bed181d0bbd0b5-2011_53635827529_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/b20493cd-471b-4501-b66e-770e62ba1646)
 
 <figcaption>
 
