@@ -9,15 +9,15 @@ tags:
 
 Умоминание о этом можно прочитать "В списке христианских католических поселений 1726 года"
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53660362709/in/dateposted-public/" title="1725"><img src="https://live.staticflickr.com/65535/53660362709_8fba958f52_m.jpg" width="240" height="79" alt="1725"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1725_53660362709_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/60127fdc-6861-4202-bc23-f9e7a956bc8c)
 
 Но самым старым документом о существование церкви можно считать сохранившиеся униатские метрические книги в РГИА от 1776 по 1801 гг.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53659143877/in/dateposted-public/" title="1776"><img src="https://live.staticflickr.com/65535/53659143877_1ec23ca8b0_m.jpg" width="240" height="38" alt="1776"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1776_53659143877_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/bde04b7f-a4d2-4983-bbd5-5325c58e45fe)
 
 Далее на сайте мармонов также имеются метрики по Ляховичам за 1823 год.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53659144007/in/dateposted-public/" title="1823"><img src="https://live.staticflickr.com/65535/53659144007_1f0dcd8839_m.jpg" width="240" height="73" alt="1823"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1823_53659144007_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/72f80bcb-9774-4484-baea-529411af6fcf)
 
 Имеется список униатского духовенства, которые несли службу в церкви:
 
@@ -29,29 +29,29 @@ tags:
 
 Стоить отметить также архив Гродно, где имеются документы по Ляховичам начиная с 1843 - 1866.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53660473350/in/dateposted-public/" title="grodno-arch-1843-1866"><img src="https://live.staticflickr.com/65535/53660473350_6797f3c2ed_m.jpg" width="240" height="39" alt="grodno-arch-1843-1866"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![grodno-arch-1843-1866_53660473350_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/b63abc2c-5bd6-4f27-8a06-7fa135f82787)
 
 На картах 1864 года церковь отмечена на картах.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53660005936/in/dateposted-public/" title="1864-2"><img src="https://live.staticflickr.com/65535/53660005936_92ea49f926_m.jpg" width="240" height="119" alt="1864-2"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1864-2_53660005936_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/20235fee-664a-496e-9ca1-312b419805e8)
 
 Но на картах 1866 - 69 церковь также отмечена.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53660006026/in/dateposted-public/" title="1866-1"><img src="https://live.staticflickr.com/65535/53660006026_7caf5f17f1_m.jpg" width="240" height="119" alt="1866-1"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1866-1_53660006026_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/9c788309-48ce-4338-b740-021cabb3856f)
 
 Обновлялась в 1873 году, и сгорела в 1881г. В "Описания церквей и приходов. Гродненский православно-церковный календарь. Том 1" упоминается, что в 1884 году была построена деревянная православная церковь силами прихожан и пособием от правительства, во время настоятельства священника Николая Дружиловского. В 1861 году была открыта церковно-приходская школа.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53660364139/in/dateposted-public/" title="189911111"><img src="https://live.staticflickr.com/65535/53660364139_aa9284ef1c_m.jpg" width="240" height="73" alt="189911111"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![189911111_53660364139_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/1a87f958-9bba-4304-a1ca-056560b79ce3)
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53660231033/in/dateposted-public/" title="189922222"><img src="https://live.staticflickr.com/65535/53660231033_bce80ab94f_m.jpg" width="240" height="85" alt="189922222"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![189922222_53660231033_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/61a0039e-7235-49e0-a7fb-bbb58663a94f)
 
 Стоить отметить, если мы сравним расположение церквей с сегодняшними картами, то видим, что церковь была построена на месте старой (либо же очень близко к тому месте).
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53659145262/in/dateposted-public/" title="2020"><img src="https://live.staticflickr.com/65535/53659145262_b5d6cce39a_m.jpg" width="240" height="224" alt="2020"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![2020_53659145262_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/596a65e9-e4a1-47b2-9436-8595c9073b47)
 
 Во времена II Rzeczypospolitej 1919 - 1938 гг. церковь была действующая православная, что подтверждают карты. Но была отмечена как католический приход.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53659145362/in/dateposted-public/" title="1919-1939"><img src="https://live.staticflickr.com/65535/53659145362_ce7f27da4a_m.jpg" width="240" height="138" alt="1919-1939"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1919-1939_53659145362_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/50f7f3f8-f72b-4c5f-9b97-4f154e28145a)
 
 Также имеется список православного духовенства, которые несли службу после полоцкого собора 1839г. Стоит отметить, что священник Николай Лихачевский перешел из унии в православие.
 
@@ -77,7 +77,7 @@ tags:
 
 На данный момент церковь действующая и в хорошем состоянии.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53660231513/in/dateposted-public/" title="lyahovichi"><img src="https://live.staticflickr.com/65535/53660231513_778d45d1c6_m.jpg" width="240" height="157" alt="lyahovichi"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![lyahovichi_53660231513_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/9882b55b-a43a-4b49-8d2e-b47ff8f44943)
 
 Ссылки и информация используемая в материале:
 
