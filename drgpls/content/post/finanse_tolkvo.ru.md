@@ -9,11 +9,11 @@ tags:
 
 Список владений относящихсяк фольварку Толково:
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53635848414/in/dateposted-public/" title="1-19"><img src="https://live.staticflickr.com/65535/53635848414_e8df7445f3_m.jpg" width="214" height="240" alt="1-19"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1-19_53635848414_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/5c816ee0-934f-4859-b564-8aa46e70daab)
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53635959465/in/dateposted-public/" title="2438"><img src="https://live.staticflickr.com/65535/53635959465_69cda2ac65_m.jpg" width="208" height="240" alt="2438"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![2438_53635959465_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/9d4f4222-c6d1-492b-aa2b-d7e7a4958cc8)
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53635719888/in/dateposted-public/" title="39-50"><img src="https://live.staticflickr.com/65535/53635719888_8edb1bcb51_m.jpg" width="191" height="240" alt="39-50"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![39-50_53635719888_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/471d2bf6-d850-49ef-91b7-607168d32b71)
 
 - Prokop Jakusz
 - Kiryk Pakowicz
