@@ -9,7 +9,7 @@ tags:
 
 В РГИА имеются метрические униатские книги по Гутово, к сожалению не описаны года собранной информации.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53659686496/in/dateposted-public/" title="rgia-no-date"><img src="https://live.staticflickr.com/65535/53659686496_a647c222f6_m.jpg" width="240" height="12" alt="rgia-no-date"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![rgia-no-date_53659686496_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/47c4548a-7552-4a1a-9b9c-b3115e6a6885)
 
 Также имеется список униатских священнослужителей в Гутовской церкви:
 
@@ -27,17 +27,17 @@ tags:
 
 На картах Ритиха за 1864 год, в Гутово отмечена церковь на картах
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53659913963/in/dateposted-public/" title="1864-rittuch"><img src="https://live.staticflickr.com/65535/53659913963_ec6a9f6bd1_m.jpg" width="240" height="157" alt="1864-rittuch"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1864-rittuch_53659913963_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/8453662a-0cf3-4fa9-b7f2-ad649cf8ddc0)
 
 Также и на картах Шуберта за 1866 - 1887 гг. церковь была отмечена
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53660047754/in/dateposted-public/" title="1866-1887-shubert"><img src="https://live.staticflickr.com/65535/53660047754_0b2b171afa_m.jpg" width="240" height="124" alt="1866-1887-shubert"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1866-1887-shubert_53660047754_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/1b2e7cca-0244-4c14-a472-14740bd5150b)
 
 В 1892 году была построена православная церковь в Гутово. Информации была ли церковь построена на месте старой и почему старой церкви не стало, информации на данный момент нет.
 
 Упоминается церковь в "Описания церквей и приходов. Гродненский православно-церковный календарь. Том 1"
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53658827397/in/dateposted-public/" title="1892-bulding"><img src="https://live.staticflickr.com/65535/53658827397_9675b70b8c_m.jpg" width="240" height="213" alt="1892-bulding"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1892-bulding_53658827397_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/74b61efa-b868-4b66-86c6-4ad491347467)
 
 Во время II Rzeczpospolitej, до 1939 год храм был действующий.
 
@@ -45,7 +45,7 @@ tags:
 
 Старая церковь осталась лишь на единственной фотографии, написанной протоиереем Михаилом Сазановичем, который многие годы служил в соседнем приходе Вавуличах.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53659687221/in/dateposted-public/" title="1892"><img src="https://live.staticflickr.com/65535/53659687221_0f31f70c35_m.jpg" width="189" height="240" alt="1892"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1892_53659687221_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/430970e4-eedb-4115-bd3d-91498ffc23bf)
 
 Ссылки и информация используемая в материале:
 
