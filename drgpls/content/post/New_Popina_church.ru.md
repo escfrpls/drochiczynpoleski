@@ -10,7 +10,7 @@ tags:
 
 <figure>
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53656969272/in/dateposted-public/" title="1580"><img src="https://live.staticflickr.com/65535/53656969272_00c980ed8b_w.jpg" width="400" height="231" alt="1580"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![image](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/594d6e22-0878-4f41-a211-6a7aea0d5654)
 
 </figure>
 
@@ -18,7 +18,7 @@ tags:
 
 В списке христианских католических поселений 1726 года упоминается Papina.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53657840876/in/dateposted-public/" title="1726-1"><img src="https://live.staticflickr.com/65535/53657840876_d2fa0d3c01.jpg" width="500" height="92" alt="1726-1"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![image](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/08a925b2-6f25-4202-9a40-a88004bfe0bf)
 
 Спасо-Преображенская церковь была сооружена из дерева предводителем дворянства Пинского уезда Михаилом Ожешко в 1810 году на месте старой церкви. Храм был устроен на каменном фундаменте, рядом с ним построили деревянную колокольню. Что стало со старой церковью не известно.
 
@@ -34,7 +34,7 @@ tags:
 
 <figure>
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53657841371/in/dateposted-public/" title="1866-maps"><img src="https://live.staticflickr.com/65535/53657841371_bc1a28bca8.jpg" width="500" height="300" alt="1866-maps"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![image](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/d219ed51-5596-4571-9281-e1aa88dfa6d9)
 
 <figcaption>
 
@@ -48,7 +48,7 @@ tags:
 
 <figure>
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53657841631/in/dateposted-public/" title="1864-maps"><img src="https://live.staticflickr.com/65535/53657841631_2d3bb8b6bd.jpg" width="500" height="232" alt="1864-maps"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![image](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/d21424f6-c321-4d77-b6b2-72baacb67df0)
 
 <figcaption>
 
@@ -63,7 +63,7 @@ tags:
 
 В книге "Описания церквей и приходов. Гродненский православно-церковный календарь. Том 1", 1899 года. имеется описание церкви в Попине.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53658307390/in/dateposted-public/" title="1890"><img src="https://live.staticflickr.com/65535/53658307390_b3b1e1697e.jpg" width="500" height="399" alt="1890"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![image](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/b8689d5e-d97d-495c-b36c-693d18a24247)
 
 Имеется записи о православном духовенстве в Попине от Полоцкого собора до 1897 года. Стоит отметить, что Константин Статкевич перешел из униатсва в православие.
 
@@ -75,7 +75,7 @@ tags:
 
 <figure>
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53658307745/in/dateposted-public/" title="1919"><img src="https://live.staticflickr.com/65535/53658307745_5793c2d5ef_z.jpg" width="640" height="446" alt="1919"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![image](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/8ddfeda0-5910-4b02-9ac0-856a04a2d69a)
 
 <figcaption>
 
@@ -90,7 +90,7 @@ tags:
 
 На данный момент церковь действующая и находится в агрогородке Новая Попина, Дрочинского райна.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53658196344/in/dateposted-public/" title="2019"><img src="https://live.staticflickr.com/65535/53658196344_f7c8ce1ba0_z.jpg" width="640" height="625" alt="2019"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![image](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/8079680b-d709-4419-a681-61c6d68d54f5)
 
 Ссылки и информация используемая в материале:
 
