@@ -9,11 +9,11 @@ tags:
 
 Ранним упоминанием о церкви можно считать метрические униатские метрики за 1757 - 1801 гг. Которые находятся в РГИА.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53660023164/in/dateposted-public/" title="rgia"><img src="https://live.staticflickr.com/65535/53660023164_090cfeaefc_m.jpg" width="240" height="30" alt="rgia"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![rgia_53660023164_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/bfed2187-494f-4e71-b29a-14e2b96ac3e0)
 
 Также на сайте мармонов, можно найти метрические униатские записи и нашей церкви за 1798-1834 гг.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53659889803/in/dateposted-public/" title="marmony"><img src="https://live.staticflickr.com/65535/53659889803_82aa0f63a2_m.jpg" width="240" height="72" alt="marmony"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![marmony_53659889803_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/2c629845-ea81-4266-b7c7-b76c9cd4f96f)
 
 Также имеется информация о священнослужителях которые несли службу в Вороцевичах и которые родились там, но трудились в других местностях.
 
@@ -31,7 +31,7 @@ tags:
 
 <figure>
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53658803177/in/dateposted-public/" title="1864-1"><img src="https://live.staticflickr.com/65535/53658803177_6a1141c450_m.jpg" width="240" height="85" alt="1864-1"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1864-1_53658803177_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/7a961c4f-622a-4a0a-8c40-5688c9a64cd9)
 
 <figcaption>
 
@@ -43,7 +43,7 @@ tags:
 
 <figure>
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53658803452/in/dateposted-public/" title="1866-87"><img src="https://live.staticflickr.com/65535/53658803452_668a20b05b_m.jpg" width="240" height="170" alt="1866-87"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1866-87_53658803452_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/65dc891e-cbb6-42de-8c8d-1d848a0b2157)
 
 <figcaption>
 
@@ -61,13 +61,13 @@ tags:
 
 После революции, во времена II Rzeczpospolitej, храм был действующий и был отмечен на картах.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53660134605/in/dateposted-public/" title="ii-rp"><img src="https://live.staticflickr.com/65535/53660134605_8bb853231f_m.jpg" width="240" height="128" alt="ii-rp"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![ii-rp_53660134605_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/dfb6f6cb-2bb8-45dd-83a3-1ee4f02b45dd)
 
 После II мировой войны, церковь была закрыта, а более точно в 1962 году церковь закрыта. По длительному ходатайству верующих 1983 году церковь была открыта.
 
 В настоящее время, церковь действующая и в хорошем состоянии.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53658803812/in/dateposted-public/" title="2020"><img src="https://live.staticflickr.com/65535/53658803812_53fb518409_m.jpg" width="240" height="160" alt="2020"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![2020_53658803812_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/11d3639a-df8b-4c14-9438-9871fdd65562)
 
 Ссылки и информация используемая в материале:
 
