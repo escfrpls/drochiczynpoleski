@@ -19,22 +19,23 @@ tags:
 
 В 1780 году храм был отремонтирован и обустроен помещиком Климентом Ожешко. Что упоминается в "Збор помнікаў гісторыі і культуры. Брестская область".
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53659122787/in/dateposted-public/" title="1780-info"><img src="https://live.staticflickr.com/65535/53659122787_f6ac36e73a_m.jpg" width="240" height="181" alt="1780-info"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1780-info_53659122787_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/cff19a9a-19dc-49f6-8231-a87ca8dc4aab)
+
 Также в "Описания церквей и приходов. Гродненский православно-церковный календарь. Том 1"
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53659984001/in/dateposted-public/" title="1780-2"><img src="https://live.staticflickr.com/65535/53659984001_a5c8457053_m.jpg" width="240" height="63" alt="1780-2"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1780-2_53659984001_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/4eac3d17-8c32-443f-af5d-45e40c69772d)
 
 В РГИА имеются копии униатских метрик по церкви с 1789 по 1801 гг.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53660208283/in/dateposted-public/" title="1789-1801"><img src="https://live.staticflickr.com/65535/53660208283_479f080882_m.jpg" width="240" height="27" alt="1789-1801"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1789-1801_53660208283_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/119cf2fe-c407-4b12-9f0a-a272e79f9f01)
 
 На сайте мармонов также имеются метрические униатские книги за 1823 - 1826 гг.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53660451990/in/dateposted-public/" title="1823-1826"><img src="https://live.staticflickr.com/65535/53660451990_ec16ffe4df_m.jpg" width="240" height="71" alt="1823-1826"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1823-1826_53660451990_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/107ff036-f563-4c92-915e-02663777cb89)
 
 В 1836 году устроен иконостас. В церкви находилась чтимая икона Божией Матери «Скорбящая», которая почиталась чудотворной «живописи выразительной», писана на холсте масляными красками. В 1814 г. икона покрыта серебряной ризой с позолоченными венцами над ликами и украшена «блестящими» камнями. Полагается, что первоначально икона находилась в Белинской церкви, которая была устроена в имении Ожешко в 1785 г. (в 1785 г. икону переносили в Осовцы). Икона находилась на горнем месте, но в 1880-х годах от обветшания Белинская церковь была разрушена и икона перенесена в Осовецкую церковь. Икону поместили на левом клиросе у стены в позолоченном киоте, который был устроен усердием жертвователей в 1893 году. Празднование иконы совершалось 15 августа (на Успение) и на это богомолье собиралось много народа из окрестных селений в том числе из католиков.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53659984506/in/dateposted-public/" title="ikona"><img src="https://live.staticflickr.com/65535/53659984506_4e49c2c402_m.jpg" width="195" height="240" alt="ikona"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![ikona_53659984506_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/6fb2b598-3473-4629-8ea0-2f0423149d52)
 
 В 1839 году, после полоцкого собора, церковь была передана православным.
 
@@ -42,11 +43,11 @@ tags:
 
 На картах 1864 года, церковь была обозначена как православная:
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53660342489/in/dateposted-public/" title="1864"><img src="https://live.staticflickr.com/65535/53660342489_bbd8f0fae9_m.jpg" width="217" height="157" alt="1864"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1864_53660342489_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/0f24b29f-4857-4201-a2a0-7ec0e841271d)
 
 На картах 1866 - 1867 церковь тоже отмечена:
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53659984766/in/dateposted-public/" title="1866-1867"><img src="https://live.staticflickr.com/65535/53659984766_9f0b341b8b_m.jpg" width="240" height="111" alt="1866-1867"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1866-1867_53659984766_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/5b3a714d-da7f-4ca4-b6ac-cff4b96f8155)
 
 В 1876г. был произведен ремонт церкви: устроен новый иконостас, исправлена крыша, поправлен фундамент, и 26 сентября 1876г. церковь была освящена. На 1898 г. относилась к Ивановскому благочинию. Прихожан 1712 человек. Имелась церковная школа и народное училище. Причт состоял из священника и псаломщика.
 
@@ -62,15 +63,15 @@ tags:
 
 Также есть фотопортрет Антония Алехновича
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53660209583/in/dateposted-public/" title="d098d0b5d180d0b5d0b9_d090d0bdd182d0bed0bdd0b8d0b9_d090d0bbd0b5d185d0bdd0bed0b2d0b8d187"><img src="https://live.staticflickr.com/65535/53660209583_a99eb3090d_m.jpg" width="187" height="240" alt="d098d0b5d180d0b5d0b9_d090d0bdd182d0bed0bdd0b8d0b9_d090d0bbd0b5d185d0bdd0bed0b2d0b8d187"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![a  alechnowicz](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/4e2bd884-3bae-498b-aed7-c6180bddfeb1)
 
 Во времени II Rzeczypospolitej храм был православным и действующим, также был отмечен на картах в Osowce II (теперь это окраина деревни Осовцы).
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53660343439/in/dateposted-public/" title="1918-1938"><img src="https://live.staticflickr.com/65535/53660343439_19f22ee06d_m.jpg" width="240" height="180" alt="1918-1938"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1918-1938_53660343439_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/a3d70d5e-50ad-4bdf-9520-ad6faed71b57)
 
 В советское время церковь не закрывалась. На начало XXI века храм был внесен в список историко-культурных ценностей Республики Беларусь. На данный момент церковь действующая.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53660453740/in/dateposted-public/" title="d09cd0b8d185d0b0d0b9d0bbd0bed0b2d181d0bad0b0d18f_d186d0b5d180d0bad0bed0b2d18c_1780d0b3."><img src="https://live.staticflickr.com/65535/53660453740_e62c3802f4_m.jpg" width="240" height="156" alt="d09cd0b8d185d0b0d0b9d0bbd0bed0b2d181d0bad0b0d18f_d186d0b5d180d0bad0bed0b2d18c_1780d0b3."/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![new pop](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/58f16952-ebed-4ab3-94d7-4f7ecfb92236)
 
 Ссылки и информация используемая в материале:
 
