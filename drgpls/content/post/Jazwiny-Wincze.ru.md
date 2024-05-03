@@ -10,7 +10,7 @@ tags:
 
 На сайте мармонов также имеются метрики церкви в Винчи, и они греко-католические за 1823 год.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53634790242/in/album-72177720316044333/" title="1824"><img src="https://live.staticflickr.com/65535/53634790242_1f1c8e783a_m.jpg" width="240" height="66" alt="1824"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1824_53634790242_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/ac99392f-3751-4768-ae2a-d979c3bd74c9)
 
 Также важное подтверждение тому, что это была униатская церковь первоначально, а не костел, имеющаяся запись о униатском священнике, который там служил:
 
@@ -18,23 +18,23 @@ tags:
 
 В "Описания церквей и приходов. Гродненский православно-церковный календарь. Том 1", имеется подробное описание цервки, данные на 1899 год.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53635892928/in/album-72177720316044333/" title="vazno"><img src="https://live.staticflickr.com/65535/53635892928_58fd4f5f26_m.jpg" width="240" height="157" alt="vazno"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![vazno_53635892928_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/0e9f6754-a300-4470-ae8e-96345b6edb63)
 
 В "Збор помнікаў гісторыі і культуры. Брэсцкая вобласть" есть описание костела и его перестройка в православный храм примерно в 1860 годах.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53634790632/in/album-72177720316044333/" title="info1"><img src="https://live.staticflickr.com/65535/53634790632_c401facbf8_m.jpg" width="160" height="240" alt="info1"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![info1_53634790632_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/ff000f2e-c31f-4bde-b9ef-b5ebf77d7d6f)
 
 Также имеется зарисовка Наполеоном Орда, подписанное - "8 чэрвеня 1861. Дзяды 1772"
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53635893253/in/album-72177720316044333/" title="1861"><img src="https://live.staticflickr.com/65535/53635893253_0d12ccf47e_m.jpg" width="240" height="158" alt="1861"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1861_53635893253_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/b577d4ba-177d-4111-b458-0443062e327a)
 
 На картах народонаселения Российской Империи за 1864 год, на карте упоминается деревня Винча (Винчи) где отмечена церковь, на тот момент уже православная.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53635893353/in/album-72177720316044333/" title="1864"><img src="https://live.staticflickr.com/65535/53635893353_bb58131050_m.jpg" width="240" height="173" alt="1864"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1864_53635893353_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/894e949f-c5cb-420d-b787-b81404fd1626)
 
 На картах 1866-1887гг. церковь также отмечена на карте. в Господарстве Винчи. Также рядом имеется болото Винчи, и по правой стороне кладбище, где видимо хоронили жителей окрестных деревень.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53635686896/in/album-72177720316044333/" title="1866-1887-1"><img src="https://live.staticflickr.com/65535/53635686896_25de51c66f_m.jpg" width="240" height="141" alt="1866-1887-1"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1866-1887-1_53635686896_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/392fa68d-2c6f-4662-8323-bb84ce841367)
 
 Из Географического справочника Королевства Польского (конец 19 века):
 
@@ -42,13 +42,13 @@ Wincze - Поселение (osada), гмина Дрогичин, принадл
 
 Во время II Rzeczypospolitej 1919-1939 гг. На карте отмечен действующий как костёл в деревне Wincze.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53635687021/in/album-72177720316044333/" title="1919-1939-1"><img src="https://live.staticflickr.com/65535/53635687021_913159113f_m.jpg" width="240" height="205" alt="1919-1939-1"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1919-1939-1_53635687021_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/711aa0c0-e7d6-4e73-85bc-86074521d71a)
 
 Начиная с 1945 года, костёл пришел в упадок и сейчас находится в плачевном состоянии, посреди поля, между оставшимися деревнями.
 
 <figure>
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53636133510/in/album-72177720316044333/" title="2013"><img src="https://live.staticflickr.com/65535/53636133510_990c6994fd_m.jpg" width="240" height="180" alt="2013"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![2013_53636133510_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/7fd16741-b6df-436d-ad76-41cf1644f42f)
 
 <figcaption>
 
