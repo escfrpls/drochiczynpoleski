@@ -9,11 +9,11 @@ tags:
 
 По документах хранящимся в РГИА, самое старое упоминание о церкви в Хомске как униатской является документ с 1698 по 1801 год.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53660084419/in/dateposted-public/" title="1698-1801"><img src="https://live.staticflickr.com/65535/53660084419_2bb1832bdb_m.jpg" width="240" height="27" alt="1698-1801"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1698-1801_53660084419_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/f56c5ed1-4d8b-49b2-8fc7-b70bafa7d84f)
 
 Стоит упомянуть о "Списке христианских католических поселений 1726 года". Где упоминается Chomsk Oppidum.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53659723996/in/dateposted-public/" title="1726-1"><img src="https://live.staticflickr.com/65535/53659723996_141f91829a_m.jpg" width="240" height="56" alt="1726-1"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1726-1_53659723996_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/aa7bbbf6-4dac-4517-9533-2bd5e639d8b6)
 
 В конце ХVIII века у Огинских местечко Хомск выкупает Войцех Пусловский. Информации не сохранилось из-за каких причин старая церковь была разрушена или пришла в упадок. Но уже в 1800 году Войцех строит новую униатскую церковь в Хомске.
 
@@ -21,7 +21,7 @@ tags:
 
 Подтверждение тому сохранившиеся метрические книги за 1823 год на сайте мармонов.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53660084574/in/dateposted-public/" title="1823"><img src="https://live.staticflickr.com/65535/53660084574_9b7e12c971_m.jpg" width="240" height="68" alt="1823"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1823_53660084574_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/e032f02d-08a7-4778-a87d-85e10af0095d)
 
 Также имеется упоминание о униатском священнике в церкви:
 
@@ -29,11 +29,11 @@ tags:
 
 После полоцкого собора, церковь была передана православным. В 1864 году на картах Риттиха она была отмечена, значить на то время была действующей.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53660084744/in/dateposted-public/" title="d0a0d0b8d182d0b8d185"><img src="https://live.staticflickr.com/65535/53660084744_4cb6593598_m.jpg" width="240" height="194" alt="d0a0d0b8d182d0b8d185"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![d0a0d0b8d182d0b8d185_53660084744_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/c6697f20-7374-4834-bece-ea6a972f3277)
 
 На картах Шуберта 1866 - 1887 года, церковь также была отмечена на карта (до либо после пожара примерно 1870-72 гг).
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53660194390/in/dateposted-public/" title="d0a8d183d0b1d0b5d180d182"><img src="https://live.staticflickr.com/65535/53660194390_8c2f520e97_m.jpg" width="240" height="107" alt="d0a8d183d0b1d0b5d180d182"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![d0a8d183d0b1d0b5d180d182_53660194390_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/20b4448a-9ba6-4420-bca6-5125e7816a82)
 
 После пожара 1870 - 1872 гг (примерно) церковь была обновлена и отстроена заново архитектором Гурьевым. Также есть небольшое описание перестроенной церкви.
 
@@ -41,27 +41,27 @@ tags:
 
 Метрические книги уже православные можно посмотреть в архиве Гродно или же в на сайте мармонов.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53659952123/in/dateposted-public/" title="1870-1833-grodno"><img src="https://live.staticflickr.com/65535/53659952123_75a416fc88_m.jpg" width="240" height="43" alt="1870-1833-grodno"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1870-1833-grodno_53659952123_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/ad6c88dd-72d9-4394-a578-53ba021e6248)
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53658864657/in/dateposted-public/" title="1870-1883-marmon"><img src="https://live.staticflickr.com/65535/53658864657_357c701c09_m.jpg" width="240" height="71" alt="1870-1883-marmon"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1870-1883-marmon_53658864657_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/adfea44a-11b4-491b-bf6d-5780b274c1d7)
 
 Также есть упоминание о нашей церкви в "Описания церквей и приходов. Гродненский православно-церковный календарь. Том 1"
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53659952368/in/dateposted-public/" title="d0bad0b0d0bbd0b5d0bdd0b4d0b0d180d18c-d0bfd180d0b0d0b2d0bed181d0bbd0b0d0b2d0bdd18bd0b9"><img src="https://live.staticflickr.com/65535/53659952368_6662e67dc7_m.jpg" width="240" height="233" alt="d0bad0b0d0bbd0b5d0bdd0b4d0b0d180d18c-d0bfd180d0b0d0b2d0bed181d0bbd0b0d0b2d0bdd18bd0b9"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![tom 1](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/c9fe3097-a7eb-4caf-9dbd-1ae7454c7694)
 
 Стоит отметить, что здесь упоминается о разрушенной церкви в 1829 году. Вполне возможно до 1829 года церковь и вправду горела. Но документов подтверждающих это нет, вполне возможно это может быть опечаткой.
 
 Во времена II Rzeczypospolitej церковь была действующая как православная, но картах была отмена как костёл.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53659724931/in/dateposted-public/" title="ii-pr"><img src="https://live.staticflickr.com/65535/53659724931_f0b18f3fa5_m.jpg" width="240" height="196" alt="ii-pr"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![ii-pr_53659724931_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/07888535-831e-44dc-ac20-2ed385d6ddd4)
 
 Известно, что в 1915 в церкви был пожар. Церковный колокол изготовлен в 1930 году на пожертвования жителя д.Хомск Ивана Алексеевича Онисько. Также имеются фото тех времён церкви за 1929 год.  
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53660085589/in/dateposted-public/" title="1929-1"><img src="https://live.staticflickr.com/65535/53660085589_4a75db5c06_m.jpg" width="240" height="161" alt="1929-1"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1929-1_53660085589_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/0fb2f784-634e-4be0-966a-f3432bce2876)
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53658865262/in/dateposted-public/" title="1929-2"><img src="https://live.staticflickr.com/65535/53658865262_ec433b8664_m.jpg" width="240" height="201" alt="1929-2"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1929-2_53658865262_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/f87d3022-6340-48cc-be56-281782794ab2)
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53660085704/in/dateposted-public/" title="1929-3"><img src="https://live.staticflickr.com/65535/53660085704_65e4731ff3_m.jpg" width="240" height="184" alt="1929-3"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1929-3_53660085704_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/6769a36d-5d8d-450a-a730-9bd722afe037)
 
 После раздела Польши 1939 года, данные территории отошли к СССР.
 
@@ -88,7 +88,7 @@ tags:
 
 Имеется фото церкви перед разрушение но уже в плачевном состоянии за 1960 год.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53659725431/in/dateposted-public/" title="1960"><img src="https://live.staticflickr.com/65535/53659725431_8230409809_m.jpg" width="240" height="180" alt="1960"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1960_53659725431_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/4d667b68-0794-462b-91b3-e2283382e6a4)
 
 Со слов местного жителя, снос церкви происходил следующим образом:
 
@@ -100,11 +100,11 @@ tags:
 
 Сейчас на месте церкви находится дом культуры. В центре агрогородка появился памятный знак (крест, камень и колокол) находившейся здесь когда-то церкви. Об этом БрестСИТИ сообщила читательница Анна и прислала фото. На установленной памятной табличке читаем: «Свято-Покровская церковь, уникальный памятник архитектуры, аналогов которой единицы в Европе. Построена в 1800 году Войцехом-Пусловским — владельцем местечка Хомск. На фотографии внизу, на заднем фоне тот самый дом культуры.  
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53658865652/in/dateposted-public/" title="homsk_cerkov1"><img src="https://live.staticflickr.com/65535/53658865652_29220af0ed_m.jpg" width="180" height="240" alt="homsk_cerkov1"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![homsk_cerkov1_53658865652_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/0906e876-7511-446c-aa95-9d4a936ec6f2)
 
 Действующий Покровский храм в деревне Хомск был построен в 1992 г. Освящён 25 февраля 1993 г.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53659953193/in/dateposted-public/" title="2020"><img src="https://live.staticflickr.com/65535/53659953193_f9cae4315c_m.jpg" width="240" height="160" alt="2020"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![2020_53659953193_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/f5146f9c-35c8-42fd-8a0b-563d162f5898)
 
 Ссылки и информация используемая в материале:
 
