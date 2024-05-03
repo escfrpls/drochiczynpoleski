@@ -19,8 +19,6 @@ tags:
 
 ![1725_53659884938_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/09e2ee4b-9306-439c-9767-de08adc33c89)
 
-![1725_53659884938_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/95c3a6fb-52a4-4671-a22a-07992f240b86)
-
 Также в архиве РГИА имеются сохранившиеся униатские метрики церкви с 1735 по 1798 гг.
 
 ![1735-1798_53659658001_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/aa86044a-b110-4854-96b6-325b66267a47)
