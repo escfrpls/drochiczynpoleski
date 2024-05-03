@@ -17,23 +17,21 @@ tags:
 
 В списке христианских католических поселений 1726 года упоминаются Вавуличи (Wawuliga). Парафии Бездеж, это подтверждает, что на то время уже там была действующая церковь.
 
-![Image](https://github.com/escfrpls/drochiczynpoleski/blob/2fa0d0ecdf4ebf2aab1dc81ecbca68f6c76daf3e/drgpls/content/img/Wawulicze/1725_53659884938_o.jpg)
-
 ![1725_53659884938_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/09e2ee4b-9306-439c-9767-de08adc33c89)
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53659884938/in/dateposted-public/" title="1725"><img src="https://live.staticflickr.com/65535/53659884938_cf5b3af63e_m.jpg" width="240" height="55" alt="1725"/>
+![1725_53659884938_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/95c3a6fb-52a4-4671-a22a-07992f240b86)
 
 Также в архиве РГИА имеются сохранившиеся униатские метрики церкви с 1735 по 1798 гг.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53659658001/in/dateposted-public/" title="1735-1798"><img src="https://live.staticflickr.com/65535/53659658001_9f4a1a79d3_m.jpg" width="240" height="35" alt="1735-1798"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1735-1798_53659658001_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/aa86044a-b110-4854-96b6-325b66267a47)
 
 Действующая церковь была построена в 1737 году из дерева как униатский храм, что подтверждает Гродненский православно-церковный календарь 1899 года. К сожалению информации нет, что стало со старым храмом, и был ли новый построен на его месте.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53660018099/in/dateposted-public/" title="1737"><img src="https://live.staticflickr.com/65535/53660018099_db3b076995_m.jpg" width="240" height="97" alt="1737"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1737_53660018099_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/40ae72f0-1c12-435f-aa40-0bf71ec74435)
 
 Также упоминаются, что церковь была перестроена по одним источникам приблизительно после 1845 года:
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53658798512/in/dateposted-public/" title="1845"><img src="https://live.staticflickr.com/65535/53658798512_6062b4a7e2_m.jpg" width="195" height="240" alt="1845"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1845_53658798512_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/333607cc-1415-4a3b-85d0-78a3dc3bd94e)
 
 По другим в 1875 году:
 
@@ -41,17 +39,17 @@ tags:
 
 На картах Шуберта 1866-1887 гг, церковь отображена картах.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53658798692/in/dateposted-public/" title="1866-67"><img src="https://live.staticflickr.com/65535/53658798692_91711126a2_m.jpg" width="240" height="166" alt="1866-67"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1866-67_53658798692_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/68e23d86-f879-4654-8a1b-6671c3aac28a)
 
 Также на карте народонаселения Российской Империи 1864 г. в Вавуличах отмечен на карте приход.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53660018564/in/dateposted-public/" title="1864-3"><img src="https://live.staticflickr.com/65535/53660018564_7b735d492c_m.jpg" width="240" height="147" alt="1864-3"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1864-3_53660018564_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/a02ae66d-14c1-4475-af97-27adcd12cb8a)
 
 При храме в 1885 г. было открыто министерское народное училище, где обучались крестьянские дети обоего пола. В 1911 г. вернувшиеся из Америки крестьяне пожертвовали храму 435 рублей для росписи алтаря и иконостаса, которую выполнил художник М. Бирев.
 
 Во время II Rzeczpospolita храм был действующий, также был отмечен на польских картах 1919 - 1938 гг.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53659885908/in/dateposted-public/" title="1919-1938"><img src="https://live.staticflickr.com/65535/53659885908_2341eb6118_m.jpg" width="240" height="163" alt="1919-1938"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1919-1938_53659885908_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/c6f5b3b8-113b-4b97-8d9e-314667f42587)
 
 На церковной территории находится могила священника Николая Балицкого (1874 – 1946), являвшегося участником Первой Мировой войны в качестве священника военного госпиталя. Также из священников, длительное время служивших в Вавуличской церкви можно упомянуть Иосифа Михалевича (1845-1888), Иоанна Шеметило (1890-1901), Мартина Скопца (1950-1989) и Михаила Сазановича (1990-2005).
 
@@ -59,7 +57,7 @@ tags:
 
 <figure>
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53660019159/in/dateposted-public/" title="2020-1"><img src="https://live.staticflickr.com/65535/53660019159_db821365f7_m.jpg" width="240" height="182" alt="2020-1"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![2020-1_53660019159_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/96146fc0-1386-4a95-ab61-6119377e849d)
 
 <figcaption>
 
