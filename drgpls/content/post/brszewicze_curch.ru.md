@@ -7,17 +7,17 @@ tags:
 
 Современная православная церковь в Брашевичах была построена в 1911 году с кирпича. Иконостас церкви был сделан в 1867 году инженером Кандрунцевым (перенесен с предыдущего храма).
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53635906020/in/album-72177720316029437/" title="bra"><img src="https://live.staticflickr.com/65535/53635906020_de7904290c_w.jpg" width="300" height="400" alt="bra"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![bra_53635906020_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/677e9ce7-f981-447f-bfb7-c10e367b01bd)
 
 Во времени Второй Речи Посполитой (польск. Rzeczpospolita Polska, II Rzeczpospolita) 1918 - 1939 гг. На картах обозначается как костел.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53635906435/in/album-72177720316029437/" title="brash333"><img src="https://live.staticflickr.com/65535/53635906435_6afa858f97_w.jpg" width="400" height="288" alt="brash333"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![brash333_53635906435_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/c5feacce-ecdc-4d18-a72f-45f78fe7bb69)
 
 Карты Шуберта 1866-1887 гг. церковь в Брашевичах обозначается как православная.
 
 <figure>
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53635460911/in/album-72177720316029437/" title="1887"><img src="https://live.staticflickr.com/65535/53635460911_d4dfebebb3_w.jpg" width="400" height="208" alt="1887"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1887_53635460911_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/82401e31-0bcf-4264-b168-54e6de02737f)
 
 <figcaption>
 
@@ -39,7 +39,7 @@ tags:
 
 <figure>
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53635797374/in/album-72177720316029437/" title="1864"><img src="https://live.staticflickr.com/65535/53635797374_6c9c79170d_w.jpg" width="400" height="222" alt="1864"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1864_53635797374_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/cd5024b6-deec-4522-ba95-70355ee47ff6)
 
 <figcaption>
 
@@ -61,7 +61,7 @@ tags:
 
 <figure>
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53634566832/in/album-72177720316029437/" title="orda"><img src="https://live.staticflickr.com/65535/53634566832_95fbd9afd5_w.jpg" width="400" height="335" alt="orda"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![orda_53634566832_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/59cb67c3-e500-4a43-b731-1a31e1aa2ba4)
 
 <figcaption>
 
@@ -80,11 +80,11 @@ Greek Catholic Church. Brashevichi (Kobrin) - 1823 года
 
 Также имеются метриви в РГИА о униятской цервки в Брашевичах с 1767 до 1801 гг.:
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53635462196/in/album-72177720316029437/" title="metryki"><img src="https://live.staticflickr.com/65535/53635462196_090d2418d0_w.jpg" width="400" height="44" alt="metryki"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![metryki_53635462196_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/0a277900-2613-4e08-9569-c3368e606f59)
 
 В списке христианских католических поселений 1726 года - Брашевичи упоминаются как центр парафии.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53635908475/in/album-72177720316029437/" title="1726-1"><img src="https://live.staticflickr.com/65535/53635908475_5a579f8f41_w.jpg" width="400" height="73" alt="1726-1"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1726-1_53635908475_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/584ed0d5-c2eb-4f6a-903b-787848550c9d)
 
 Ссылки и информация используемая в материале:
 
