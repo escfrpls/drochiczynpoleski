@@ -9,15 +9,15 @@ tags:
 
 В последующие года скорей всего была церковь отстроена (либо была пристройка) где проводились богослужения. Т.к. следующим документом о действующей церкви по нашей местности - это униатские метрики с 1770 по 1801 года, которые находятся в РГИА.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53660011446/in/dateposted-public/" title="rgia"><img src="https://live.staticflickr.com/65535/53660011446_287473c015_m.jpg" width="240" height="28" alt="rgia"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![rgia_53660011446_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/14122141-a2ce-41b7-9871-d258dc948e65)
 
 В описании "Описания церквей и приходов. Гродненский православно-церковный календарь. Том 1" есть запись о постройке деревянной церкви в 1793 году.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53660479330/in/dateposted-public/" title="kalendar"><img src="https://live.staticflickr.com/65535/53660479330_8a3ba276e7_m.jpg" width="240" height="203" alt="kalendar"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![kalendar_53660479330_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/b6120963-2dbe-4713-969c-37584605fa50)
 
 Следует упомянуть о униатских метрических книгах у мармонов за 1823 год.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53660011716/in/dateposted-public/" title="marmon-1823"><img src="https://live.staticflickr.com/65535/53660011716_1117bd276a_m.jpg" width="240" height="64" alt="marmon-1823"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![marmon-1823_53660011716_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/07f13e2e-98d8-4f70-8bd1-e2cddbf64344)
 
 Есть упоминание о униатском священнике в Липниках с 1832 по 1836 года.
 
@@ -25,30 +25,30 @@ tags:
 
 Так в гродненском архиве имеются метрические книги по церкви с 1835 по 1871 года. Учитывая, что полоцкий собор был в 1839 и церковь была передана православным, часть имеем униатских метрик.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53660479645/in/dateposted-public/" title="grodno-archive"><img src="https://live.staticflickr.com/65535/53660479645_3a11c2904d_m.jpg" width="240" height="41" alt="grodno-archive"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![grodno-archive_53660479645_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/cbbc7882-b05f-4101-826f-1904dda981a3)
 
 На картах Риттиха 1864 года, церковь отмечена на картах.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53660236268/in/dateposted-public/" title="rittich"><img src="https://live.staticflickr.com/65535/53660236268_9e6033e7b8_m.jpg" width="240" height="144" alt="rittich"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![rittich_53660236268_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/ae22a7ee-b4c2-4d6b-85d9-dc61128af0be)
 
 Также она отмечена и на картах Шуберта 1866 - 1887 года.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53660236393/in/dateposted-public/" title="shubert"><img src="https://live.staticflickr.com/65535/53660236393_3fdfb8426d_m.jpg" width="240" height="123" alt="shubert"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![shubert_53660236393_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/1f083a75-afd5-4fbc-8cc5-b55fbc0efd59)
 
 Во времена II Rzeczypospolitej церковь была действующая как православная. Но на польских картах отмечена как костел.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53659150662/in/dateposted-public/" title="1918-1939"><img src="https://live.staticflickr.com/65535/53659150662_ff62324234_m.jpg" width="240" height="222" alt="1918-1939"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1918-1939_53659150662_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/28d98247-6f88-4f25-b1e1-f0abb9f658c1)
 
 В 1930 годах к церкви пристроили колокольню. Имеется фото церкви и ее описание в книге "Збор помнікаў гісторыі і культуры".
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53660480485/in/dateposted-public/" title="1919-1938-1"><img src="https://live.staticflickr.com/65535/53660480485_05230d05ec_m.jpg" width="101" height="240" alt="1919-1938-1"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1919-1938-1_53660480485_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/fb734440-939e-41a2-821d-719394aef1a3)
 
 Во время 2 мировой войны храм часто горел, а после прихода коммунистической власти и вовсе был разрушен.
 
 Сегодняшний храм был построен в 1991 году недалеко от место где была старая церковь и 30 августа того же года освящён.  
 Храм кирпичный, площадью 194 м2, однопрестольный, двуглавый. Купола имеют форму луковицы. Храм построен в форме корабля с полукруглым алтарём на востоке, имеет три входа. В притворе с правой стороны расположено крестильное помещение. Над притвором расположена колокольня, на которой находятся три колокола. Оконные проёмы арочные и снабжены железными решётками. В храме имеются два клироса: центральный и боковой. Стены средней части расписаны неизвестным художником. Храм с трёх сторон омывается искусственным водоёмом и обнесён металлическим забором с кирпичными столбами.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53660013001/in/dateposted-public/" title="2020-4"><img src="https://live.staticflickr.com/65535/53660013001_a9ed2bafea_m.jpg" width="240" height="180" alt="2020-4"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![2020-4_53660013001_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/05aeb0cf-054a-4e05-b11b-5d5a48bbe6a9)
 
 Ссылки и информация используемая в материале:
 
