@@ -11,45 +11,43 @@ tags:
 
 В списке христианских католических поселений 1726 года упоминаются Horki.
 
-![1864_53635953720_o](https://github.com/escfrpls/drochiczynpoleski/blob/74847ce28f4eac9d74adff0f550206b36613426b/drgpls/content/img/Gorki/1726-1_53659908563_o.jpg)
-
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53659908563/in/dateposted-public/" title="1726-1"><img src="https://live.staticflickr.com/65535/53659908563_bc6c9d2568_m.jpg" width="240" height="126" alt="1726-1"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1726-1_](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/d2c7e58b-4fa3-4f22-bc0e-464f5ade1a5a)
 
 В РГИА имеются копии униатских метрических книг по Горечской (Horeckiey) цервки с 1748 по 1801 гг.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53660042179/in/dateposted-public/" title="1748-1801"><img src="https://live.staticflickr.com/65535/53660042179_f110eceb73_m.jpg" width="240" height="31" alt="1748-1801"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1748-1801_53660042179_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/c1409e61-4b5e-48c8-9b57-4588acdf8a48)
 
 Также имеется упоминание о Горках в униатских метрических книгах Ильинской церкви 1774-1822 гг. После 3-го раздела Речи Посполитой, Горки входили в Кобринскй уезд.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53660042289/in/dateposted-public/" title="1774-1822"><img src="https://live.staticflickr.com/65535/53660042289_c5633cbc60_m.jpg" width="240" height="102" alt="1774-1822"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1774-1822_53660042289_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/0045c200-a623-482a-82b8-a048108644cc)
 
 В 1815 году был построен новый храм, не известно, по какой причине был разрушен или опустал старый. Тогда Горки уже входили в Ивановское благочиние, Гродненской епархии.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53658821652/in/dateposted-public/" title="1815"><img src="https://live.staticflickr.com/65535/53658821652_247daedd55_m.jpg" width="240" height="90" alt="1815"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1815_53658821652_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/b6b03fb7-3273-4549-843e-a17466ff5118)
 
 После полоцкого собора, храм был передам православным. В Волынском архиве имеются православные метрические книги от 1843 до 1933 гг.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53659909098/in/dateposted-public/" title="1843-1933"><img src="https://live.staticflickr.com/65535/53659909098_21d5ea05e5_m.jpg" width="240" height="196" alt="1843-1933"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1843-1933_53659909098_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/674e25a1-103d-4e89-b270-85938db6a31e)
 
 На картах Риттиха за 1864 в Горках имеется отмеченная церковь.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53659909243/in/dateposted-public/" title="1864-2"><img src="https://live.staticflickr.com/65535/53659909243_b6501a62df_m.jpg" width="240" height="164" alt="1864-2"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1864-2_53659909243_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/4ab63b52-666d-4fb8-8ca6-3795629f9931)
 
 Также стоит упомянуть карты Риттиха за 1866-67 гг.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53658822157/in/dateposted-public/" title="1866-67"><img src="https://live.staticflickr.com/65535/53658822157_bfbb205aa4_m.jpg" width="240" height="167" alt="1866-67"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1866-67_53658822157_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/bc41120f-8105-4b55-be1a-292248d2aec3)
 
 На русских картах начала XX также была отмечена церковь.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53659909683/in/dateposted-public/" title="rus-maps-nacz-xx"><img src="https://live.staticflickr.com/65535/53659909683_927b756bd1_m.jpg" width="240" height="84" alt="rus-maps-nacz-xx"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![rus-maps-nacz-xx_53659909683_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/008b0946-7685-4186-80d0-26120260b6a0)
 
 Во времени II Rzeczpospolitej храм был действующий, что подтверждают имеющиеся метрики и польские карты.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53658822587/in/dateposted-public/" title="pl-maps-nacz-1919-1938"><img src="https://live.staticflickr.com/65535/53658822587_0ecbeebff0_m.jpg" width="240" height="130" alt="pl-maps-nacz-1919-1938"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![pl-maps-nacz-1919-1938_53658822587_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/6bf60a22-8780-4859-85d0-2f3b49994511)
 
 В 1944 году харм был уничтожен партизанами. Имеется фотография прихожан д. Горки. Вероятно уже сделанная после сожжения храма. Также в послевоенное время село передано УССР.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53660043474/in/dateposted-public/" title="1941-1945"><img src="https://live.staticflickr.com/65535/53660043474_b4c1c5b9e1_m.jpg" width="240" height="136" alt="1941-1945"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1941-1945_53660043474_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/c8cdea70-1eea-4b10-a531-f5530a89d7aa)
 
 Стоить отметить, что священник на фото может быть Федор Левон. Но эта информация не точная.
 
@@ -61,7 +59,7 @@ tags:
 
 В новейшее время, уже современной Украины, была построена новая церковь. Село Гурки сейчас находятся в Любешовском районе, Волынской области, Украина.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53659910143/in/dateposted-public/" title="2020-1"><img src="https://live.staticflickr.com/65535/53659910143_f67d6a9d0b_m.jpg" width="240" height="180" alt="2020-1"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![2020-1_53659910143_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/c36a09a2-0fe9-4a1d-b68b-a26fa575ebd7)
 
 Ссылки и информация используемая в материале:
 
