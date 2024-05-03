@@ -9,14 +9,13 @@ tags:
 
 Во времена II Rzeczpospolita церковь была действующая, что потверждают карты 1919-1938 гг.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53659106027/in/dateposted-public/" title="1919-1939-2"><img src="https://live.staticflickr.com/65535/53659106027_446c5d5e1d_m.jpg" width="240" height="150" alt="1919-1939-2"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
+![1919-1939-2_53659106027_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/d9420759-db14-41b2-bba4-99d2a97698d0)
   
 В 1962 году решением Дрогичинского райисполкома церковь была закрыта. Позднее она была переоборудована и занижена почти на два метра и 9 апреля 1964 года передана колхозу «1 Мая» под культурные мероприятия. Так до 1990 года здание служило домом культуры деревни Толково.  
 Возобновились службы в храме 21 июля 1991 года в день празднования Казанской иконы Божией Матери. В церковный приход входят следующие деревни: Толково, Корсунь, Пигановичи и Виры.  
 Храм является историко-культурной ценностью.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53659106252/in/dateposted-public/" title="1"><img src="https://live.staticflickr.com/65535/53659106252_54d1768a57_m.jpg" width="240" height="180" alt="1"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1_53659106252_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/6f629138-7596-4ed1-9873-bc1045374c13)
 
 Ссылки и информация используемая в материале:
 
