@@ -7,7 +7,7 @@ tags:
 
 В списке христианских католических поселений 1726 года упоминаются Piorkowicze (Пёрковичи). Вполне вероятно, что уже на то время была униатская церковь.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53659118972/in/dateposted-public/" title="1726"><img src="https://live.staticflickr.com/65535/53659118972_02b6d37d63_m.jpg" width="240" height="75" alt="1726"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1726_53659118972_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/288f2bad-710c-4382-a834-ac37c4931a38)
 
 Нынешнюю каменную церковь фундовал около 1770 Зенон Вислоух, подкоморий брестский, владелец Перкович. Завершил строительство и украсил церковь его сын Виктор в 1805 году. Первоначально построенный в формах классицизма храм действовал как униатский.
 
@@ -21,28 +21,28 @@ tags:
 
 Подтверждение тому запись 1899 года, в описание приходов и церквей Гродненской губернии. Также стоит отметить, что в колокольне был колокол отлитый в 1601 году.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53659980421/in/dateposted-public/" title="1899"><img src="https://live.staticflickr.com/65535/53659980421_2cda902805_m.jpg" width="160" height="240" alt="1899"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1899_53659980421_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/76d13ace-9fec-4fe9-9982-1d08c534144f)
 
 Также имеются униатские метрики сохранившиеся от 1770 по 1801 гг РГИА.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53659119412/in/dateposted-public/" title="1770-1801"><img src="https://live.staticflickr.com/65535/53659119412_caa1aaaebf_m.jpg" width="240" height="26" alt="1770-1801"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1770-1801_53659119412_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/211592df-039b-4f09-8f54-de3bef0e458c)
 
 Также на сайте мармонов имеются униатские метрики церкви от 1822 по 1853 гг.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53660448260/in/dateposted-public/" title="1853"><img src="https://live.staticflickr.com/65535/53660448260_e8556abeda_m.jpg" width="240" height="85" alt="1853"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1853_53660448260_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/55faa077-baf2-43f6-afd6-305e79fe63f5)
 
 После запрета унии храм перешел к православной церкви.  
 В 1882 году прихожанами было пожертвовано 125 рублей. На эти средства починили храм, колокольню и ограду.
 
 В период II Rzeczypospolitej, храм упоминается на картах 1919-1939 гг.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53660205298/in/dateposted-public/" title="1919-1939-3"><img src="https://live.staticflickr.com/65535/53660205298_e596a3fcf5_m.jpg" width="240" height="118" alt="1919-1939-3"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1919-1939-3_53660205298_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/da4b9a95-dda4-4c52-9af8-3f75f413cf87)
 
 Церковь оставалась действующей до 1961 года, потом в ней хранились удобрения, которые начали разрушать кирпичные стены храма. Затем церковь разрушили большевики, оставив на месте старинного храма лишь стены. Отремонтировали храм в 1990 году местные прихожане собственными силами. Обновленный храм был освящен Высокопреосвященнейшим Константином, архиепископом Брестским и Кобринским 24 ноября 1990 года.
 
 Ныне действующая церковь, фото 2019.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53660448710/in/dateposted-public/" title="2019"><img src="https://live.staticflickr.com/65535/53660448710_dab43ff385_m.jpg" width="240" height="156" alt="2019"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![2019_53660448710_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/70a890be-aff2-4c27-b69e-6fb5d0c1f161)
 
 Ссылки и информация используемая в материале:
 
