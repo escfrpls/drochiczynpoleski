@@ -13,7 +13,7 @@ tags:
 
 <figure>
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53656981577/in/dateposted-public/" title="churchtolkovo-1"><img src="https://live.staticflickr.com/65535/53656981577_4525a383c6_w.jpg" width="400" height="246" alt="churchtolkovo-1"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![churchtolkovo-1_53656981577_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/5f4c0f44-f889-46fa-b4a3-ef119091ac84)
 
 <figcaption>
 
@@ -27,7 +27,7 @@ tags:
 
 <figure>
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53658317830/in/dateposted-public/" title="tolkovo-protestant-church-1930"><img src="https://live.staticflickr.com/65535/53658317830_bc621eaf6b_w.jpg" width="400" height="254" alt="tolkovo-protestant-church-1930"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![tolkovo-protestant-church-1930_53658317830_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/3cf57ada-fbb3-4360-9721-a95fda5a6d3b)
 
 <figcaption>
 
@@ -53,7 +53,7 @@ tags:
 
 <figure>
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53658206169/in/dateposted-public/" title="churchtolkovo2"><img src="https://live.staticflickr.com/65535/53658206169_a789ef7e70_w.jpg" width="400" height="229" alt="churchtolkovo2"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![churchtolkovo2_53658206169_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/1571e8e6-bdc3-4e4b-9b05-f09eac46e432)
 
 <figcaption>
 
