@@ -9,13 +9,13 @@ tags:
 
 Наша деревня отмечены на карте 1832 года под названием "Горка".
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53635851864/in/album-72177720316029897/" title="1832"><img src="https://live.staticflickr.com/65535/53635851864_c76344290c_m.jpg" width="240" height="184" alt="1832"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1832_53635851864_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/b1757ce2-fe82-4ba0-b567-4e20bee4ae6a)
 
 Есть также упоминание о Горки на картах Шуберта 1864-1887 гг.
 
 <figure>
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53635723133/in/album-72177720316029897/" title="1864-1"><img src="https://live.staticflickr.com/65535/53635723133_03776d6bc4_m.jpg" width="240" height="134" alt="1864-1"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1864-1_53635723133_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/e7a7001b-9ccb-4513-940c-50e3f3ecc066)
 
 <figcaption>
 
@@ -27,19 +27,19 @@ tags:
 
 На российских картах начала XX века, деревня называется Гурка.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53634621882/in/album-72177720316029897/" title="ruxx"><img src="https://live.staticflickr.com/65535/53634621882_8386d04b0d_m.jpg" width="240" height="153" alt="ruxx"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![ruxx_53634621882_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/e48b53dd-f5c6-49f2-8860-9c08f7672a24)
 
 В документе 1905 года, о населении Российской империи имевших более 500 жителей упоминается Гурки c общим население 949 человек, 470 мужского пола, 479 женского.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53635516941/in/album-72177720316029897/" title="1905"><img src="https://live.staticflickr.com/65535/53635516941_c143e2bdb0_m.jpg" width="240" height="11" alt="1905"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1905_53635516941_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/2b057a38-e2cc-44a3-a8c1-339b175ed27d)
 
 Во время II Rzeczpospolita, деревня Górka все еще существовала, что подтверждают карты.
 
 На польских картах до 1919 года, деревня отмена под названием Górka.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53635963245/in/album-72177720316029897/" title="plxx"><img src="https://live.staticflickr.com/65535/53635963245_5a7703b55a_m.jpg" width="240" height="139" alt="plxx"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![plxx_53635963245_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/a6394b3f-c33e-4b82-83db-f8fc1ac04a6c)
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53635963500/in/album-72177720316029897/" title="1919-1939-1"><img src="https://live.staticflickr.com/65535/53635963500_6e134cb8fa_m.jpg" width="240" height="115" alt="1919-1939-1"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1919-1939-1_53635963500_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/2d332c9d-3435-4769-ad60-ab33b06ddca9)
 
 По приходом ситуация выглядела следующим образом:
 
@@ -50,13 +50,13 @@ tags:
 
 С полученной информации от председателя сельисполкома, последний раз Гурка упоминалась как отдельная деревня в 1979 году.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53634622822/in/album-72177720316029897/" title="1979"><img src="https://live.staticflickr.com/65535/53634622822_b9ace88c6b_m.jpg" width="240" height="40" alt="1979"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1979_53634622822_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/5747396c-9a72-4898-abb7-5e3c64714808)
 
 Начиная с 1980 года, Гурка уже была как часть Закозели.
 
 <figure>
-
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53634623137/in/album-72177720316029897/" title="nw"><img src="https://live.staticflickr.com/65535/53634623137_7124996835_m.jpg" width="240" height="150" alt="nw"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  
+![nw_53634623137_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/0205b9a9-b468-48fc-8fc3-6311109ff0c6)
 
 <figcaption>
 
