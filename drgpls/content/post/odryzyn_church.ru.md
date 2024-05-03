@@ -9,11 +9,11 @@ tags:
 
 Самое давние упоминание о церкви это метрические униатские книги с 1684 по 1801 гг. Которые хранятся в РГИА. Эта была деревянная церковь, освященная в честь Успения Пресвятой Богородицы, стояла на южном берегу озера.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53660468745/in/dateposted-public/" title="1684-1801"><img src="https://live.staticflickr.com/65535/53660468745_f469948430_m.jpg" width="240" height="28" alt="1684-1801"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1684-1801_53660468745_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/3198b364-14f0-4770-bfc9-1ca625ea6e18)
 
 Нет информации, что случилось с церковью, но в 1783 году была построена новая униатская церковь помещиками Чернецкими--Чарными.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53660468920/in/dateposted-public/" title="1783"><img src="https://live.staticflickr.com/65535/53660468920_581cfbe025_m.jpg" width="240" height="152" alt="1783"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1783_53660468920_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/461ca2a5-f532-469e-990e-6d654b9de3c4)
 
 Также есть упоминания о униатских последних священнослужителей данной церкви до 1837 года:
 
@@ -25,17 +25,17 @@ tags:
 
 В архиве Гродно имеются уже православные метрические книги от 1843 по 1863 гг. Они же доступны на сайте мармонов онлайн.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53660359024/in/dateposted-public/" title="1843-63-grodno"><img src="https://live.staticflickr.com/65535/53660359024_eda062504b_m.jpg" width="240" height="99" alt="1843-63-grodno"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1843-63-grodno_53660359024_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/2ee8d33e-9a17-432f-9630-aec449f45794)
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53660359154/in/dateposted-public/" title="1843-63"><img src="https://live.staticflickr.com/65535/53660359154_26f8076f43_m.jpg" width="240" height="72" alt="1843-63"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1843-63_53660359154_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/a696dda1-46dc-402a-8e04-fb4d3d3a426a)
 
 На картах народонаселения Риттиха 1864 на карте отмечена церковь в Одрижине.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53660359229/in/dateposted-public/" title="1864-1"><img src="https://live.staticflickr.com/65535/53660359229_a920e45b7e_m.jpg" width="240" height="123" alt="1864-1"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1864-1_53660359229_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/b81a800e-af72-4496-b0d2-de7607344fbc)
 
 Так на картах Шуберта 1866-1867 гг, церковь также отмечена на карте.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53659140302/in/dateposted-public/" title="1866-67"><img src="https://live.staticflickr.com/65535/53659140302_8679657f52_m.jpg" width="240" height="167" alt="1866-67"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1866-67_53659140302_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/01717d93-06c7-474c-8458-2a5396481a06)
 
 25 февраля 1870 г., совершено освящение Одрыжинской церкви. Возглавлял приход священник Иннокентий Карнатовский, окончивший Литовскую Духовную Семинарию. В период с 1914 по 1923 г в Одрыжинский приход, помимо села Одрыжин, входили деревни Глинно и Горки.
 
@@ -43,7 +43,7 @@ tags:
 
 Не известно была ли церковь действующая во время II Rzeczpospolitej, т.к. на польских картах церковь не была отмечена.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53660359534/in/dateposted-public/" title="1918-1938"><img src="https://live.staticflickr.com/65535/53660359534_bf8b8ac48f_m.jpg" width="240" height="189" alt="1918-1938"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1918-1938_53660359534_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/9d51ae75-a55a-4c30-9291-50507ba6a79b)
 
 В 1944 году церковь сгорела.
 
@@ -51,7 +51,7 @@ tags:
 
 На данный момент храм действующий и в идеальном состоянии.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53660001956/in/dateposted-public/" title="2020"><img src="https://live.staticflickr.com/65535/53660001956_c577bd90a6_m.jpg" width="240" height="160" alt="2020"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![2020_53660001956_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/87264eee-3dcf-43d1-8829-b75fd16e0fc7)
 
 Ссылки и информация используемая в материале:
 
