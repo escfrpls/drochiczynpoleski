@@ -11,13 +11,13 @@ tags:
 
 Constitutiones Synodales Diaecesis Luceoriensis & Brestensis ab Illustrissimo Excellentissimo & Reverendissimo Domino”, D. Stefano Boguslao a Rupniew in Januszowice Rupniewski; Anno Domini 1726.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53636003224/in/dateposted-public/" title="cmentaz"><img src="https://live.staticflickr.com/65535/53636003224_404d3eb6c1_m.jpg" width="240" height="64" alt="cmentaz"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![cmentaz_53636003224_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/315ca334-d591-408b-a5d4-8394c71a8051)
 
 Имеются сохранившиеся метриви униятской Зёловоской цервки от 1769 до 1801 гг.:
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53635669121/in/dateposted-public/" title="metryka"><img src="https://live.staticflickr.com/65535/53635669121_016f7c3ab2_m.jpg" width="240" height="38" alt="metryka"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![metryka_53635669121_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/73dc6af8-f281-4148-ae1c-e85fffe908ca)
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53636003594/in/dateposted-public/" title="metryki2"><img src="https://live.staticflickr.com/65535/53636003594_8ffff17616_m.jpg" width="240" height="16" alt="metryki2"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![metryki2_53636003594_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/b35bd42e-dd9f-43e4-a2e1-5b7edc6f91bb)
 
 Далее упоминаются записи о Зёловской церькви как униятской:
 
@@ -34,17 +34,17 @@ Constitutiones Synodales Diaecesis Luceoriensis & Brestensis ab Illustrissimo Ex
 
 В книге «Описания церквей и приходов. Гродненский православно-церковный календарь. Том 1» имеется упоминание о церкви, примерный год записи 1867:
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53634773442/in/dateposted-public/" title="ziolow"><img src="https://live.staticflickr.com/65535/53634773442_2fe7571878_m.jpg" width="240" height="197" alt="ziolow"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![ziolow_53634773442_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/d8198039-0f95-42c6-bed7-d4aff4ce14d3)
 
 Во времени Второй Речи Посполитой (польск. Rzeczpospolita Polska, II Rzeczpospolita) 1918 — 1939 гг. На картах обозначается как костел.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53636003949/in/dateposted-public/" title="ziolowpl"><img src="https://live.staticflickr.com/65535/53636003949_bf2c8951b4_m.jpg" width="240" height="173" alt="ziolowpl"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![ziolowpl_53636003949_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/6e21453c-af55-4e9d-b93a-e0391be7fdd1)
 
 Во время коммунистических гонений храм закрыли, и вновь его вернули верующим только в 1990-м году.
 
 <figure>
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53634773687/in/dateposted-public/" title="zelovo"><img src="https://live.staticflickr.com/65535/53634773687_d492e24e8d_m.jpg" width="240" height="148" alt="zelovo"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![zelovo_53634773687_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/a675a8e0-1eb2-4824-aa8d-8dd33ba9229e)
 
 <figcaption>
 
@@ -58,7 +58,7 @@ Constitutiones Synodales Diaecesis Luceoriensis & Brestensis ab Illustrissimo Ex
 
 <figure>
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53635876648/in/dateposted-public/" title="ziolowo3"><img src="https://live.staticflickr.com/65535/53635876648_4ce6c56e91_m.jpg" width="240" height="180" alt="ziolowo3"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![ziolowo3_53635876648_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/b7a89d61-956e-48e3-8900-cc94c6f7b794)
 
 <figcaption>
 
@@ -69,8 +69,8 @@ Constitutiones Synodales Diaecesis Luceoriensis & Brestensis ab Illustrissimo Ex
 </figure>
 
 <figure>
-
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53635880378/in/dateposted-public/" title="ziolowo2"><img src="https://live.staticflickr.com/65535/53635880378_13bddc6bf5_m.jpg" width="240" height="179" alt="ziolowo2"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  
+![ziolowo2_53635880378_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/696c994d-cfbd-4350-b6c9-6f637b14db8a)
 
 <figcaption>
 
@@ -82,7 +82,7 @@ Constitutiones Synodales Diaecesis Luceoriensis & Brestensis ab Illustrissimo Ex
 
 <figure>
 
-![](https://drohiczynpoleski.wordpress.com/wp-content/uploads/2019/12/ziolowo4.jpg?w=448)
+![ziolowo4](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/bcb537ff-c9d1-4b69-83b9-7c171808d3c4)
 
 <figcaption>
 
@@ -94,7 +94,7 @@ Constitutiones Synodales Diaecesis Luceoriensis & Brestensis ab Illustrissimo Ex
 
 Новый храм Святой Живоначальной Троицы строился, начиная с августа 2005-го года, и в начале июня 2012-го состоялось его освящение.
 
-![](https://drohiczynpoleski.wordpress.com/wp-content/uploads/2019/12/ziolowo5.jpg?w=525)
+![ziolowo5](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/010dcbf1-f579-4ed9-8364-fb8ae40df52a)
 
 Ссылки и информация используемая в материале:
 
