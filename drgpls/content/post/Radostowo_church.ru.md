@@ -15,20 +15,21 @@ tags:
 
 В архиве РГИА также имеются метрические униатские книги по Радостово 1790 - 1797 гг.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53659973656/in/dateposted-public/" title="1790-1797"><img src="https://live.staticflickr.com/65535/53659973656_0cbd319605_m.jpg" width="240" height="36" alt="1790-1797"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1790-1797_53659973656_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/d76481a1-7bba-4bd3-8c79-91e1ae7de9a5)
 
 После 1839 года, все униатские церкви были переданы православным. Со временем униатская церковь была разрушена, к сожалению информации по какой причине нет.
 
 В 1862 году на месте униатской церкви была сооружена православная. Церковь была построена из дерева на каменном фундаменте в форме равностороннего продолговатого креста. Рядом с храмом была устроена деревянная колокольня с тремя колоколами.
 
-![](https://drohiczynpoleski.wordpress.com/wp-content/uploads/2020/01/1862.jpg?w=303)<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53659973776/in/dateposted-public/" title="1862"><img src="https://live.staticflickr.com/65535/53659973776_d1629a6abd_m.jpg" width="240" height="208" alt="1862"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1862_53659973776_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/c524e6fe-f77a-495c-bf59-6819ce7985df)
+
 На картах Риттиха 1864 года, в Радостово (Радиставь) отображен православные приход. Который относился к Волынской губернии.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53660198263/in/dateposted-public/" title="1864-2"><img src="https://live.staticflickr.com/65535/53660198263_1cf93f8d12_m.jpg" width="240" height="98" alt="1864-2"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1864-2_53660198263_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/52fa7fd7-8adf-41f2-b619-063d1d33e231)
 
 На картах Шуберта 1866-67 годов, также отображена данная православная церковь.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53659113337/in/dateposted-public/" title="1866-67"><img src="https://live.staticflickr.com/65535/53659113337_98d8c2d06e_m.jpg" width="240" height="166" alt="1866-67"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1866-67_53659113337_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/ef8631ee-f35f-4cfb-bda1-16059d330d65)
 
 Имеется список православной духовенство после полоцкого собора.
 
@@ -44,13 +45,13 @@ tags:
 
 Также имеются немецкие фото примерно 1915-17 годов церкви в Радостово.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53659113587/in/dateposted-public/" title="1916"><img src="https://live.staticflickr.com/65535/53659113587_108c25507b_m.jpg" width="240" height="180" alt="1916"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1916_53659113587_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/81f4f766-60f1-42fe-a2d2-698f4f4619c5)
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53659113932/in/dateposted-public/" title="19162"><img src="https://live.staticflickr.com/65535/53659113932_024e0704ef_m.jpg" width="240" height="160" alt="19162"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![19162_53659113932_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/be5859df-e318-441e-b468-4609c6938cb9)
 
 Во времени II Rzeczpospolita (1919-1939 гг). Церковь также обозначается на картах (Radostów).
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53660333139/in/dateposted-public/" title="1919-1939-4"><img src="https://live.staticflickr.com/65535/53660333139_090bdc5456_m.jpg" width="240" height="151" alt="1919-1939-4"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1919-1939-4_53660333139_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/d30f6258-b098-4f8f-b19a-ec3353144bed)
 
 В 1962 году Свято-Покровская церковь была закрыта. Богослужения в ней не совершались. Вся церковная утварь была вывезена в Рождество-Богородичную церковь деревни Ляховичи. Некоторое время в здание Покровского храма использовалось как склад для хранения зерна. К концу XX века церковь обветшала и пришла в упадок, возникла необходимость в ремонтных работах. Ремонтировали храм местные жители своими сила и средствами. При реконструкции была изменена форма здания. 10 июня 1989 года починенный храм был освящен Кобринским благочинным священником Александром Лесиком.
 
@@ -58,7 +59,7 @@ tags:
 
 <figure>
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53659114417/in/dateposted-public/" title="2013"><img src="https://live.staticflickr.com/65535/53659114417_593680efbe_m.jpg" width="240" height="180" alt="2013"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![2013_53659114417_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/052ec6f2-2402-4156-ba3d-7e4ed5993725)
 
 <figcaption>
 
