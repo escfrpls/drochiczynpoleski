@@ -13,20 +13,21 @@ tags:
 
 На картах Шуберта 1866-1887 гг. церковь находилась между 2-х кладбищь.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53659932528/in/dateposted-public/" title="1866-1887-2"><img src="https://live.staticflickr.com/65535/53659932528_023fbe6f46_m.jpg" width="240" height="140" alt="1866-1887-2"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1866-1887-2_53659932528_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/c497dc00-a06a-4f33-a225-177e7e42baf5)
 
 В "Описания церквей и приходов. Гродненский православно-церковный календарь. Том 1", 1899 год имеется запись о церкви в д. Лосинцы.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53660066974/in/dateposted-public/" title="1899"><img src="https://live.staticflickr.com/65535/53660066974_7aebfbda99_m.jpg" width="240" height="149" alt="1899"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1899_53660066974_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/39beaea5-3bc8-4c38-9dbc-d2b896f8878c)
 
 Во времена II Rzeczypospolitej 1919-1938 гг. Храм также был действующий, что подтверждают карты. Как мы можем заметить, 2-го кладбища снизу церкви уже нет.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53658846892/in/dateposted-public/" title="1919-1938"><img src="https://live.staticflickr.com/65535/53658846892_6f37f0aa3e_m.jpg" width="240" height="141" alt="1919-1938"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1919-1938_53658846892_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/15b344f0-dd59-480b-bff7-2b2ca6337abc)
 
 В июле 1944 года часть стены Свято-Успенского храма была взорвана. В 1960-х годах богослужения в церкви перестали совершаться. Храм был закрыт. Возобновление служб произошло после освящения храма 18 ноября 1989 года Кобринским благочинным священником Александром Лесиком. После возобновления служб был образован самостоятельный приход.
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53659706646/in/dateposted-public/" title="2019"><img src="https://live.staticflickr.com/65535/53659706646_0866b11597_m.jpg" width="240" height="186" alt="2019"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53659933888/in/dateposted-public/" title="2019-d18cd184d0b7d18b"><img src="https://live.staticflickr.com/65535/53659933888_2523bdd26f_m.jpg" width="240" height="185" alt="2019-d18cd184d0b7d18b"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![2019_53659706646_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/e36aef6b-da06-4eaf-a0b0-574cdc09bbe6)
+
+![2019-d18cd184d0b7d18b_53659933888_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/bdee55a3-6f09-41b6-a2f5-ff78ad91febb)
 
 Ссылки и информация используемая в материале:
 
