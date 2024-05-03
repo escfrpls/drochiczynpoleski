@@ -14,13 +14,13 @@ tags:
 
 Общая картина на карте выглядит следующим образом:
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53635813804/in/album-72177720316029612/" title="1"><img src="https://live.staticflickr.com/65535/53635813804_34f4444bbe_w.jpg" width="400" height="240" alt="1"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![1_53635813804_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/f68857c1-cbc2-4fff-b0c2-40bc2e59b938)
 
 Приблизительно видны территории, которые были заняты параафиями. А теперь о каждой немного подробнее.
 
 Дывинская:
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53634583202/in/album-72177720316029612/" title="dywin"><img src="https://live.staticflickr.com/65535/53634583202_b2f9091479_w.jpg" width="400" height="326" alt="dywin"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![dywin_53634583202_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/24aecff9-9ad3-49f5-b420-06021a7408d9)
 
 В состав парафии входят:
 
@@ -33,7 +33,7 @@ tags:
 
 Городецкая:
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53635684368/in/album-72177720316029612/" title="horodec"><img src="https://live.staticflickr.com/65535/53635684368_f5e6f16a1c_w.jpg" width="400" height="328" alt="horodec"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![horodec_53635684368_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/063e91e4-3ae0-468c-9623-2707e9b8a77b)
 
 В состав парафии входят:
 
@@ -57,7 +57,7 @@ tags:
 
 Брашевичская:
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53635478586/in/album-72177720316029612/" title="braszhewicze"><img src="https://live.staticflickr.com/65535/53635478586_f11f56f9a4_w.jpg" width="400" height="384" alt="braszhewicze"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![braszhewicze_53635478586_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/bffffc4b-f41e-4fe2-8195-9e93fcfec6b0)
 
 В состав парафии входят:
 
@@ -82,7 +82,7 @@ tags:
 
 Бездежская:
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53634583642/in/album-72177720316029612/" title="chomsk"><img src="https://live.staticflickr.com/65535/53634583642_8cd798a3d0_w.jpg" width="400" height="324" alt="chomsk"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![chomsk_53634583642_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/815f41ea-1b1d-413d-bb24-6eb835a88de8)
 
 В состав парафии входят:
 
@@ -101,7 +101,7 @@ tags:
 
 Яновская (сейчас Иваново):
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53635684748/in/album-72177720316029612/" title="janow"><img src="https://live.staticflickr.com/65535/53635684748_314cf06bb4_w.jpg" width="400" height="299" alt="janow"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![janow_53635684748_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/0a30a6ea-0a39-439a-b94f-64d5f5d48d17)
 
 В состав парафии входят:
 
