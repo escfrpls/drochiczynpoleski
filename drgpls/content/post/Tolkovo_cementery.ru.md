@@ -9,17 +9,17 @@ tags:
 
 Со слов жительницы деревни Толково, Веры Гриневич. На старом кладбище при Польше еще хоронили людей, но это было очень редко. Потом там стало не хватить места и кладбище расширили. На её памяти уже при Польше людей хорониили в самом начале кладбища, что дают знать, о том, что так называемая часть кладбища было создана после 1905 года, когда была построена в д. Толково православная церковь. Также с воспоминаний Веры Гриневич и Клавдии Калюта Журук, на старом кладбище до войны ставили обычные деревенные кресты без подписей, они были и после войны. По со временем сгнили и их выбросили.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53658080668/in/dateposted-public/" title="cmentaz-tolkowo"><img src="https://live.staticflickr.com/65535/53658080668_c51f13a311_w.jpg" width="400" height="240" alt="cmentaz-tolkowo"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![cmentaz-tolkowo_53658080668_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/0eee83ec-1108-4ac1-9e4e-ee93e75ead85)
 
 На старом и новом кладщите в Толково хоронили православных и протестантов (баптистов).
 
 Данное кладбище можно увидеть на картах "Карта РККА Беларуси и Литвы • 2 км."
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53658211269/in/dateposted-public/" title="cmetarz3"><img src="https://live.staticflickr.com/65535/53658211269_818cdd0b05_w.jpg" width="349" height="375" alt="cmetarz3"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![cmetarz3_53658211269_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/bbf714f4-4297-47f5-9a65-5765a755b69c)
 
 Но на картах 1866 года можно заметить, что на этом места кладбища нет, 3-е и оно же самое старое кладбище было выше Толкова, у Виров.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53657857821/in/dateposted-public/" title="cmentaz2"><img src="https://live.staticflickr.com/65535/53657857821_4b2e7f6fc4_w.jpg" width="400" height="385" alt="cmentaz2"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![cmentaz2_53657857821_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/9654331e-4092-4490-97f9-8d5b10f33908)
 
 Так мы можем увидеть, что между Толково и фольварком Толково (который просуществовал до 1945-47 года) кладбище появилось после 1905 года.
 
@@ -27,12 +27,13 @@ tags:
 
 На польских картах WIG все еще можно просмотреть сохранившиеся дороги и тропинки, но уже без кладбища до 2-й мировой войны.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53657858301/in/dateposted-public/" title="2"><img src="https://live.staticflickr.com/65535/53657858301_e752a8407e_w.jpg" width="400" height="335" alt="2"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![2_53657858301_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/b2e6c89a-bd3a-4b87-9d8a-2faf7b7c0ef7)
 
 Сегодняшя карта с примерным расположение кладбища.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53658081623/in/dateposted-public/" title="3"><img src="https://live.staticflickr.com/65535/53658081623_92229ac8a9_w.jpg" width="400" height="260" alt="3"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![3_53658081623_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/cce4ea85-9d20-4c47-a74b-fdbf462da8b0)
 
 Ввид со стороны построеной дороги M10
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/98644112@N04/53657858801/in/dateposted-public/" title="img_20200714_163246"><img src="https://live.staticflickr.com/65535/53657858801_cd29e6e569_w.jpg" width="400" height="300" alt="img_20200714_163246"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![img_20200714_163246_53657858801_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/32ebf79b-c870-47c2-a9f9-c39e41526e81)
+
