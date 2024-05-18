@@ -28,7 +28,6 @@ tags:
 
 ![1864_53658233344_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/4cbae70d-c4ce-43b9-8a00-18b2c817bf3b)
 
-
 На картах Шуберта 1866 - 1867 гг. церковь тоже была отмечена на карте.
 
 ![1866-67_53657882701_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/621ef014-c04c-40f5-bb3d-3b411a7384e9)
