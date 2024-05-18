@@ -1,8 +1,8 @@
 ---
-title: "Bezdzież"
+title: "Bezdzeż"
 date: "2024-05-18"
 tags: 
-  - "Bezdzież"
+  - "Bezdzeż"
 ---
 
 Bezdež is mentioned in the 15th century as "Bezdež Parish", as part of the Zdítov Parish. In 1409 Grand Duke Witowt gave Bezdeż parish to the Church of the Mother of God in Troki. In 1495 Bezdeż is mentioned in the gift harmony of the Minsk princess Maria Semyonova Aleksandrovna (widow of Prince Simeon Alelkovich) and her son Prince Vasily Semeonovich to the Pinsk viceroy Furs Ivanovich. In documents from 1517 to the 18th century, the Bezdež estate, which was owned by the canons of the church in Troki, its borders and lands previously owned by the Pinsk princes, are mentioned. In 1561-66 Bezdež received town rights. In 1622 the Bezdež church was mentioned. Until 1744 a Roman Catholic parish was established.
