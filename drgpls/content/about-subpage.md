@@ -20,13 +20,14 @@ menu:
     weight: 10
 ---
 
-Site “Drohiczyn-Poleski” is dedicated to the history of Drohiczyn and Drohiczyn district.
-Here are collected materials ranging from the first mentioning of the city and settlements, churches, forgotten cemeteries, historical sites which are part of the Drohiczyn district or have ever been to this day.
-This site is maintained only by me in 2 languages: Russian and English.
+The project "Drohiczyn-Poleski" is dedicated to the history of Drohiczyn and Drohiczyn district, as well as historical places that belonged to this region.
+Here are collected materials from the first mentioning of the city and settlements, churches, forgotten cemeteries, historical places that are part of Drohiczyn district or have ever been until today.
+This site is maintained only by me in 2 languages Russian, Polish and English.
 
-Each article is updated as new facts emerge. On the site menu "Tags", you can select the desired settlement or other information that interests you and you will see a directory of articles on your area. 
-In the article be sure to search and specify local history books on settlements and the place where they are stored (online or archive).
+Each article is updated when new facts appear. On the site in the menu "Tags", you can select a settlement or other information of interest to you and you will see a catalog of articles on your area.
+In the article necessarily try to search and specify the metric books on settlements and the place of their storage (online or archive).
 
-Aim of the project: To help and guide people who are interested in history of their family that looking for genealogy and history of your area is not so difficult. You don't always have to pay money in order to get a result. 
-Also, as much as possible to help restore family ties that have been severed due to war, revolutions and migrations to other countries. This site will also contain quite a few historical facts before 1939.
+Project Goal: To help and guide people who are interested in the history of their family, that the search for genealogy and history of your area is not so difficult. It is not always necessary to pay money in order to achieve results.
+Also to help to restore family ties that have been broken due to war, revolutions and migrations to other countries.
+
 
