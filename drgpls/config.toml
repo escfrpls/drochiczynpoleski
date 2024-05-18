@@ -9,10 +9,10 @@ disqusShortname = ""
 googleAnalytics = ""
 
 [author]
-name = "Timotheus Kaljuta"
+name = "Tymoteusz Kaljuta"
 
 [params]
-author = "Timotheus Kaljuta"
+author = "Tymoteusz Kaljuta"
 description = "The history of my family and the region of Drohiczyn Poleski"
 dateFormat = "2006-01-02"
 paginationSinglePost = true
