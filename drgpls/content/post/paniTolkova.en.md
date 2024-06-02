@@ -1,8 +1,8 @@
 ---
 title: "Tolkowo Manor”
 date: "2024-06-02
-Tags:
-  - "Tolkowo
+tags:
+  - "Tolkowo"
 ---
 
 In the Lithuanian archive there is a plan of the Tolkowa estate for September 18, 1839.
