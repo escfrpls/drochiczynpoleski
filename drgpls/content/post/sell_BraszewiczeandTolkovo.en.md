@@ -1,5 +1,5 @@
 ---
-title: “Sale of Braszewicze and Tolkowo manor in 1636.”.
+title: “Sale of Braszewicze and Tolkowo manor in 1636.”
 date: “2024-03-27”
 tags:
   - "Braszewicze"
