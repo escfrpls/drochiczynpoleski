@@ -22,7 +22,7 @@ menu:
 
 The project "Drohiczyn-Poleski" is dedicated to the history of Drohiczyn and Drohiczyn district, as well as historical places that belonged to this region.
 Here are collected materials from the first mentioning of the city and settlements, churches, forgotten cemeteries, historical places that are part of Drohiczyn district or have ever been until today.
-This site is maintained only by me in 2 languages Russian, Polish and English.
+This site is maintained only by me in 3 languages Russian, Polish and English.
 
 Each article is updated when new facts appear. On the site in the menu "Tags", you can select a settlement or other information of interest to you and you will see a catalog of articles on your area.
 In the article necessarily try to search and specify the metric books on settlements and the place of their storage (online or archive).
