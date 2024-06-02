@@ -1,8 +1,8 @@
 ---
-Title: “Monetary remains of the Tolkovo estate, 1805.”
-date: “2024-06-02”
+Title: "Monetary remains of the Tolkovo estate, 1805.
+date: "2024-06-02"
 Tags:
-  - “Tolkowo”.
+  - "Tolkowo"
 ---
 
 In the document of 1805. In the document “Remanenta pieniężne na włoscianach” you can see a list of the inhabitants of the village of Tolkowo at that time.
