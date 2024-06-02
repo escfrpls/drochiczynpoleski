@@ -1,6 +1,6 @@
 ---
 title: "Tolkowo Manor”
-date: "2024-06-02
+date: "2024-06-02"
 tags:
   - "Tolkowo"
 ---
