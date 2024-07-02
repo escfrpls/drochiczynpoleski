@@ -19,7 +19,7 @@ There is also information about clergymen who served in Worocewicze and who were
 
 - Akaronka Grzegorz, \* 1783. Vikary church v. Staszany of Pinsk district 1799 (formerly); lived in v. Worocewicze, Kobryn district 1799. Wife of Audea, \* 1772; daughter Pelageya, \* 1795.
 - Karolewicz Vasily, \* 1729. Priest of the church in the village. Staszeny of Pinsk district. 1799 (former); Lives in Worocewicze, Kobryn district. "in order to feed" 1799; widower 1799.
-- Liaceiwcz Roman (Romuald), son of Alisey. Vicars of the church in Worocewicze, Kobryn district. 1836 - 25.02.1837;
+- Liacewicz Roman (Romuald), son of Alisey. Vicars of the church in Worocewicze, Kobryn district. 1836 - 25.02.1837;
 - Pawel Rozdzialowski, \* 1776. From the Minsk province. Administrator 1832 and priest 1836 - 25.02.1837 of the church in Worocewicze, Kobryn district.
 
 After the Council of Polotsk in 1839, the church was handed over to the Orthodox.
