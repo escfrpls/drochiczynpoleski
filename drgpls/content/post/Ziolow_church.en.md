@@ -1,46 +1,46 @@
 ---
-title: "Зёловская церковь"
-date: "2024-03-27"
+title: "Ziolowo Church
+date: "2024-07-02"
 tags: 
-  - "Зёлово"
+  - "Ziolowo"
 ---
 
-Когда и кем была построена церковь в Зёлово упоминания на данный момент нет. Но по найденым документам можно проследить, что первое упоминание связанно с католичеством.
+When and by whom the church in Ziolowo was built is not mentioned at the moment. But according to the found documents it can be traced that the first mention is related to Catholicism.
 
-В списке христианских католических поселений 1726 года упоминается Ziołow. Вполне вероятно, что уже на то время это была униятская церковь.
+In the list of Christian Catholic settlements of 1726 Ziolowo is mentioned. It is likely that it was already a Uniate church at that time.
 
 Constitutiones Synodales Diaecesis Luceoriensis & Brestensis ab Illustrissimo Excellentissimo & Reverendissimo Domino”, D. Stefano Boguslao a Rupniew in Januszowice Rupniewski; Anno Domini 1726.
 
 ![cmentaz_53636003224_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/315ca334-d591-408b-a5d4-8394c71a8051)
 
-Имеются сохранившиеся метриви униятской Зёловоской цервки от 1769 до 1801 гг.:
+There are preserved metrivi from 1769 to 1801:
 
 ![metryka_53635669121_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/73dc6af8-f281-4148-ae1c-e85fffe908ca)
 
 ![metryki2_53636003594_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/b35bd42e-dd9f-43e4-a2e1-5b7edc6f91bb)
 
-Далее упоминаются записи о Зёловской церькви как униятской:
+Further records of the Ziolowo church as Uniate are mentioned:
 
-> Мiхалевiч Фядос, Михалѣвич Теодозiй, святар царквы ў в. Зёлава Кобрынскага павета 1832. \[575, арк. 61\].
+> Michalewicz Fiados, Michal Theodosius, saint of the tsar's church in the v. Ziolowo Kobrynskogo paveta 1832. \[575, арк. 61\].
 
-> Янцевiч Мiхал сын Марцiна, Янцевичь Михаиль Мартиновь сынь, \*1808. Высвечаны брэсцкiм епiскапам-суфраганам Л.-Л. Явароўвскiм 09.12.1832; святар царквы ў в. Зёлава Кобрынскага павета 1836-25.02.1837; экзаменатар Янаўскага дэканата 1836. \[576, арк. 66 адв.-67; 695\].
+> Jancewicz Michal son of Martin, Jancewicz Michal Martinov son, \*1808. Highlighted by the Brescian episcopal suffragan L.-L. Jaworowski 09.12.1832; saint of the tsar's church in. Ziolowo Kobrynsk council 1836-25.02.1837; examiner of the Yanausk deanate 1836. \[576, арк. 66 адв.-67; 695\].
 
-Также на сайте мармонов можно найти "Inwentarz parafii ludności Ziołow" за 1824 год. Вот [ссылка](https://www.familysearch.org/search/film/004222755?cat=1124083) на документ, стр 623.
+You can also find the "Inventory of the parish of the population of Ziolowo" for 1824 on the Marmon site. Here is a [link](https://www.familysearch.org/search/film/004222755?cat=1124083) to the document, page 623.
 
-Далее в Зёлово упоминается деревянный Свято-Троицкий православный храм в 1842-м году.  
-На данный момент не известно был ли он построен на месте униятской церкви и что стало с ней.  
-Он был построен на средства полковника Василия Даниловича Мандрыкина. Который был похоронен на территории церькви.  
-Шагов за пятнадцать от него возвели колокольню, через которую вела дорога в церковь. Храм построили в виде креста. Шагов за пятнадцать от центрального входа возвели двухъярусную колокольню с внутренним проходом. Прихожанин, прежде чем войти в святыню, должен был пройти через этот проход.
+Further in Zelovo there is mentioned a wooden Holy Trinity Orthodox church in 1842.
+At the moment it is not known whether it was built on the site of the Uniate church and what became of it.
+It was built at the expense of Colonel Vasily Danilovich Mandrykin. Who was buried on the territory of the church.
+Fifteen steps away from him erected a bell tower, through which led the road to the church. The church was built in the form of a cross. Fifteen steps away from the central entrance they erected a two-tiered bell tower with an inner passage. The parishioner, before entering the shrine, had to pass through this passage.
 
-В книге «Описания церквей и приходов. Гродненский православно-церковный календарь. Том 1» имеется упоминание о церкви, примерный год записи 1867:
+In the book "Descriptions of churches and parishes. Grodno Orthodox Church Calendar. Volume 1" there is a mention of the church, approximate year of record 1867:
 
 ![ziolow_53634773442_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/d8198039-0f95-42c6-bed7-d4aff4ce14d3)
 
-Во времени Второй Речи Посполитой (польск. Rzeczpospolita Polska, II Rzeczpospolita) 1918 — 1939 гг. На картах обозначается как костел.
+During the Second Polish-Lithuanian Commonwealth (Polish: Rzeczpospolita Polska, II Rzeczpospolita) 1918 - 1939. On maps it is marked as a church.
 
 ![ziolowpl_53636003949_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/6e21453c-af55-4e9d-b93a-e0391be7fdd1)
 
-Во время коммунистических гонений храм закрыли, и вновь его вернули верующим только в 1990-м году.
+During the communist persecution the church was closed, and it was returned to the believers only in 1990.
 
 <figure>
 
@@ -48,13 +48,13 @@ Constitutiones Synodales Diaecesis Luceoriensis & Brestensis ab Illustrissimo Ex
 
 <figcaption>
 
-Зёловская церьков до 2005 года. Фото 1979 годов.
+Ziolowo church until 2005. Photo from 1979.
 
 </figcaption>
 
 </figure>
 
-20 июня 2005 года Зёловская цервокь сгорела. Как сообщают СМИ, пожарные явление объяснили так: “Банальное нарушение правил пожарной безопасности при эксплуатации электроприборов. После службы хотели помыть подсвечники, подогревали воду на электроплитке, а выключить ее забыли. А то, что сгорела быстро, так она же деревянная была, к тому же к празднику только-только покрашенная. Вот огонь и взялся хорошо”.
+On June 20, 2005 the Ziolowo church burned down. According to media reports, the firemen explained the phenomenon as follows: "A banal violation of fire safety rules in the use of electrical appliances. After the service they wanted to wash candlesticks, heated water on the electric stove, and forgot to turn it off. And the fact that it burned quickly, so it was wooden, in addition to the holiday just painted. That's why the fire was good.
 
 <figure>
 
@@ -62,7 +62,7 @@ Constitutiones Synodales Diaecesis Luceoriensis & Brestensis ab Illustrissimo Ex
 
 <figcaption>
 
-Сохранившаяся колокольня
+The preserved bell tower
 
 </figcaption>
 
@@ -74,7 +74,7 @@ Constitutiones Synodales Diaecesis Luceoriensis & Brestensis ab Illustrissimo Ex
 
 <figcaption>
 
-Остатки церькови после пожара
+The remains of the church after the fire
 
 </figcaption>
 
@@ -86,20 +86,20 @@ Constitutiones Synodales Diaecesis Luceoriensis & Brestensis ab Illustrissimo Ex
 
 <figcaption>
 
-Уцелевная центральная часть храма
+The surviving central part of the temple
 
 </figcaption>
 
 </figure>
 
-Новый храм Святой Живоначальной Троицы строился, начиная с августа 2005-го года, и в начале июня 2012-го состоялось его освящение.
+The new church of the Holy Life-Giving Trinity was under construction since August 2005, and in early June 2012 it was consecrated.
 
 ![ziolowo5](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/010dcbf1-f579-4ed9-8364-fb8ae40df52a)
 
-Ссылки и информация используемая в материале:
+References and information used in the material:
 
-- 1\. Святар у беларускім соцыуме: прасапаграфія ўніяцкага духавенства 1596–1839 гг. / Дзяніс Лісейчыкаў. – Мінск, 2015. – 719 с., \[16\] л. іл.
-- 2\. Кулагін "Праваслаўныя храмы на Беларусi" (2001)
-- 3\. Андрей Дыбовский, фото апрель 2017 года
-- 4\. Т. Федорова, фото май 2013.
-- 5\. Мордаун Юрий фото 22 июня, 2005, [https://radzima.org/ru/object\_comm/476.html](https://radzima.org/ru/object_comm/476.html#comm3163)
+- 1\. Svyatar in Belarusian society: a prasapagraphy of the Belarusian Spiritualism 1596-1839 / Dzianis Liseychykau. - Minsk, 2015. - 719 p., \[16\] l. fol.
+- 2\. Kulagin "Orthodox Churches in Belarus" (2001)
+- 3\. Andrei Dybovsky, photo April 2017.
+- 4\. Т. Fedorova, photo May 2013.
+- 5\. Mordaun Yuri photo June 22, 2005, [https://radzima.org/ru/object\_comm/476.html](https://radzima.org/ru/object_comm/476.html#comm3163).
