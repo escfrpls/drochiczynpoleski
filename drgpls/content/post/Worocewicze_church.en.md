@@ -1,6 +1,6 @@
 ---
 title: "Church in Worocewicze"
-date: "2024-07-2"
+date: "2024-07-02"
 tags: 
   - "Worocewicze"
 ---
