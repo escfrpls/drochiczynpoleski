@@ -1,5 +1,5 @@
 ---
-title: "The church in Imienin (Torokany) and the Basilian Order."
+title: "The church in Imienin (Torokany) and the Basilian Order"
 date: "2024-07-04"
 tags:
   - "Imienin"
