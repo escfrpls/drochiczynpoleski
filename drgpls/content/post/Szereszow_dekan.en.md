@@ -1,5 +1,5 @@
 ---
-title: "Brest decisión, Sherešov deanery"
+title: "Brest decisión, Szereszow deanery"
 date: "2024-07-04"
 tags: 
   - "Bezdež"
