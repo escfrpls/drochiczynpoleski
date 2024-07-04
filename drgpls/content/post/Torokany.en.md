@@ -11,7 +11,7 @@ The Basilian monastery has been mentioned in Torokany since the 16th century.
 It is mentioned in 2 books:
 
 - Pawluczuk U.A.: _Monastic life in the Second Polish Republic_. University of Bialystok Publishing House, 2007, p. 25.
-- A. Mironowicz, Monastic life in the former Republic of Poland_, _In: ed. A. Mironowicz, U. Pawluczuk, P. Chomik: Monastic Life in the Republic. Bialystok: Department of the History of Borderline Cultures of the Institute of Sociology, University of Bialystok, 2001, p. 35.
+- A. Mironowicz, Monastic life in the former Republic of Poland, In: ed. A. Mironowicz, U. Pawluczuk, P. Chomik: Monastic Life in the Republic. Bialystok: Department of the History of Borderline Cultures of the Institute of Sociology, University of Bialystok, 2001, p. 35.
 
 Torokany has long belonged to the Orthodox monastery of St. Nicholas Zidiczyn. But after the Union of Brest, the whole complex was handed over to the Uniates. In 1656 in Torokany was held a congregation of the Basilian order, and already in 1599 Torokany were given to the Roman nobleman Peter Arcudiu, where then in 1710 was built a new church instead of the old one. And in 1712 the stone buildings of the monastery were built by Agafia Piaszczynska, a Wolyn kasztelianka. This construction and renovation of the monastery was approved by Lev Kiszka with the approval of the Byten Congregation.
 
