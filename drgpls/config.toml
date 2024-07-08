@@ -52,6 +52,10 @@ url = "https://github.com/escfrpls"
 id = "twitter"
 url = "https://x.com/timkaljuta"
 
+[[params.social]]
+id = "patreon"
+url = "https://ko-fi.com/drohiczynpoleski"
+
 [languages.en]
 languageName = "English"
 
