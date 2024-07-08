@@ -31,7 +31,11 @@ utterancesRepo = ""  # mandatory
 utterancesTheme = "" # optional
 utterancesIssue = "" # optional
 utterancesLabel = "" # optional
-  
+
+[[params.social]]
+id = "ko-fi"
+url = "https://ko-fi.com/drohiczynpoleski"
+
 [[params.social]]
 id = "facebook"
 url = "https://www.facebook.com/timkaljuta"
