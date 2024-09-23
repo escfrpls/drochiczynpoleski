@@ -1,8 +1,8 @@
 ---
-title: "Церковь в Деревной"
-date: "2024-04-17"
+title: "The church in Derevnaya"
+date: "2024-09-23"
 tags:
-  - "Деревная"
+  - "Derevnaya"
 ---
 
 It is known that since the 17th century Derevnaya was a stopping place for Jesuits for missionary work. A church was built here, which had an image of “Mother of God”.
