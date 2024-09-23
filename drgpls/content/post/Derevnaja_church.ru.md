@@ -15,11 +15,11 @@ tags:
 
 Также имеется список миссионеров тех времён в Деревной:
 
-1750-1752 – Michał Obrębski
-1752-1753 – Antoni Sztemberg
-1753-1754 – Stanisław Dzierżyński
-1754-1755 – Antoni Sztemberg
-1757-1760 – Nepomucen Kozłowski
+1. 1750-1752 – Michał Obrębski
+2. 1752-1753 – Antoni Sztemberg
+3. 1753-1754 – Stanisław Dzierżyński
+4. 1754-1755 – Antoni Sztemberg
+5. 1757-1760 – Nepomucen Kozłowski
 
 Не известно, что стало с костелом, но в 1745 году в Деревной была построена греко-католическая церковь.
 
