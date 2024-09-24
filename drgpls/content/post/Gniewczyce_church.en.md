@@ -1,7 +1,7 @@
 ---
 title: "Church in Gnewczyce"
 date: "2024-09-24"
-tags: 
+tags:
   - "Gnewczyce"
 ---
 
