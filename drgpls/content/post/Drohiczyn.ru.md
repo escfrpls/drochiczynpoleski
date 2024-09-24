@@ -52,7 +52,7 @@ tags:
 
 ![1864-4_53660498435_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/185ef09f-b261-46d7-8731-ff0315dafb1e)
 
-Также на картах Шуберна за 1866 - 1887 гг., церковь также отмечена.
+Также на картах Шуберта за 1866 - 1887 гг., церковь также отмечена.
 
 ![1866-1887-3_53660031546_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/12197495-ab67-40e8-b74c-9e1957e5eff4)
 
