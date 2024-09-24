@@ -1,6 +1,6 @@
 ---
 title: "Church in Gorki"
-date: "2027-09-24"
+date: "2024-09-24"
 tags: 
   - "Gorki"
 ---
