@@ -1,5 +1,5 @@
 ---
-title: "Church in Suboty (Mala Torokan)"
+title: "Church in Suboty"
 date: "2024-09-24"
 tags: 
   - "Suboty"
