@@ -5,7 +5,7 @@ tags:
   - "Horyce"
 ---
 
-The first mention of Goritsy can be seen on Schubert's maps of 1866. Goritsy was marked as a volvarek, it was located to the north of today's location of the village of Goritsy.
+The first mention of Horyce can be seen on Schubert's maps of 1866. Horyce was marked as a volvarek, it was located to the north of today's location of the village of Horyce.
 
 <figure>
 
