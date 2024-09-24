@@ -7,6 +7,7 @@ tags:
 
 The first mention of Horyce can be seen on Schubert's maps of 1866. Horyce was marked as a volvarek, it was located to the north of today's location of the village of Horyce.
 
+![1864_53635953720_o](https://github.com/escfrpls/drochiczynpoleski/blob/ba0aebbc04cefea18917f2b76a6b19f1cc7db6cd/assets/1726-1_.jpg)
 
 Schubert maps 1866
 
