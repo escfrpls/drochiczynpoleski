@@ -1,11 +1,11 @@
 ---
-title: "Church in Liachowiczy"
+title: "Church in Liachowicze"
 date: "2024-09-30"
 tags: 
-  - "Liachowiczy"
+  - "Liachowicze"
 ---
 
-Unfortunately, the exact date of construction of the church in Liachowiczy has not been found yet. Approximately old wooden church was built at the end of the XVIII century.
+Unfortunately, the exact date of construction of the church in Liachowicze has not been found yet. Approximately old wooden church was built at the end of the XVIII century.
 
 You can read about it in “In the list of Christian Catholic settlements in 1726”
 
@@ -15,19 +15,19 @@ But the oldest document about the existence of the church can be considered the 
 
 ![1776_53659143877_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/bde04b7f-a4d2-4983-bbd5-5325c58e45fe)
 
-Further, the Marmon site also has metrics for Liachowiczy for 1823.
+Further, the Marmon site also has metrics for Liachowicze for 1823.
 
 ![1823_53659144007_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/72f80bcb-9774-4484-baea-529411af6fcf)
 
 There is a list of Uniate clergy who served in the church:
 
-> Lichaczewski (Lichaczewicz) Nicholas, * 1787. “From the Podlachia Province of the Polish Republic”; baptized by the Braski Episcopal Bishop I.-I. Bulgakam 1813; saint of the tsar in. Liachowiczy Kobrynskag pav. 1832 - 25.02.1837. \[575, arc. 69; 576, arc. 74 adv.-75; 695]
+> Lichaczewski (Lichaczewicz) Nicholas, * 1787. “From the Podlachia Province of the Polish Republic”; baptized by the Braski Episcopal Bishop I.-I. Bulgakam 1813; saint of the tsar in. Liachowicze Kobrynskag pav. 1832 - 25.02.1837. \[575, arc. 69; 576, arc. 74 adv.-75; 695]
 
-> Fiodor Liszniewicz, * 1799. Blessed by the Brescian episkapa-surfagan L.-L. Jaworowski 1824; saint of the tsar in. Liachowiczy Kobrynská pav. 1836 - 25.02.1837. \[576, arc. 70 adv. - 71; 695].
+> Fiodor Liszniewicz, * 1799. Blessed by the Brescian episkapa-surfagan L.-L. Jaworowski 1824; saint of the tsar in. Liachowicze Kobrynská pav. 1836 - 25.02.1837. \[576, arc. 70 adv. - 71; 695].
 
 Since 1839 the church was handed over to the Orthodox.
 
-It is also worth mentioning the Grodno archive, which has documents on the Liachowiczy from 1843 to 1866.
+It is also worth mentioning the Grodno archive, which has documents on the Liachowicze from 1843 to 1866.
 
 ![grodno-arch-1843-1866_53660473350_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/b63abc2c-5bd6-4f27-8a06-7fa135f82787)
 
