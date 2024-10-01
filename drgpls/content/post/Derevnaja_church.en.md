@@ -1,19 +1,19 @@
 ---
-title: "The church in Derevnaya"
+title: "The church in Derewna"
 date: "2024-09-23"
 tags:
-  - "Derevnaya"
+  - "Derewna"
 ---
 
-It is known that since the 17th century Derevnaya was a stopping place for Jesuits for missionary work. A church was built here, which had an image of “Mother of God”.
+It is known that since the 17th century Derewna was a stopping place for Jesuits for missionary work. A church was built here, which had an image of “Mother of God”.
 
 The list of Christian Catholic settlements from 1726 mentions Derewnia (Derevnia). It is now called Derewnia.
 
 ![1726_53658833787_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/d77e0bbf-ef4a-411c-8871-17c01fcdd432)
 
-Since 1744 years, Derevnaya has been a branch church of the Braszewicze parish. It is included in the deanery of Szereszewski, Lutsk parish.
+Since 1744 years, Derewna has been a branch church of the Braszewicze parish. It is included in the deanery of Szereszewski, Lutsk parish.
 
-There is also a list of missionaries of those times in Derevnaya:
+There is also a list of missionaries of those times in Derewna:
 
 1. 1750-1752 – Michał Obrębski
 2. 1752-1753 – Antoni Sztemberg
@@ -21,7 +21,7 @@ There is also a list of missionaries of those times in Derevnaya:
 4. 1754-1755 – Antoni Sztemberg
 5. 1757-1760 – Nepomucen Kozłowski
 
-It is not known what became of the church, but in 1745 a Greek Catholic church was built in Derevnaya.
+It is not known what became of the church, but in 1745 a Greek Catholic church was built in Derewna.
 
 ![1745_53658833912_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/3e12b80c-4d0d-48f9-bb4f-0baee1577ad1)
 
@@ -29,9 +29,9 @@ In 1773 the area and the property were given to the state.
 
 Thus there is a mention of a Greek-Catholic clergyman in this church:
 
-> Dyshkovskiy Pavel, * 1785. Married to the Braski Episcopalian I.-I. Bulgakam 1808; saint in the v. Derevnaya, Kobryn pub. 1832 - 25.02.1837.
+> Dyshkovskiy Pavel, * 1785. Married to the Braski Episcopalian I.-I. Bulgakam 1808; saint in the v. Derewna, Kobryn pub. 1832 - 25.02.1837.
 
-Also in RGIA there are Greek-Catholic metric records from our church. But please pay attention to 1 screen. As it does not indicate Kobrin district. There is a possibility that it is Derevnaya from Slonim.
+Also in RGIA there are Greek-Catholic metric records from our church. But please pay attention to 1 screen. As it does not indicate Kobrin district. There is a possibility that it is Derewna from Slonim.
 
 ![1754-1799_53659693756_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/a84ada97-d08e-4daa-a913-bfab4c3c5e98)
 
