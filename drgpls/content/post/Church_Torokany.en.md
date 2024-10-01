@@ -3,13 +3,13 @@ title: "Church in Suboty"
 date: "2024-09-24"
 tags: 
   - "Suboty"
-  - "Imenin"
+  - "Imienin"
   - "Torokany"
 ---
 
-The church in Subboty (formerly called Malaya Torokan) was built in 1797 by Basilian monks from the Tarakan monastery (now v. Imenin).
+The church in Subboty (formerly called Malaya Torokan) was built in 1797 by Basilian monks from the Tarakan monastery (now v. Imienin).
 
-The description of the date of construction is available in “Descriptions of churches and parishes. Grodno Orthodox Church Calendar. Volume 1.” It is worth noting that in 1899 there were already 2 churches attached to this church from Imenin and Losinets. The first one was probably assigned because of the decline of the Basilian monastery after the Polotsk cathedral.
+The description of the date of construction is available in “Descriptions of churches and parishes. Grodno Orthodox Church Calendar. Volume 1.” It is worth noting that in 1899 there were already 2 churches attached to this church from Imienin and Losinets. The first one was probably assigned because of the decline of the Basilian monastery after the Polotsk cathedral.
 
 ![1797_53659108732_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/0d695e20-8dde-4048-9de0-6ae329231a9d)
 

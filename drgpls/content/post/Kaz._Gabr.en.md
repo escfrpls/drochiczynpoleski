@@ -2,7 +2,7 @@
 title: "Kazimir Gabriel Vitejko from Braszewicz, 1639."
 date: "2024-05-18"
 tags: 
-  - "Imenin"
+  - "Imienin"
   - "Torokany"
 ---
 

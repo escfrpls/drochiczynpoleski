@@ -1,5 +1,5 @@
 ---
-title: "Complaint of Klima Tymoszewicz - mayor of the Boroditskaya volost, May 23, 1631"
+title: "Complaint of Klim Tymoszewicz - mayor of the Boroditskaya volost, May 23, 1631"
 date: "2024-09-30"
 tags: 
   - "Imienin"
