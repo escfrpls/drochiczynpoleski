@@ -48,14 +48,6 @@ url = "https://www.linkedin.com/in/tymoteusz-kaljuta-180b97216/"
 id = "github"
 url = "https://github.com/escfrpls"
 
-[[params.social]]
-id = "twitter"
-url = "https://x.com/timkaljuta"
-
-[[params.social]]
-id = "patreon"
-url = "https://ko-fi.com/drohiczynpoleski"
-
 [languages.en]
 languageName = "English"
 

@@ -2,7 +2,7 @@
 title: "Brest decisión, Szereszow deanery"
 date: "2024-07-04"
 tags: 
-  - "Bezdež"
+  - "Bezdziez"
   - "Braszewicze"
   - "Horodec"
   - "Dywin"
@@ -10,7 +10,7 @@ tags:
   - "Iwanowo"
 ---
 
-From the information I have at the moment. I decided to build a map of the parishes of Dywin, Horodec, Janow (Iwanowo), Braszewicze, Bezdež for 1721.
+From the information I have at the moment. I decided to build a map of the parishes of Dywin, Horodec, Janow (Iwanowo), Braszewicze, Bezdziez for 1721.
 
 The general picture on the map is as follows:
 
@@ -80,7 +80,7 @@ The parafia's membership includes:
 - Torokanie
 - Dziatkowicze
 
-Bezdež:
+Bezdziez:
 
 ![chomsk_53634583642_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/815f41ea-1b1d-413d-bb24-6eb835a88de8)
 
