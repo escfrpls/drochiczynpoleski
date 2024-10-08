@@ -23,15 +23,16 @@ In 1905 the village had 580 inhabitants.
 
 After World War 1 and the Polish-Bolshevik war, starting in 1921, the village was part of the Imienin Commune, Drohiczyn County, Poleskie Voivodeship. The village had 38 yards and 244 inhabitants, of whom 235 were Orthodox.
 There was a functioning school with 50 pupils.
-
+![schpl](https://github.com/user-attachments/assets/a960c12e-9e16-46c0-b27d-0c0cfbcffc98)
 
 WIG map:
+![WIG](https://github.com/user-attachments/assets/f183a6c2-5145-47a9-bac2-fa0a0c584e44)
 
 With the advent of Soviet power, from 04.12.1939, Aleksiejewicze was listed in Drohichyn district, Pinsk region, BSSR and had 96 courtyards, 615 inhabitants. From 15.01.1940 in Drohichy district.
 
 Since 1941 the village was under German occupation. According to the memories of local residents, the Germans killed the Jews living in the village on the first day. At the same time they looked for Komsomol members, but there were none in the village. Partisan detachments were active in the area of the village. In the village cemetery in a mass grave were buried those who died in the battles in the area of Aleksiejewicze partisans of the Suvorov detachment of the Brest partisan unit (the commander of the detachment - Konstantin Emelianowicz Kazakow (1918 - 1999).
 Map of the Red Army:
-
+![RKKA](https://github.com/user-attachments/assets/62b6408c-16f3-400c-81d0-a735d161eba3)
 
 From 12.10.1940 to 16.07.1954, center of the village council of Drohiczyn district, Pinsk region, from 1954 Brest region.
 
