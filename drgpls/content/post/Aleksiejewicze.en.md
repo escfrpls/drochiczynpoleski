@@ -49,9 +49,10 @@ In 1995 the village had 254 households, 5 inhabitants.
 
 In the village there is a functioning school, kindergarten, obstetric station, communication department, houses of culture, a monument to fellow countrymen who died in the Great Patriotic War, a monument at the place of death of pilot Nikolai Mihailowicz Glowa, February 12, 1990, who took the falling plane away from residential houses. The obelisk is located between the villages of Nemerzha and Aleksiejewicze.
 
-
-
+References and information used in the material:
 - 1\. Города и деревни Беларуси, Том I
-- 2\.
-- 3\.
+- 2\. https://ru.wikipedia.org
+- 3\. https://www.radzima.net
+- 4\. https://orda.of.by/
+
 
