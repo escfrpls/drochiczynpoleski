@@ -11,12 +11,12 @@ tags:
   - "Imienin"
 ---
 
-The village of Aleksiejewicze, can be seen on the 1860 map, Schubert's map.
-![1860 shubert](https://github.com/user-attachments/assets/35a08e09-bd1a-4c1f-9d16-a55af2cd0e5c)
-
 The village Aleksiejewicze was mentioned in 1783, as part of Braszewicze parish, some of the inhabitants were “Boyars”.
 In 1858 it was mentioned as the center of Imienin volost, Kobryn district, Grodno province.
 There were 262 revision “souls” (state peasants) living in the village. They used to be subjects of the Torokany monastery.
+
+The village of Aleksiejewicze, can be seen on the 1860 map, Schubert's map.
+![1860 shubert](https://github.com/user-attachments/assets/35a08e09-bd1a-4c1f-9d16-a55af2cd0e5c)
 
 In 1886, the village had 28 courtyards and 377 inhabitants, there was a windmill.
 
