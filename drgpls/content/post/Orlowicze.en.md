@@ -1,105 +1,45 @@
 ---
-title: "Зёловская церковь"
-date: "2024-03-27"
-tags: 
-  - "Зёлово"
+title: "village Orlowicze and manor Horlowicze"
+date: "2024-10-09"
+tags:
+  - "Orlowicze"
+  - "Horlowicze"
 ---
 
-Когда и кем была построена церковь в Зёлово упоминания на данный момент нет. Но по найденым документам можно проследить, что первое упоминание связанно с католичеством.
+Orlowicze as a folwark was first mentioned in 1628 and 1698.
 
-В списке христианских католических поселений 1726 года упоминается Ziołow. Вполне вероятно, что уже на то время это была униятская церковь.
+In 1860 the village and the estate (Horlowicze) in Perkovitska and then Wolowiel volosts, Kobryn district, Grodno province. There were 129 “souls” in the village, they also belonged to the Horlowicze estate, which belonged to Felix Wyslouch (206 “souls”). During the uprising of 1863-64, the estate was used as an ammunition depot for the rebels. After the Orlovic family became the owners of the Rusecky family.
+On Schubert's maps of 1870:
 
-Constitutiones Synodales Diaecesis Luceoriensis & Brestensis ab Illustrissimo Excellentissimo & Reverendissimo Domino”, D. Stefano Boguslao a Rupniew in Januszowice Rupniewski; Anno Domini 1726.
+In 1905, Orlowicze had 20 inhabitants, the manor had 42 inhabitants, the settlement had 14 people. There was an elementary school.
 
-![cmentaz_53636003224_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/315ca334-d591-408b-a5d4-8394c71a8051)
+From 1921 to 1939, it was a part of Wolowiel Commune, Drohiczyn County, Poleskie Voivodeship, Poland, village and folwark Horlowicze.
 
-Имеются сохранившиеся метриви униятской Зёловоской цервки от 1769 до 1801 гг.:
+In 1921, the village had 14 courtyards, 92 inhabitants. The folwark had 2 courtyards and 17 inhabitants.
+On the WIG maps:
 
-![metryka_53635669121_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/73dc6af8-f281-4148-ae1c-e85fffe908ca)
 
-![metryki2_53636003594_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/b35bd42e-dd9f-43e4-a2e1-5b7edc6f91bb)
+With the advent of Soviet power, From 04.12.1939 the village is located in Wolowiel volost, Drohichyn district, Pinsk region, BSSR. Orlowicze estate - 3 courtyards, 12 inhabitants. Orlowicze village - 38 courtyards, 170 inhabitants. From 12.10.1940 the village is listed in the Litowsk village council. The last owner of the estate was the Krajewski family, until 1939.
+On the maps of the Red Army:
 
-Далее упоминаются записи о Зёловской церькви как униятской:
+In the Great Patriotic War 5 inhabitants of the village died at the front. During the wartime a secondary school operated in the manor. After its demolition, the manor fell into disrepair, was dismantled and taken to the town of Drohiczyn (Drohiczyn Poleski). Only the old foundation remains of the building.
+Photo of the entrance to the manor:
 
-> Мiхалевiч Фядос, Михалѣвич Теодозiй, святар царквы ў в. Зёлава Кобрынскага павета 1832. \[575, арк. 61\].
+The manor house was built probably under the Wyslouch. The building is rectangular in plan, wooden, mansard, on a high foundation, gable roof, tiled. On the first floor there was a living room, library, kitchen, parlor, bedroom, and on the first floor there was a bedroom for children.
 
-> Янцевiч Мiхал сын Марцiна, Янцевичь Михаиль Мартиновь сынь, \*1808. Высвечаны брэсцкiм епiскапам-суфраганам Л.-Л. Явароўвскiм 09.12.1832; святар царквы ў в. Зёлава Кобрынскага павета 1836-25.02.1837; экзаменатар Янаўскага дэканата 1836. \[576, арк. 66 адв.-67; 695\].
+There are also remnants of the old park. Today its territory is 5 hectares. In Soviet times there was an orchard in the middle of the park. The linden avenue in the direction of the planter is well preserved. The main trees are maples, lindens, chestnuts, oaks and others.
 
-Также на сайте мармонов можно найти "Inwentarz parafii ludności Ziołow" за 1824 год. Вот [ссылка](https://www.familysearch.org/search/film/004222755?cat=1124083) на документ, стр 623.
+There is an approximate plan of the park:
 
-Далее в Зёлово упоминается деревянный Свято-Троицкий православный храм в 1842-м году.  
-На данный момент не известно был ли он построен на месте униятской церкви и что стало с ней.  
-Он был построен на средства полковника Василия Даниловича Мандрыкина. Который был похоронен на территории церькви.  
-Шагов за пятнадцать от него возвели колокольню, через которую вела дорога в церковь. Храм построили в виде креста. Шагов за пятнадцать от центрального входа возвели двухъярусную колокольню с внутренним проходом. Прихожанин, прежде чем войти в святыню, должен был пройти через этот проход.
+Also now it looks like this:
 
-В книге «Описания церквей и приходов. Гродненский православно-церковный календарь. Том 1» имеется упоминание о церкви, примерный год записи 1867:
+At the moment all the buildings are used as a farmyard of the collective farm.
 
-![ziolow_53634773442_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/d8198039-0f95-42c6-bed7-d4aff4ce14d3)
-
-Во времени Второй Речи Посполитой (польск. Rzeczpospolita Polska, II Rzeczpospolita) 1918 — 1939 гг. На картах обозначается как костел.
-
-![ziolowpl_53636003949_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/6e21453c-af55-4e9d-b93a-e0391be7fdd1)
-
-Во время коммунистических гонений храм закрыли, и вновь его вернули верующим только в 1990-м году.
-
-<figure>
-
-![zelovo_53634773687_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/a675a8e0-1eb2-4824-aa8d-8dd33ba9229e)
-
-<figcaption>
-
-Зёловская церьков до 2005 года. Фото 1979 годов.
-
-</figcaption>
-
-</figure>
-
-20 июня 2005 года Зёловская цервокь сгорела. Как сообщают СМИ, пожарные явление объяснили так: “Банальное нарушение правил пожарной безопасности при эксплуатации электроприборов. После службы хотели помыть подсвечники, подогревали воду на электроплитке, а выключить ее забыли. А то, что сгорела быстро, так она же деревянная была, к тому же к празднику только-только покрашенная. Вот огонь и взялся хорошо”.
-
-<figure>
-
-![ziolowo3_53635876648_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/b7a89d61-956e-48e3-8900-cc94c6f7b794)
-
-<figcaption>
-
-Сохранившаяся колокольня
-
-</figcaption>
-
-</figure>
-
-<figure>
-  
-![ziolowo2_53635880378_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/696c994d-cfbd-4350-b6c9-6f637b14db8a)
-
-<figcaption>
-
-Остатки церькови после пожара
-
-</figcaption>
-
-</figure>
-
-<figure>
-
-![ziolowo4](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/bcb537ff-c9d1-4b69-83b9-7c171808d3c4)
-
-<figcaption>
-
-Уцелевная центральная часть храма
-
-</figcaption>
-
-</figure>
-
-Новый храм Святой Живоначальной Троицы строился, начиная с августа 2005-го года, и в начале июня 2012-го состоялось его освящение.
-
-![ziolowo5](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/010dcbf1-f579-4ed9-8364-fb8ae40df52a)
+Since 1954, Orlowicze has been registered in Brest region. In 1970 the village had 153 inhabitants, in 1995 - 63 yards, 154 inhabitants.
 
 Ссылки и информация используемая в материале:
+- 1\. Города и деревни Беларуси, ТОМ I
+- 2\. https://orda.of.by
+- 3\. https://globustut.by
+- 4\. https://retromap.ru
 
-- 1\. Святар у беларускім соцыуме: прасапаграфія ўніяцкага духавенства 1596–1839 гг. / Дзяніс Лісейчыкаў. – Мінск, 2015. – 719 с., \[16\] л. іл.
-- 2\. Кулагін "Праваслаўныя храмы на Беларусi" (2001)
-- 3\. Андрей Дыбовский, фото апрель 2017 года
-- 4\. Т. Федорова, фото май 2013.
-- 5\. Мордаун Юрий фото 22 июня, 2005, [https://radzima.org/ru/object\_comm/476.html](https://radzima.org/ru/object_comm/476.html#comm3163)
