@@ -1,7 +1,7 @@
 ---
 title: "Church in Osowce"
 date: "2024-07-08"
-tags: 
+tags:
   - "Osowce"
 ---
 
