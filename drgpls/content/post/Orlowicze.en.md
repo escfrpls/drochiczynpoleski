@@ -1,4 +1,4 @@
-![parkorlowicze 2023](https://github.com/user-attachments/assets/f98c9f23-fed4-46fc-9e14-0e86bdee22b3)![gorlowicze shubert 1870](https://github.com/user-attachments/assets/e4bc5a22-ed3b-4ef0-a299-598475a77b8d)---
+---
 title: "Village Orlowicze and manor Horlowicze"
 date: "2024-10-09"
 tags:
