@@ -22,7 +22,7 @@ From 04.12.1939 as part of the BSSR, Chomsk parish, Drohiczyn district, Pinsk re
 
 From 15.01.1940 in Drohichy district, from 12.10.1940 the center of the village council. During the Great Patriotic War the village was partially burnt down by Nazi invaders. 8 inhabitants of the village died at the front.
 
-RCAA map
+RCAA map:
 ![RKAA](https://github.com/user-attachments/assets/620b0653-c8e3-458f-b90b-8bca192ab075)
 
 Since 1954 in Brest region.
