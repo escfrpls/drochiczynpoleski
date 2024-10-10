@@ -13,13 +13,22 @@ In 1791 in Kobryn district, from 1795 in Russian Empire, Kobryn district, Slonim
 
 In 1858, the village Osipowicze in Antopol volost, Kobryn district, the center of the village community. The village had 399 “souls” (state villagers).
 
+On Schubert's 1870 map:
+
+
 According to the data of the Central Statistical Committee for 1880-1886 years is listed: Osipowicze, former state village, 44 yards, 559 inhabitants, drinking house”
 
 In 1905 the village had 929 inhabitants, there was a parochial school.
 
 In 1921-39 the village was in Antopol gmina, Korin county, Poleskie voivodeship, Poland.
 
+On the WIG map:
+
+
 From 04.12.1939 in the BSSR, Kobryn district, Brest region. From 15.01.1940 in Antopol district, from 12.10.1940 the center of the village council, from 1954 in Holowczyce village council. In 1940 the village had 833 inhabitants.
+
+On the RKKA map:
+
 
 In the Great Patriotic War died 53 inhabitants of the village, 45 of them at the front.
 
