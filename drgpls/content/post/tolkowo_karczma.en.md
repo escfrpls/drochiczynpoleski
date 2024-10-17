@@ -1,5 +1,5 @@
     ---
-title: "Rent a tavern in Tolkovo village"
+title: "Rent a tavern in Tolkovo village 1835 year"
 date: "2024-10-16"
 tags:
   - "Tolkowo"
