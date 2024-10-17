@@ -1,5 +1,5 @@
     ---
-title: “Rent a tavern in the village of Tolkowo.”
+title: “List of the economist of the Tolkowo estate in 1820”
 date: “2024-10-17”
 tags:
   - “Tolkowo”
