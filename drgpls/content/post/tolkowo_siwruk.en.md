@@ -1,0 +1,13 @@
+    ---
+title: “Rent a tavern in the village of Tolkowo.”
+date: “2024-10-17”
+tags:
+  - “Tolkowo”
+---
+
+Fund of the Wilno Chapter, fund 43, church funds, Braszewicze.
+
+Receipt of 1820 of Bartolomej Siwruk, the economist of the Tolkowo estate of Braszewicze, that he received from the treasury of the Wilno Chapter all the remuneration due to him and an invoice written in his name.
+
+References and information used in the material:
+- https://www.epaveldas.lt
