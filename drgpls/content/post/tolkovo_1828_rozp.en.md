@@ -2,7 +2,7 @@
 title: “A list of the Tolkowo economist Tomasz Bujnicki in 1828”
 date: “2024-10-21”
 tags:
-- “Tolkowo”
+  - “Tolkowo”
 ---
 
 Vilnius Chapter Fund, fund 43, church funds, Braszewicze.
