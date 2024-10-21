@@ -1,4 +1,4 @@
-![1828_ekonom](https://github.com/user-attachments/assets/0ba447b6-5841-437b-aaf7-2fd1cba98691)    ---
+---
 title: "Росписка Толковского эконома Томаша Буйничкого 1828 года"
 date: "2024-10-21"
 tags:
