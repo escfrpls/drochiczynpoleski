@@ -41,10 +41,6 @@ id = "instagram"
 url = "https://www.instagram.com/drohiczynpoleski"
 
 [[params.social]]
-id = "linkedin"
-url = "https://www.linkedin.com/in/tymoteusz-kaljuta-180b97216/"
-
-[[params.social]]
 id = "github"
 url = "https://github.com/escfrpls"
 
