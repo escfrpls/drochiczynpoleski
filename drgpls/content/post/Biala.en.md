@@ -29,4 +29,5 @@ In 2005 - 61 households, 144 inhabitants. In 2023 - 38 households, 85 inhabitant
 
 References and information used in the material:
 - 1\. Города и деревни Беларуси, ТОМ I
-- 2\. https://retromap.ru
+- 2\. etomesto.ru
+- 3\. globustut.by
