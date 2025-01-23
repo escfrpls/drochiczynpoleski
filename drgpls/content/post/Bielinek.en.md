@@ -11,14 +11,14 @@ In 1858 it was a part of Osowiec volost, Kobryn district, the center of Belinsk 
 
 Schubert's three-quarter map:
 
-
+![tryhwiorstka shuberta1866-1867](https://github.com/user-attachments/assets/e5cfe94f-4641-44e4-8b5e-c57e7e3fa108)
 
 In 1890 the village community had 486 dessiatinas of land, of which 210 were usable. 
 In 1905, Bielinek had 306 residents, Bielinek State Guard had 12 residents.
 
 One-verse map:
 
-
+![odnoverstka](https://github.com/user-attachments/assets/bf441532-0d87-4223-b823-d9c9c0497768)
 
 In 1919 the village had a functioning elementary Ukrainian school with 38 pupils, the teacher was P. Narenko. In 1926, the villagers appealed to the Polish Ministry of Education with a request to establish a Ukrainian school in the village.
 From 1921 to 1939. Bielinek was located in the Osowiec Commune, Drohiczyn County, Poleskie Voivodeship, Poland. 
@@ -26,7 +26,7 @@ In the ethnic composition of the population of that period Belarusians made up 9
 
 WIG map:
 
-
+![WIG](https://github.com/user-attachments/assets/f4db7e43-688d-4391-a2a3-8ef469630b6a)
 
 In 1921, the village had 57 yards, 344 inhabitants, of whom 328 were of the Orthodox faith. 
 From 1939 in BSSR, from 04.12.1940 in Osowiec parish, Drohiczy district, Pinsk region. From 12.10.1940 in Belinski village council, Drohiczyn district. The village had 69 households, 325 inhabitants.
@@ -34,7 +34,7 @@ During the Great Patriotic War it was burnt down by Nazi invaders. During the wa
 
 RKKA map:
 
-
+![RKKA](https://github.com/user-attachments/assets/67fa89a3-61e7-4d07-943d-574b227a89fa)
 
 Since 1954 Bielinek is in Brest region, since 1959 in Osowiec village council. 
 In 1960 the village had 603 inhabitants, in 1970 - 377 inhabitants, in 1995 there were 73 yards and 208 inhabitants. 
