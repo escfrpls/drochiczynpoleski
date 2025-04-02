@@ -68,7 +68,7 @@ weight = 3
 [[menu.main]]
 name = "Family"
 identifier = "family"
-url = "/posts/"
+url = "/posts/family.md"
 weight = 3
 
 [languages.ru]
@@ -95,7 +95,7 @@ weight = 3
 [[languages.ru.menu.main]]
 identifier = "Фамилии"
 name = "фамилии"
-url = "/posts/"
+url = "/posts/family.md"
 weight = 3
 
 [[languages.ry.params]]
