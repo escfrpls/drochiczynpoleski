@@ -65,6 +65,12 @@ identifier = "archive"
 url = "/posts/"
 weight = 3
 
+[[menu.main]]
+name = "Family"
+identifier = "family"
+url = "/posts/"
+weight = 3
+
 [languages.ru]
 languageName = "Russian"
 
@@ -83,6 +89,12 @@ weight = 2
 [[languages.ru.menu.main]]
 identifier = "archive"
 name = "Архив"
+url = "/posts/"
+weight = 3
+
+[[languages.ru.menu.main]]
+identifier = "Фамилии"
+name = "фамилии"
 url = "/posts/"
 weight = 3
 
