@@ -1,8 +1,8 @@
 ---
-title: “Village of Wiry”
-date: “2025-03-26”
+title: "Village of Wiry"
+date: "2025-03-26"
 tags: 
-  - “Wiry”
+  - "Wiry"
 ---
 
 The village of Wiry was mentioned in 1762 as a tract on the land of the Torokan monastery. From 1795 it became part of the Russian Empire, Kobryn district of Slonim, from 1797 Lithuanian, from 1801 Grodno province. The village is marked on Schubert's map of 1826-1840:
