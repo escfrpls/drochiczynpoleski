@@ -1,8 +1,8 @@
 ---
-title: “Village of Budy”
-date: “2025-05-14”
+title: "Village of Budy"
+date: "2025-05-14"
 tags: 
-  - “Budy”
+  - "Budy"
 ---
 
 The village of Budy was shown on Schubert's map of 1826-1840. However, it is signed there as Lady, possibly a misprint, or possibly the name of the village, which was later changed to Budy. 
