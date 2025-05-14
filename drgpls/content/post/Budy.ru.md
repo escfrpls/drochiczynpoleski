@@ -4,25 +4,24 @@ date: "2025-05-14"
 tags: 
   - "Буды"
 ---
+Деревня Буды была отчена на карте Шуберта 1826-1840 гг. Однако она там подписана как Лады, возможно опечатка, а возможно это название деревни, которое позже изменилось на Буды. 
 
-The village of Budy was shown on Schubert's map of 1826-1840. However, it is signed there as Lady, possibly a misprint, or possibly the name of the village, which was later changed to Budy. 
+![Shubert 1826-1840](https://github.com/user-attachments/assets/a425a1f9-37bc-4ea0-be9f-72a7bc77866e)
 
-link
+Далее в письменных источниках деревня упоминается в 1905 году, не как поселение, а лесная пожарная служба Осовецкй волости, проживал 1 житель.
 
-Further in written sources the village is mentioned in 1905, not as a settlement, but as a forest fire department of Osowiec parish, 1 inhabitant lived there.
+В 1919 - 1939 гг, было в составе Польши, как часть деревни Палюшчин, Иловской гмины. В 1930 году в деревне насчитывалось уже 16 дворов, была школа. Карта WIG:
 
-In 1919 - 1939, it was part of Poland, as part of the village Paluszczyn, Ilow commune. In 1930 there were already 16 households in the village, there was a school. WIG map:
+![bobki WIG](https://github.com/user-attachments/assets/89105f53-a95b-4bf8-b940-1d9b500c8b49)
 
-link
+В 1939 году, деревня была уже в составе БССР. 15.01.1940 деревня числилась в Антопольском районе, Брестской области. С 12.10.1940 г. Детковическом сельсовете, насчитывала 118 жителей. Карта РККА:
 
-In 1939, the village was already part of the BSSR. 15.01.1940 the village was included in the Antopol district, Brest region. From 12.10.1940 Detkowicze village council, had 118 inhabitants. Map of the Red Army:
+![RKKA](https://github.com/user-attachments/assets/f77c627f-eb13-4307-acd3-57026059cff7)
 
-link
+В Великую Отечественную войну погибло 5 жителей деревни, 4 и них на фронте. С 8.8.1959 деревня числиться в Дрогичинском районе, население 97 жителей. В 9170 году - 105 жителей, в 1995 - 24 двора, 43 жителя.
 
-In the Great Patriotic War 5 inhabitants of the village died, 4 of them at the front. Since 8.8.1959 the village is listed in Drohiczyn district, population 97 inhabitants. In 9170 - 105 inhabitants, in 1995 - 24 yards, 43 inhabitants.
-
-References and materials used in the post:
+Ссылки и материалы используемые в посте:
 - https://ru.wikipedia.org
-- Cities and villages of Belarus, Brest region
+- Города и деревни Беларуси, Брестская область
 - etomest.ru
 
