@@ -1,6 +1,6 @@
 ---
 title: "Village of Wiry"
-date: "2025-03-26"
+date: "2025-05-14"
 tags: 
   - "Wiry"
 ---
