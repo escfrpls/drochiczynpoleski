@@ -1,6 +1,6 @@
 ---
 title: "Village Wólka Rodowiecka"
-date: "2025-05-15"
+date: "2025-05-20"
 tags: 
   - "Wólka Rodowiecka"
 ---
