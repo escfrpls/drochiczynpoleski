@@ -1,4 +1,4 @@
-![RKKA](https://github.com/user-attachments/assets/0126adbe-7ada-4d50-b358-40c29fcb0c0d)---
+---
 title: "Деревня Губерня"
 date: "2025-05-26"
 tags: 
