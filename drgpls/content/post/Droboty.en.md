@@ -1,8 +1,8 @@
 ---
-title: “Village of Droboty”
-date: “2025-05-29”
+title: "Village of Droboty"
+date: "2025-05-29"
 tags: 
-  - “Droboty”
+  - "Droboty"
 ---
 
 The village of Droboty was mentioned in 1783 as part of Droboty Key, in Pinsk district, Brest voivodeship.
