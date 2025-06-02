@@ -67,8 +67,8 @@ weight = 3
 
 [[menu.main]]
 name = "Family"
-identifier = "family"
-url = "/family/"
+identifier = "My search"
+url = "/My_search/"
 weight = 3
 
 [languages.ru]
@@ -94,7 +94,7 @@ weight = 3
 
 [[languages.ru.menu.main]]
 identifier = "Фамилии"
-name = "фамилии"
+name = "Мои поиски"
 url = "/family/"
 weight = 3
 
