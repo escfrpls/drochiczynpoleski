@@ -95,7 +95,7 @@ weight = 3
 [[languages.ru.menu.main]]
 identifier = "Фамилии"
 name = "Мои поиски"
-url = "/family/"
+url = "/My_search/"
 weight = 3
 
 [[languages.ry.params]]
