@@ -25,7 +25,7 @@ menu:
 Но в любом случае, если вы можете поддержать проект по ссылками ниже. Все собранные средства пойдут на улучшение сайта, оплаты хостинга и другие возможности улучшение проекта.
 
 [<img src="https://i.ibb.co/cNy45h6/paypal.png">](https://paypal.me/EsFrPls?country.x=PL&locale.x=en_US)
-<a href="https://ko-fi.com/drohiczynpoleski"><img src="https://i.ibb.co/KhXJFxr/kogi.jpg" alt="kofi" border="0"></a>
+
 
 
 
