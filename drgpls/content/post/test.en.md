@@ -5,7 +5,7 @@ tags:
   - "test"
 ---
 
-![Test Image](drochiczynpoleski/assets/images/test.png)
+![1860 shubert](/assets/images/test.png) 
 
 References and information used in the material:
 - 1\. Города и деревни Беларуси, Том I
