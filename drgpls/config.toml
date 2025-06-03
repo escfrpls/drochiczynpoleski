@@ -103,3 +103,10 @@ tag = "tags"
 
 [markup.goldmark.renderer]
 unsafe = true
+
+[module]
+  [[module.mounts]]
+    source = "assets"
+    target = "assets"
+
+staticDir = ["static", "assets"]
