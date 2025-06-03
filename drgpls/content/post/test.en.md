@@ -5,7 +5,7 @@ tags:
   - "test"
 ---
 
-![Test Image](assets/images/test.png)
+![Test Image](drochiczynpoleski/assets/images/test.png)
 
 References and information used in the material:
 - 1\. Города и деревни Беларуси, Том I
