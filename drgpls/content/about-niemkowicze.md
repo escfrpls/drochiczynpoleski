@@ -11,13 +11,6 @@ menu:
     title: Village Niemkowicze
     url: /about/niemkowicze/
     weight: 1
-  subpage2:
-    identifier: about-support
-    parent: about
-    name: Support the project
-    title: Support the project
-    url: /about/support/
-    weight: 10
 ---
 
 This article contains information about the village of Niemkowicze, Pruzana district, now Belarus.
