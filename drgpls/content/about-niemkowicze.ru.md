@@ -11,13 +11,6 @@ menu:
     title: Деревня Немковичи
     url: /about/niemkowicze/
     weight: 1
-  subpage2:
-    identifier: about-subpage2
-    parent: about
-    name: Поддержка проекта
-    title: Поддержка проекта
-    url: /about/support/
-    weight: 10
 ---
 
 Данная статья содержит информацию о деревне Немковичи, Пружанского района, сейчас Беларусь.
