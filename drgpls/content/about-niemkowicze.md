@@ -1,3 +1,25 @@
+---
+title: "Village Niemkowicze"
+description: "Village Niemkowicze"
+author: "Tymoteusz Kaljuta"
+slug: /about/niemkowicze
+menu:
+  subpage:
+    identifier: about-niemkowicze
+    parent: about
+    name: Village Niemkowicze
+    title: Village Niemkowicze
+    url: /about/niemkowicze/
+    weight: 1
+  subpage2:
+    identifier: about-support
+    parent: about
+    name: Support the project
+    title: Support the project
+    url: /about/support/
+    weight: 10
+---
+
 This article contains information about the village of Niemkowicze, Pruzana district, now Belarus.
 Since my one of the branches “Kaluta” comes from there. I collect any information about this village and also publish what I have at the moment, as well as every other article about the village, with time will be supplemented. I will be glad to any new information or clarification of historical inaccuracies on my side.
 The appearance of the village Nemkovichi is probably connected with the settlement of the land, as we can see from the name with great probability the settlement was founded by representatives of the family Nemkovichi, but so there are other assumptions, which I will note in this article.
