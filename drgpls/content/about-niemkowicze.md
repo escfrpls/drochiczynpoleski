@@ -1,8 +1,22 @@
----
-title: "Деревня Немковичи"
-date: "2025-06-06"
-tags: 
-  - "Немковичи"
+title: Village Niemkowicze"
+description: "Village Niemkowicze"
+author: "Tymoteusz Kaljuta"
+slug: /about/subpage2
+menu:
+  subpage:
+    identifier: about-subpage-s2
+    parent: about
+    name: About the project
+    title: About the project
+    url: /about/subpage/
+    weight: 1
+  subpage2:
+    identifier: about-subpage2-s2
+    parent: about
+    name: Support the project
+    title: Support the project
+    url: /about/subpage2/
+    weight: 10
 ---
 
 Данная статья содержит информацию о деревне Немковичи, Пружанского района, сейчас Беларусь.
