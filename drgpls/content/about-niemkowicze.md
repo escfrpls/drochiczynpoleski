@@ -102,6 +102,7 @@ After the war the village was rebuilt. At the front 2 inhabitants of the village
 
 ![Ob_4](https://github.com/user-attachments/assets/a12eda55-b753-4b1d-918c-57184b92b09f)
 
+
 Links and materials used in the post:
 - https://ru.wikipedia.org
 - Cities and villages of Belarus, Brest region
