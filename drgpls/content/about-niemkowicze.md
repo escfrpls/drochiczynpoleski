@@ -102,7 +102,14 @@ After the war the village was rebuilt. At the front 2 inhabitants of the village
 
 ![Ob_4](https://github.com/user-attachments/assets/a12eda55-b753-4b1d-918c-57184b92b09f)
 
-References and materials used in the post:
+Links and materials used in the post:
 - https://ru.wikipedia.org
 - Cities and villages of Belarus, Brest region
 - etomest.ru
+- https://fgurgia.ru
+- https://orda.of.by/
+- https://pruzana.wordpress.com
+- P. Dikov, “List of land holdings in Grodno province”. Izd. of the Grodno provincial statistical committee. Grodna. 1890, pp. 195
+- Mikołaj Rozanow - “Powiat Prużański (Szkic Historyczny)” 1935 rok, str. 75-84
+- Herbarz polski : wiadomości historczno-genealogiczne o rodach szlacheckich. Cz. 1 t. 15. Warszawa. 1912 rok. s. 346-347
+- http://dir.icm.edu.pl/Slownik_geograficzny/Tom_XV_cz.2/379
