@@ -52,8 +52,6 @@ From the “Income Tax Register” of 1775, Niemkowicze and Kuszle had 15 farms 
 Probably the next owners were the representatives of the Lachowski family, the coat of arms “Belina”, and more specifically Jozef Lachowski. At that time Niemkowicze was part of the Lachowski estate - Mokre. 
 In the case of 1836 there is a discussion about the sale of the Niemkowicze estate with 12 decimals of land together with rural buildings to the Pacewicz family - Jan and Katerina.
 
-photo link
-
 In the 19th century several families were listed as owners of the Niemkowicze estate, Okinczyce and Galloff on one side, on the other side Pacewicz and Giedrojcу.
 
 In the 1860s the land holdings of the families were small. The Pacewicze and Giedrojcу families owned a total of 31 dessiatinas of land.
@@ -94,7 +92,15 @@ From 1939 it was a part of BSSR. Since 15.01.1940 in Pruzana district, Brest reg
 
 ![RKKA](https://github.com/user-attachments/assets/2e26ce7b-0137-42b0-8cfe-989258c8d302)
 
-After the war the village was rebuilt. At the front 2 inhabitants of the village died. In 1970 there were 55 inhabitants, in 2003 there were 6 yards and 9 inhabitants. In 2025 no one lives in the village. Near the village in the woods there is a grave of victims of fascism - 58 peaceful inhabitants of the villages Nemkovichi and Postalovo, who were killed by Hitlerites in July 1942, on the grave there is an obelisk.
+After the war the village was rebuilt. At the front 2 inhabitants of the village died. In 1970 there were 55 inhabitants, in 2003 there were 6 yards and 9 inhabitants. In 2025 no one lives in the village. Near the village in the woods there is a grave of victims of fascism - 58 peaceful inhabitants of the villages Nemkovichi and Postalowo, who were killed by Hitlerites in July 1942, on the grave there is an obelisk.
+
+![ob_1](https://github.com/user-attachments/assets/ad689f43-7c32-431a-8b38-8a4cb668b61e)
+
+![ob_2](https://github.com/user-attachments/assets/13a21e05-2fe3-47a4-8886-5da575a16e5c)
+
+![ob_3](https://github.com/user-attachments/assets/7b67b698-3ec7-404e-a41d-d0727bb74aea)
+
+![Ob_4](https://github.com/user-attachments/assets/a12eda55-b753-4b1d-918c-57184b92b09f)
 
 References and materials used in the post:
 - https://ru.wikipedia.org
