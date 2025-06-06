@@ -5,7 +5,8 @@ aliases: ["about-us","about-hugo","contact"]
 author: "Tymoteusz Kaljuita"
 ---
 
-test test test 2
+In this section of my project, I will publish articles and settlements and ancestral branches, I will share information and tell in detail what I was able to find.
+Also I will be glad to any remarks and inaccuracies, if you notice in the article, and also I will be very glad to new information for me, on my searches.
 
 
 
