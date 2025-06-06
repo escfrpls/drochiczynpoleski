@@ -4,13 +4,6 @@ description: "Мои поиски"
 aliases: ["about-us","about-hugo","contact"]
 author: "Tymoteusz Kaljuita"
 menu:
-  subpage:
-    identifier: my-search
-    parent: about
-    name: Мои поиски
-    title: Мои поиски
-    url: /my-search/
-    weight: 1
   niemkowicze:
     identifier: about-niemkowicze
     parent: about
