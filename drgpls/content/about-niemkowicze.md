@@ -73,11 +73,11 @@ In the 1860s Paulina Galloff [1814-1888] wife of Józef Okinczyc [1804-1878] was
 
 During the uprising of 1863-1864 their son Aleksander Okinczyc (a doctor of the uprising and memoirist) lived in the estate. After the uprising from February 21, 1866 to January 16, 1873, part of the land of the Niemkowicze estate, which belonged to Okinczyc P.O. and Galloff F.O., was bought by temporarily burdened peasants. Niemkowicze on the map of 1965-1887:
 
-link 3-ka
+![3-ka 1865 году и продолжались до 1887 год](https://github.com/user-attachments/assets/54e3e1e8-31af-4ecb-81d2-1ebd3aeae42e)
 
 Niemkowicze on the one-turn map of 1866:
 
-link 1-ka
+![1-ka 1866](https://github.com/user-attachments/assets/64d5cb4f-3c45-4074-8fab-b7104ca02cf0)
 
 In 1890 the estate had 65 dessiatinas of land.
 
@@ -86,20 +86,20 @@ According to the enumeration of 1897 Niemkowicze was located in Kotra parish, Pr
 
 Niemkowicze on the Austro-Hungarian map:
 
-AW maps link
+![Avstro-Wengier](https://github.com/user-attachments/assets/404a4e4c-2f1e-4bfd-bc7b-6ce01e7ad65b)
 
 The village is mentioned in the dictionary “Geographical dictionary of the Kingdom of Poland and other Slavic countries” of 1902.
 
-link SLOW
+![Slownik 1902](https://github.com/user-attachments/assets/3957ef60-6d52-4da4-98cb-4b71d30553d8)
 
 From 1921 as part of Poland. Niemkowicze on the WIG map:
 
-link wig
+![WIG](https://github.com/user-attachments/assets/3aed4532-43bb-42bc-8ae2-6ac942b6233c)
 <hr style=“border: 1px solid blue; opacity: 0.5;”>.
 
 From 1939 it was a part of BSSR. Since 15.01.1940 in Pruzana district, Brest region. There were 31 yards and 135 inhabitants. In the Great Patriotic War in June, 1942 Hitlerites burned the village and killed 25 inhabitants. The village on the RKKA map:
 
-RKKA link
+![RKKA](https://github.com/user-attachments/assets/2e26ce7b-0137-42b0-8cfe-989258c8d302)
 
 After the war the village was rebuilt. At the front 2 inhabitants of the village died. In 1970 there were 55 inhabitants, in 2003 there were 6 yards and 9 inhabitants. In 2025 no one lives in the village. Near the village in the woods there is a grave of victims of fascism - 58 peaceful inhabitants of the villages Nemkovichi and Postalovo, who were killed by Hitlerites in July 1942, on the grave there is an obelisk.
 
