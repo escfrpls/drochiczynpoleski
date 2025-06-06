@@ -108,3 +108,10 @@ photo link
 - https://ru.wikipedia.org
 - Города и деревни Беларуси, Брестская область
 - etomest.ru
+- https://fgurgia.ru
+- https://orda.of.by/
+- https://pruzana.wordpress.com
+- П. Диковъ, “Списокъ землевладѣній въ Гродненской губерніи”. Изд. гродненскаго губернскаго статистическаго комитета. Гродна. 1890 год, стр. 195
+- Mikołaj Rozanow – „Powiat Prużański (Szkic Historyczny)” 1935 rok, str. 75-84
+- Herbarz polski : wiadomości historyczno-genealogiczne o rodach szlacheckich. Cz. 1 t. 15. Warszawa. 1912 rok. s. 346-347
+- http://dir.icm.edu.pl/Slownik_geograficzny/Tom_XV_cz.2/379
