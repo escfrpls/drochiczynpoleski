@@ -1,22 +1,22 @@
 ---
-title: Village Niemkowicze"
-description: "Village Niemkowicze"
+title: "Деревня Немковичи"
+description: "Деревня Немковичи"
 author: "Tymoteusz Kaljuta"
-slug: /about/subpage2
+slug: /about/niemkowicze
 menu:
   subpage:
-    identifier: about-subpage-s2
+    identifier: about-niemkowicze
     parent: about
-    name: About the project
-    title: About the project
-    url: /about/subpage/
+    name: Деревня Немковичи
+    title: Деревня Немковичи
+    url: /about/niemkowicze/
     weight: 1
   subpage2:
-    identifier: about-subpage2-s2
+    identifier: about-subpage2
     parent: about
-    name: Support the project
-    title: Support the project
-    url: /about/subpage2/
+    name: Поддержка проекта
+    title: Поддержка проекта
+    url: /about/support/
     weight: 10
 ---
 
