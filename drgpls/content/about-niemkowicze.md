@@ -70,6 +70,8 @@ Niemkowicze on the one-turn map of 1866:
 
 ![1-ka 1866](https://github.com/user-attachments/assets/64d5cb4f-3c45-4074-8fab-b7104ca02cf0)
 
+In 1870 it was a part of Pruzana uyezd, Wielokosielsk parish. 
+
 In 1890 the estate had 65 dessiatinas of land.
 
 According to the enumeration of 1897 Niemkowicze was located in Kotra parish, Pruzana district, Grodno province. There were 16 households and 98 inhabitants. There was a bread store.
@@ -83,16 +85,22 @@ The village is mentioned in the dictionary “Geographical dictionary of the Kin
 
 ![Slownik 1902](https://github.com/user-attachments/assets/3957ef60-6d52-4da4-98cb-4b71d30553d8)
 
+В 1909 году в составе Пружанского уезда, Котранской волости.
+<hr style=“border: 1px solid blue; opacity: 0.5;”>
+
 From 1921 as part of Poland. Niemkowicze on the WIG map:
 
 ![WIG](https://github.com/user-attachments/assets/3aed4532-43bb-42bc-8ae2-6ac942b6233c)
+
+Since 1924 in Pruzana district, Kotra rural municipality. Since 1933 in Pruzana district, Rudniki rural commune.
+From the accounts of the locals, before World War 2, virtually the entire village was of the Protestant Pentecostal religious persuasion. According to the stories, Protestantism entered the village from a local man who had returned from working (earning) in the United States. Also, people who had previously practiced Catholicism or Orthodoxy in their majority attended Protestant meetings. They often gathered in the homes of local people for worship.
 <hr style=“border: 1px solid blue; opacity: 0.5;”>
 
 From 1939 it was a part of BSSR. Since 15.01.1940 in Pruzana district, Brest region. There were 31 yards and 135 inhabitants. In the Great Patriotic War in June, 1942 Hitlerites burned the village and killed 25 inhabitants. The village on the RKKA map:
 
 ![RKKA](https://github.com/user-attachments/assets/2e26ce7b-0137-42b0-8cfe-989258c8d302)
 
-After the war the village was rebuilt. At the front 2 inhabitants of the village died. In 1970 there were 55 inhabitants, in 2003 there were 6 yards and 9 inhabitants. In 2025 no one lives in the village. Near the village in the woods there is a grave of victims of fascism - 58 peaceful inhabitants of the villages Nemkovichi and Postalowo, who were killed by Hitlerites in July 1942, on the grave there is an obelisk.
+After the war the village was rebuilt. At the front 2 inhabitants of the village died. In 1970 there were 55 inhabitants, in 2003 there were 6 yards and 9 inhabitants. In 2025 no one lives in the village. In Pruzana district, Mokre village council. Near the village in the woods there is a grave of victims of fascism - 58 peaceful inhabitants of the villages Nemkovichi and Postalowo, who were killed by Hitlerites in July 1942, on the grave there is an obelisk.
 
 ![ob_1](https://github.com/user-attachments/assets/ad689f43-7c32-431a-8b38-8a4cb668b61e)
 
