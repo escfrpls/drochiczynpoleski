@@ -54,6 +54,10 @@ In the case of 1836 there is a discussion about the sale of the Niemkowicze esta
 
 In the 19th century several families were listed as owners of the Niemkowicze estate, Okinczyce and Galloff on one side, on the other side Pacewicz and Giedrojcу.
 
+There is a mention of the Nemkovichs in the file “Grodno provincial board of the Ministry of Internal Affairs, Grodno.
+
+![1850new](https://github.com/user-attachments/assets/15e14dea-181e-47eb-859f-e76689325a73)
+
 In the 1860s the land holdings of the families were small. The Pacewicze and Giedrojcу families owned a total of 31 dessiatinas of land.
 
 After the uprising of 1863-1863. From February 21 to May 1874, part of the land holdings of the NemkoNiemkowiczevici estate, which belonged to Piotr Pacewicz and Giedroyc are missing. They were bought out by temporarily obliged villagers. The estate existed until 1915, most likely not surviving World War 1 or the Polish-Bolshevik war.
@@ -85,7 +89,9 @@ The village is mentioned in the dictionary “Geographical dictionary of the Kin
 
 ![Slownik 1902](https://github.com/user-attachments/assets/3957ef60-6d52-4da4-98cb-4b71d30553d8)
 
-В 1909 году в составе Пружанского уезда, Котранской волости.
+In 1909 it was a part of Pruzany uyezd, Kotra volost. In 1909 it was a part of Pruzany uyezd, Kotra volost. There is a mention of Niemkowicze in the file “Pruzany uyezd commission of the Main Department of Land Management and Land Survey, Pruzany”, the case was conducted from March 23 to July 27, 1913.
+
+![1913new](https://github.com/user-attachments/assets/9dd513b0-1e6f-43ee-8393-6f524a062f0e)
 <hr style=“border: 1px solid blue; opacity: 0.5;”>
 
 From 1921 as part of Poland. Niemkowicze on the WIG map:
