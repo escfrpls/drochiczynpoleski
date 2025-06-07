@@ -62,7 +62,7 @@ Another part of Niemkowicze, known since the first half of the XIX century and b
 
 In the 1860s Paulina Galloff [1814-1888] wife of Józef Okinczyc [1804-1878] was listed as the owner of the estate, she owned 64 tithes of land.
 
-During the uprising of 1863-1864 their son Aleksander Okinczyc (a doctor of the uprising and memoirist) lived in the estate. After the uprising from February 21, 1866 to January 16, 1873, part of the land of the Niemkowicze estate, which belonged to Okinczyc P.O. and Galloff F.O., was bought by temporarily burdened peasants. Niemkowicze on the map of 1965-1887:
+During the uprising of 1863-1864 their son Aleksander Okinczyc (a doctor of the uprising and memoirist) lived in the estate. After the uprising from February 21, 1866 to January 16, 1873, part of the land of the Niemkowicze estate, which belonged to Okinczyc P.O. and Galloff F.O., was bought by temporarily burdened peasants. Niemkowicze on the map of 1865-1887:
 
 ![3-ka 1865 году и продолжались до 1887 год](https://github.com/user-attachments/assets/54e3e1e8-31af-4ecb-81d2-1ebd3aeae42e)
 
