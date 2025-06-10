@@ -11,6 +11,10 @@ In NIAB Fund: 1733 Inventory: 1 Case: 1 Internal inventory there is a mention of
 
 ![1566-1569](https://github.com/user-attachments/assets/193a6df6-2e82-41cf-8fb4-bf16a29aa4e5)
 
+It is worth noting the record of the NIAB archive Fund: 1785 Inventory: 1 Case: 20 Years: 1604. There is a mention of Zabierz (estate and courtyard) in Pinsk district.
+
+![1604](https://github.com/user-attachments/assets/d4c6c038-f874-4877-b015-451c1a794d27)
+
 It is worth attaching documents from 1640, which is currently in the Lithuanian archive.
 > The document of 1640 contains a list of income and expenses of an unspecified person, which includes the following localities: Braszewicze (BRAŠEVIČIAI), Chomsk (Chomskas), Sanava (Sanava), Simonowicze (Simonavičiai), Kolpienica (Kolpienica), Zabierz (Zabiežas). Also mentioned is class II Leipinai (Leipūnai).
 
