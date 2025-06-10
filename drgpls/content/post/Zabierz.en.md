@@ -7,6 +7,10 @@ tags:
 
 Zabierz is known from written sources since the 14th century. In the 14th - 1st half of the 15th century the village was part of the Zditow parish of the Grand Duchy of Lithuania, belonged to the Lithuanian Grand Duke, then passed to Nieproczewicz-Wolowicz. Mentioned in 1518 in the case of the conflict at the border of the Pinsk prince Fiodor Ivanowicz Jaroslawicz down “the estate of Zabierz with the place Chomsk” to his wife. At that time Zabierz was a “courtyard”, i.e. it had no significant fortifications and was only the administrative center of the estate. Zabierz remained a “courtyard” until the second half of the XVII century, at that time the Zabierz estate belonged to the princes Dolski and Jazersky, and was partly founded by the nobleman Wojciech Czarwinski. In the “yard” there were two barns, a cellar and a brewery.
 
+In NIAB Fund: 1733 Inventory: 1 Case: 1 Internal inventory there is a mention of Zabierz and in particular 2 persons (Stefan Jaroszewicz and Jan Jaroszewicz, viceroy of Pan Dolski in the estates of Chomsk and Zabierz):
+
+![1566-1569](https://github.com/user-attachments/assets/193a6df6-2e82-41cf-8fb4-bf16a29aa4e5)
+
 It is worth attaching documents from 1640, which is currently in the Lithuanian archive.
 > The document of 1640 contains a list of income and expenses of an unspecified person, which includes the following localities: Braszewicze (BRAŠEVIČIAI), Chomsk (Chomskas), Sanava (Sanava), Simonowicze (Simonavičiai), Kolpienica (Kolpienica), Zabierz (Zabiežas). Also mentioned is class II Leipinai (Leipūnai).
 
