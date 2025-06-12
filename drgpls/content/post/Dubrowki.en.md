@@ -5,7 +5,7 @@ tags:
   - "Dubrowki"
 ---
 
-On the single page map you can see our village marked, it is 1801-1845:
+On the single page map you can see our village marked, it is 1860 years:
 
 ![1-ka 1801-1845](https://github.com/user-attachments/assets/96d8c78e-7b00-48a9-982c-d590eb8d37d5)
 
