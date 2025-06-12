@@ -5,11 +5,11 @@ tags:
   - "Dziatlowicze"
 ---
 
-The settlement was marked on maps in the 1801-1845 one-turn map:
+The settlement was marked on maps in the 1860 one-turn map:
 
 ![1801-1845 1-ka](https://github.com/user-attachments/assets/c3af2782-7135-4acb-9a11-804e559ec519)
 
-On the tenth map of 1816-1840:
+On the tenth map of 1865:
 
 ![1816-1840c- 10-ka](https://github.com/user-attachments/assets/e4c6af80-b917-4771-b730-b0e81d026af4)
 
