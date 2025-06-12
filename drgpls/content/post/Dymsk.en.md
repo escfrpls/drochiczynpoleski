@@ -7,7 +7,7 @@ tags:
 
 It is very likely that the village comes from the Dymski family, because on old maps the village is written “Dymskie”.
 
-The village is on the 1801-1845 map:
+The village is on the 1860 years map:
 
 ![1-ka 1801-1845](https://github.com/user-attachments/assets/eeac9378-ba10-4cb5-a0a7-e38def1af642)
 
