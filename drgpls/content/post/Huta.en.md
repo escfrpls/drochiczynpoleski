@@ -4,7 +4,7 @@ date: "2025-05-28"
 tags: 
   - "Huta"
 ---
-The village of Huta is mentioned in written sources in the 18th century. Since 1795 it was part of the Russian Empire, in 1798 the manor Huta was mentioned. The village and the manor were marked on the 1801-1845 one-turn map:
+The village of Huta is mentioned in written sources in the 18th century. Since 1795 it was part of the Russian Empire, in 1798 the manor Huta was mentioned. The village and the manor were marked on the 1865 one-turn map:
 
 ![1-ka 1801-1845](https://github.com/user-attachments/assets/194bbe1d-e52d-4fbd-bdbb-62aed3aba238)
 
