@@ -5,7 +5,7 @@ tags:
   - "Debowo"
 ---
 
-The village on the 1801-1845 single page map:
+The village on the 1860 years single page map:
 
 ![1-ka 1801-1845](https://github.com/user-attachments/assets/2cf9e5ed-457d-49c1-b6f5-ac0e097d8558)
 
