@@ -7,7 +7,7 @@ tags:
 
 From written sources, Zawiersze was mentioned in 1518 as “Zawiersze Island” among the lands of Bezdziez village. In connection with the dispute between the Prince of Pinsk F.I. Jaroslawycz and the Catholics of the Church of the Mother of God in Trok. In 1783 the village was in the Pinsk district, Brest voivodeship, Grand Duchy of Lithuania.
 
-From 1795 in the Russian Empire, Kobryn district, Slonim, from 1797 Lithuanian, from 1801 Grodno province. The village is on the map of 1801-1845:
+From 1795 in the Russian Empire, Kobryn district, Slonim, from 1797 Lithuanian, from 1801 Grodno province. The village is on the map of 1860:
 
 ![1-ka 1801-1845](https://github.com/user-attachments/assets/5a5c1fc9-6a17-4b5e-92d3-f55b74a85e65)
 
