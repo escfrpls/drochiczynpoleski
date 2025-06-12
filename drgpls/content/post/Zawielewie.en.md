@@ -7,7 +7,7 @@ tags:
 
 In written sources from the 16th c. In 1783 it was mentioned as a part of Braszewicze parish, a Catholic church authority, belonged to Braszewicze Roman Catholic parish.
 
-From 1795 it was a part of the Russian Empire, Kobryn district, Slonim district, from 1797 Lithuanian, from 1801 in Grodno province. The village is on the map of 1801-1845:
+From 1795 it was a part of the Russian Empire, Kobryn district, Slonim district, from 1797 Lithuanian, from 1801 in Grodno province. The village is on the map of 1860:
 
 ![1-ka 1801-1845](https://github.com/user-attachments/assets/f3f7fbbe-7d5e-4f56-b571-ab11a54d8133)
 
