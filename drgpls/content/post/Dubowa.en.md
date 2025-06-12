@@ -5,7 +5,7 @@ tags:
   - "Dubowa"
 ---
 
-The 1801-1845 single page map shows a village and a tract:
+The 1860 years single page map shows a village and a tract:
 
 ![1-ka 1801-1845](https://github.com/user-attachments/assets/eadae84b-1666-4aed-8f06-aafb54fadc83)
 
