@@ -7,7 +7,7 @@ tags:
 
 The village is known from written sources since the 16th century. In the 2nd half of the 16th century it was included in the Pinsk district, Brest voivodeship, Greath Duchy of Lithuania. In 1783 the village was a part of Bezdziez manor (key).
 
-From 1795 in the Russian Empire, in Kobryn district, Slonim district, from 1797 Lithuanian, from 1801 Grodno province. The village is on the 1801-1845 one-turn map:
+From 1795 in the Russian Empire, in Kobryn district, Slonim district, from 1797 Lithuanian, from 1801 Grodno province. The village is on the 1865 one-turn map:
 
 ![1-ka 1801-1845](https://github.com/user-attachments/assets/c745c37f-2700-4254-9524-0ac1cb6c8bd5)
 
