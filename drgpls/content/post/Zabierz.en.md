@@ -28,7 +28,7 @@ There, on the site of the old “courtyard”, Prince Jan Karol Dolski built the
 
 At the end of the 16th and beginning of the 17th century near Zabierz there was a castle of the Wiszniewicki princes. It was destroyed in 1706 by the army of Charles XII. In 1793 the village is mentioned as part of Chomsk county, there was a working inn, 4 mills. From the inventory for 1793 there is still mentioned a folwark with 22 yards and 154 inhabitants. 
 
-From 1795 in the Russian Empire, in Kobryn district, Slonim district, from 1797 in Lithuanian, from 1801 in Grodno province. The village is on the map in 801:
+From 1795 in the Russian Empire, in Kobryn district, Slonim district, from 1797 in Lithuanian, from 1801 in Grodno province. The village is on the map in 1860 years:
 
 ![1-ka 1801-1845](https://github.com/user-attachments/assets/7be2d6d7-d657-4ffe-960f-557478b2fbae)
 
