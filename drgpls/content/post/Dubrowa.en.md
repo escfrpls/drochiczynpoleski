@@ -7,7 +7,7 @@ tags:
 
 From written sources it is known from the 18th century. 
 
-The village is on the 1801-1845 single page map:
+The village is on the 1860 years single page map:
 
 ![1-ka 1801-1845](https://github.com/user-attachments/assets/10ce8c8e-eccf-46ff-b039-bd9359df63c3)
 
