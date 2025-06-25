@@ -1,6 +1,6 @@
 ---
 title: "Village Zaplesie"
-date: "2025-06-11"
+date: "2025-06-25"
 tags: 
   - "Zaplesie"
 ---
