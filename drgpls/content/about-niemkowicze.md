@@ -49,18 +49,22 @@ From the Uniate MK of the village Mokre (near Niemkowicze), which is stored in R
 From the “Income Tax Register” of 1775, Niemkowicze and Kuszle had 15 farms together and were listed under Pan Sawicki. He was a lieutenant (Lieutenant*?) in the royal service. Before 1775 Sawicki gave the villages of Niemkowicze and Kuszli (also his other holdings as Czarnolozy, Krasne, Pieski, Klepaczy) to the long-term lease strażnikowicza (guard*?) of the Owrucki surname Jelski. However, there may be a letter error in the documents and it could be stolnikowicza (stolnik), in which case we could assume that we are talking about Ignacy Jelski, who was promoted in 1775 to flag bearer (flagman) of the Lithuanian First Guard. Later a major of the Kingdom of Poland, died in 1820, he was the son of Stolnik owrucki Maciej Jelski. Further on in history Niemkowiczewas always owned by several noble families.
 <hr style=“border: 1px solid blue; opacity: 0.5;”>
 
+The village on Schubert's map of 1820-1840:
+
+![Niemowicze szubert 1826-1840 gg](https://github.com/user-attachments/assets/1f235917-0e18-4047-b68c-7482bd05bcd3)
+
 Probably the next owners were the representatives of the Lachowski family, the coat of arms “Belina”, and more specifically Jozef Lachowski. At that time Niemkowicze was part of the Lachowski estate - Mokre. 
 In the case of 1836 there is a discussion about the sale of the Niemkowicze estate with 12 decimals of land together with rural buildings to the Pacewicz family - Jan and Katerina.
 
 In the 19th century several families were listed as owners of the Niemkowicze estate, Okinczyce and Galloff on one side, on the other side Pacewicz and Giedrojcу.
 
-There is a mention of the Nemkovichs in the file “Grodno provincial board of the Ministry of Internal Affairs, Grodno.
+There is a mention of the Nemkovichs in the file "Grodno provincial board of the Ministry of Internal Affairs", Grodno.
 
 ![1850new](https://github.com/user-attachments/assets/15e14dea-181e-47eb-859f-e76689325a73)
 
 In the 1860s the land holdings of the families were small. The Pacewicze and Giedrojcу families owned a total of 31 dessiatinas of land.
 
-After the uprising of 1863-1863. From February 21 to May 1874, part of the land holdings of the NemkoNiemkowiczevici estate, which belonged to Piotr Pacewicz and Giedroyc are missing. They were bought out by temporarily obliged villagers. The estate existed until 1915, most likely not surviving World War 1 or the Polish-Bolshevik war.
+After the uprising of 1863-1863. From February 21 to May 1874, part of the land holdings of the Niemkowicze estate, which belonged to Piotr Pacewicz and Giedroyc are missing. They were bought out by temporarily obliged villagers. The estate existed until 1915, most likely not surviving World War 1 or the Polish-Bolshevik war.
 
 Another part of Niemkowicze, known since the first half of the XIX century and belonged to the Galloff family. According to data from 1845-1847, the estate was owned by Alexander Galloff and Theodor Galloff.
 
