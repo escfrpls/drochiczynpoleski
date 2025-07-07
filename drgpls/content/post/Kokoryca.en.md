@@ -5,7 +5,7 @@ Tags:
   - "Kokoritsa"
 ---
 
->According to local legend, two men named Zinowij and Protas were exiled to the local swamps for some offense. The men settled on an island in the swamp, took root here and gave birth to the Zinowicze and Protasewicze surnames. These two surnames are still the most common in the village. Only in the post-war years, when teachers and other specialists were sent to work in the village, ethnic diversity was introduced here. 
+> According to local legend, two men named Zinowij and Protas were exiled to the local swamps for some offense. The men settled on an island in the swamp, took root here and gave birth to the Zinowicze and Protasewicze surnames. These two surnames are still the most common in the village. Only in the post-war years, when teachers and other specialists were sent to work in the village, ethnic diversity was introduced here. 
 
 From written sources Kokorica is mentioned in 1558, it is mentioned in the affirmative charter of Zygimont I the Old to Marcin Szyrma for the ownership of the Kokorczynski court.
 
