@@ -1,8 +1,8 @@
 ---
 title: "Village Koty"
-date: "2025-07-14"
+date: "2025-07-08"
 tags: 
-  - "Koty" "Raszyn"
+  - "Koty"
 ---
 
 It is very likely that the village of Koty is derived from the village of Raszyn, or rather New Raszyn. It could be in case of selling the village, or renaming the village.
