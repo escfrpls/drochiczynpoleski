@@ -17,7 +17,9 @@ Also on the 1846-1863 military topographic map of the Russian Empire:
 
 In 1858 the village of Losince was the center of the village community in Braszewicze volost, Kobryn district, Grodno province. There were 213 revision souls (state villagers), who until 1842 were subordinates of the Torokan monastery. In the archive RGIA F. 385 Op. 18 D. 118, the extreme dates of May 12, 1865 - February 18, 1874, there is a mention of the village:
 
-> Temporary Department for the land arrangement of state peasants. Case on the submission of the Grodno Chamber of State Property on the remuneration of collegiate secretary Krukowski for taking from him the farms Losince and Czechowcy in Grodno province. The village is on the map:
+> Temporary Department for the land arrangement of state peasants. Case on the submission of the Grodno Chamber of State Property on the remuneration of collegiate secretary Krukowski for taking from him the farms Losince and Czechowcy in Grodno province. 
+
+The village is on the map:
 
 <img width="413" height="194" alt="1-ka" src="https://github.com/user-attachments/assets/1886401b-7a5b-4d3d-b231-ab3046214c62" />
 
