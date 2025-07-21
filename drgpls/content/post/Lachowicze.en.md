@@ -11,15 +11,15 @@ Lachowicze is mentioned in 1492 in the grant of Princess Maria Semionowa Aleksan
 
 From 1795 in the Russian Empire, in Kobryn district of Slonim, from 1797 in Lithuanian, from 1801 in Grodno province. The village is on Napoleon's map of 1812:
 
-napoleon link
+<img width="263" height="145" alt="napoleon 1812" src="https://github.com/user-attachments/assets/9e6f126f-1b8b-4715-9125-db2fd4ddfd9d" />
 
 The village on Schubert's map of 1826-1840:
 
-Schubert link
+<img width="585" height="243" alt="szubert 1826-1840" src="https://github.com/user-attachments/assets/730d6217-05f8-4d1f-aee4-2a4852a8aca4" />
 
 Also the settlement on the military topographic map of the Russian Empire for 1846-1863:
 
-VTCRI link
+<img width="427" height="239" alt="WTKRI 1846-1863" src="https://github.com/user-attachments/assets/3eac786c-4593-43a8-953d-19fc5e2a32fb" />
 
 In 1858 the Lachowicze estate belongs to the landowner Shemet, in Osowiec parish, Kobryn district. In RGIA, F. 577 Op. 10 Д. 1115, extreme dates: June 7, 1865 - December 14, 1871, there is a mention of Lyakhovichi:
 
@@ -31,23 +31,23 @@ In 1886 the pogost Lachowicze, orthodox church was mentioned. In 1890 the villag
 
 The village is on the map in one-turn:
 
-1-ca link
+<img width="920" height="806" alt="1-ka" src="https://github.com/user-attachments/assets/7f040e0e-08a4-4b00-87f4-82b53f66484b" />
 
 The village on the triple-surface map:
 
-3-ca link
+<img width="282" height="182" alt="3-ka" src="https://github.com/user-attachments/assets/04c5da2d-ef91-4634-8b51-731045382c9b" />
 
 From 1921 to 1939 in Poland, in Drohiczyn district, Poleskie voivodeship. In 1921 in Osowiec commune, 2 colonies Lyakhovichi, 56 yards and 389 inhabitants, of which 322 were Orthodox, folwark Lachowicze - 4 yards and 37 inhabitants. The village on the Polish map WIG:
 
-wig link
+<img width="354" height="208" alt="WIG" src="https://github.com/user-attachments/assets/cb6a01c7-996f-4b80-acf7-583cef1ed025" />
 
 From 04.12.1939 in Drohiczyn district, Pinsk region, BSSR. From 15.01.1949 in Drohiczyn district, from 12.10.1940 the village Lachowicze-1 - the center of the village council. In 1939 the colony Lachowicze-1 had 69 yards and 370 inhabitants, and in the colony Lachowicze-2 - 93 yards and 495 inhabitants, there was a wharf on the Dnieper-Bug canal, there was an elementary school. The village is on the Red Army map:
 
-RCAA link
+<img width="346" height="193" alt="RKKA" src="https://github.com/user-attachments/assets/2717b8c4-2f7f-4247-9a0c-3b0eec5f7261" />
 
 Also on the German map kdwr:
 
-kdwr link
+<img width="345" height="175" alt="kdwr" src="https://github.com/user-attachments/assets/4ff5a753-a616-43b1-8037-83f198f4e775" />
 
 During the Great Patriotic War near the village on 19.06.1943 the partisans put the Lachowicze waterworks out of operation. In February 1944 partisans fought hard against the German troops, part of the village was burned by the Nazis, 18 villagers were killed. In 1949 the collective farm "New Life" was founded, the chairman M. Karpuk. Since 1954 in Brest region. From 02.06.1959 in Popina village council, there were 310 inhabitants. In 1970 the village Lachowicze, there were 311 inhabitants, in 1995 - 72 yards and 175 inhabitants.
 
