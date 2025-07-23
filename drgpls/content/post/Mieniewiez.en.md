@@ -15,11 +15,11 @@ Hereinafter also RGIA, F. 733 Op. 235 Д. 155, extreme dates: 1803-1837, also me
 
 The village on Schubert's map of 1826-1840:
 
-shubret link
+<img width="391" height="213" alt="szubert 1826-1840" src="https://github.com/user-attachments/assets/48db0660-4416-4b73-840f-f32ebea92f83" />
 
 Also the village on the military topographic map of the Russian Empire for 1846-1863:
 
-VTCRI link
+<img width="433" height="256" alt="WTKRI 1846-1863" src="https://github.com/user-attachments/assets/277aa107-1980-4915-b7ea-8fa7fbd9bb3b" />
 
 In 1858, the village was the center of the village community of Ziolow volost, Kobryn district, Grodno province, part of the Derewna estate, landowners of the Zawadski family. There were 144 inhabitants. In 1890 the community had 353 tithes of land, of which 177 were usable. In 1905 there were 310 inhabitants in the village and 12 in the folvark. Again return to the archive RGIA, F. 796 Op. 169 D. 1060, extreme dates: 1888, mentioning the inhabitants of our village:
 
@@ -27,23 +27,23 @@ In 1858, the village was the center of the village community of Ziolow volost, K
 
 The village is on the map:
 
-1-ca.
+<img width="359" height="175" alt="1-ka" src="https://github.com/user-attachments/assets/bfed9b7b-c499-45a9-9cbe-73a360a44bcb" />
 
 Also on the three-turn map:
 
-3-ka
+<img width="322" height="145" alt="3-ka" src="https://github.com/user-attachments/assets/7f974082-ce3f-48c0-9f4d-5d5fe1f92d69" />
 
 From 1921 to 1939 in Poland. In Ziolow commune, Kobryn district, Poleskie voivodeship. In 1921 there were 21 courtyards and 156 inhabitants. In 1930 there were 47 courtyards and a Polish elementary school. The village is on the Polish map WIG:
 
-WIG link
+<img width="321" height="169" alt="WIG" src="https://github.com/user-attachments/assets/e1e09e49-f06f-4c2b-bc78-6c2f3d9caa33" />
 
 From 1939 in the BSSR, from 15.01.1940 in Antopol district, Brest region. Since 12.10.1940 in Detkowicze village council, 285 inhabitants. The village is on the Red Army map:
 
-RCAA link
+<img width="276" height="150" alt="RKKA" src="https://github.com/user-attachments/assets/c57e02ee-fc60-4b37-86ac-af01f7e1cb49" />
 
 Also on the German map kdwr:
 
-kdwr link
+<img width="315" height="194" alt="kdwr" src="https://github.com/user-attachments/assets/e96ac2aa-d928-4fcb-8830-051253bdbfb4" />
 
 In the Great Patriotic War 9 inhabitants of the village died, 7 at the front. From 08.08.1959 in Drohiczyn district, 263 inhabitants, in 1995 - 56 households and 92 inhabitants.
 
