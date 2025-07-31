@@ -7,11 +7,11 @@ tags:
 
 Как можем заметить на карте Шуберта 1826-1840 гг. нашего поселения еще нет:
 
-Шуберт линк
+<img width="576" height="351" alt="Szubert 1826-1840" src="https://github.com/user-attachments/assets/5ce8a44b-31c6-4b17-a1e3-6e4c03af9959" />
 
 Но оно уже есть на военно-топографической карте Российской Империи 1846-1863 гг.:
 
-ВТКРИ линк
+<img width="843" height="436" alt="WTKRI 1846-1863" src="https://github.com/user-attachments/assets/5a5960f2-cf4c-4c31-88a2-2a1e38e1d0bc" />
 
 В архиве РГИА есть документы, с упоминанием нашей колонии и имения Попина.
 Первым стоит упомянуть Ф. 899 Оп. 1 Д. 468, крайние даты: 1913 г.
@@ -28,23 +28,23 @@ tags:
 
 Также поселение на карте одновёрстке
 
-1-ка
+<img width="423" height="183" alt="1-ка" src="https://github.com/user-attachments/assets/3eb63990-5a51-4088-8035-c9b8b17c0555" />
 
 На карте трёхвёрстке:
 
-3-ка
+<img width="424" height="204" alt="3-ka" src="https://github.com/user-attachments/assets/ea2d5dc8-a484-48ca-8a70-729fa032fbff" />
 
 С 1921 по 1939 года в составе Польши.Как деревня образовалась в 1930 годы, на месте бывшей колонии Попина, которая была переименована в деревню Новая Попина.  В 1939 году в колонии Попина, насчитывалось 119 дворов и 595 жителей. Деревня на польской карте WIG:
 
-wig link
+<img width="330" height="170" alt="wig" src="https://github.com/user-attachments/assets/8a696511-1df3-4713-9f1a-bb356cdcc775" />
 
 С 1939 года в составе БССР. В Великую Отечественную войну погибло 7 жителей деревни. Деревня нана карте РККА:
 
-ркка линк
+<img width="431" height="200" alt="RKKA" src="https://github.com/user-attachments/assets/c3ff1315-ce73-46ee-9fdf-00998c3b3f30" />
 
 Также деревня на карте kdwr:
 
-kdwr link
+<img width="376" height="207" alt="kdwr" src="https://github.com/user-attachments/assets/2ecfa7cb-7ccd-4970-9392-a34b0635942d" />
 
 В 1950 году был создан Октябрьский МТС. В 1970 году деревня Новая Попина насчитывала 541 жителя. В 1995 году 292 двора и 984 жителя.
 
