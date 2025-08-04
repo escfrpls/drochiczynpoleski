@@ -9,11 +9,11 @@ Written sources mention it in 1793 as a tract of land within the boundaries of t
 
 From 1795, it was part of the Russian Empire, in the Kobryn County, Slonim, from 1797 in the Lithuanian, and from 1801 in the Grodno Province. Villages on Schubert's map from 1826-1840:
 
-Schubert link
+<img width="438" height="263" alt="Шуберт 1826-1840" src="https://github.com/user-attachments/assets/19700efe-1e44-41ab-ae15-3a23338822a9" />
 
 Also on the map of single-page:
 
-1-ka link
+<img width="349" height="185" alt="1-ka" src="https://github.com/user-attachments/assets/a380fc6f-dc21-4fb9-8c6b-2a0dfd0606f6" />
 
 In 1890, the Temra farmstead was part of the estate of landowner Andrej Lukianienko. Forest Temra belonged to Anna Timofejewa, in the Ziolow volost, Kobryn district. In the "Geographical Dictionary of the Kingdom of Poland and Other Slavic Countries, Volume XII" for 1892, our Temra is mentioned:
 
@@ -35,11 +35,11 @@ In 1905, the village of Temra Stara had 151 inhabitants, and the two Temra farms
 
 From 1921 to 1939, it was part of Poland. In 1921, the village of Temra, the Temra farmstead, and the Grateki farmstead had a total of 24 households and 162 residents, of whom 153 were Orthodox Christians. In 1930, there were 11 houses in the village of Nowa Temra. The village on the Polish WIG map:
 
-WIG link
+<img width="404" height="197" alt="WIG" src="https://github.com/user-attachments/assets/6b094910-87e8-41ed-8480-ca5597b70df5" />
 
 Since 1939, it has been part of the Belarus SSR. Since January 15, 1940, it has been in the Antopol District, Brest Region. Since October 12, 1940, it has been in the Detkowicze Village Council, with 68 inhabitants. The village on the Red Army map:
 
-RKA link
+<img width="351" height="184" alt="RKKA" src="https://github.com/user-attachments/assets/01fdd1df-bd2c-42fb-8e0d-fa731cffc50e" />
 
 During the Great Patriotic War, three residents of the village were killed, two died on the front lines. Since August 8, 1959, part of the Drohiczyn District, 91 residents. In 1970, 117 residents; in 1995, 22 households and 36 residents.
 
