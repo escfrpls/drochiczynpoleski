@@ -41,5 +41,3 @@ tags:
 - etomesto.ru
 - wikipedia.org
 - Энциклопедия "Гарады и вёскi Беларусi"
-- RGIA
-- LGIA
