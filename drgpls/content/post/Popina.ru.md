@@ -73,3 +73,4 @@ kdwr link
 - wikipedia.org
 - Энциклопедия "Гарады и вёскi Беларусi"
 - RGIA
+- LGIA

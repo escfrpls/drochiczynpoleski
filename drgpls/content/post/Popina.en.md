@@ -1,47 +1,76 @@
 ---
-title: "Village Niemierza"
-date: "2025-08-04"
+title: "Village Popina"
+date: "2025-08-06"
 tags: 
-  - "Niemierza"
+  - "Popina"
 ---
 
-Our village was originally formed from the Burmaki farmstead, which was located above the village of Okropne. It is marked on Schubert's map from 1826-1840:
+Popina is mentioned in 1522 in a deed of gift from Grand Duke Sigismund I the Old of Lithuania to Ivan Palazowicz for access to the royal forest. In “Inventory of Documents of the Wilno Central Archive of Ancient Records. Issue X,” March 1, 1580. There is a record of the sale of Popina by Wojny Wasilewicz Lunewski and part of the lands of his brother Michal Wasilewicz Lunewski. The buyer was Bogdan Jackiewicz Czernewski. The document mentions the existing Orthodox church in Popina.
 
-<img width="370" height="177" alt="Szubert 1826-1840" src="https://github.com/user-attachments/assets/3e994d88-4075-4f8e-8c22-e808201612d2" />
+Act of 1580 link
 
-The village on the map of Odnoverstka:
+More details about the church can be found in the neighboring section [“Church in Popina”](https://drohiczyn-poleski.com/ru/post/new_popina_church/)
 
-<img width="418" height="205" alt="1-ka" src="https://github.com/user-attachments/assets/d3590c3b-363a-4a50-b0f5-2ad640591c89" />
+The settlement is also marked on the map of 1665:
 
-On the military-topographic map of the Russian Empire for 1846-1863, Burmaki, which is higher up on the map, was already named Okropne.
+1665 link
 
-<img width="626" height="304" alt="WTKRI 1846-1863" src="https://github.com/user-attachments/assets/bcd94ddc-93c3-44f3-b346-b5446d999e49" />
+Since 1795, it has been part of the Russian Empire, a village in the Kobryn district, Slonim, since 1797 in Lithuania, and since 1801 in the Grodno province. In 1810, the Transfiguration Church was built. The village on Napoleon's map of 1812:
 
-The village on the three-verst map:
+1812 link
 
-<img width="442" height="198" alt="3-ka" src="https://github.com/user-attachments/assets/ac2d989b-2959-44df-8253-1bc287037dd5" />
+The LGIA archive contains a mention of our Popina for 1816, which states:
 
-In the RGIA archive, F. 1344 Op. 142 D. 1475, extreme dates December 11, 1899. There is a mention of our village:
+> This is a document by Kazimir Szwikowski, which states that the Popin foresters (?) are allowed to allow the priest of the Lutsk Cathedral, Ion Lesniewicz, to take away firewood. The document also contains testimonies from Adam Dlugopolski and others regarding the fulfillment of this order. Priest Dludzinski (Blyudzinki) from Pavet (Pavetie) sent a letter of thanks to a certain person regarding the same matter.
 
-> Second (peasant) department of the Senate. Report of the Grodno governor dated December 14, 1898, No. 13207, with a complaint from the representative of the peasants of the village of Okropno, Nikifor Wakulin, regarding the seizure of Nazalia Maruszko garden.
+photo 1
+photo 2
 
-In 1907, the site of the folwark and the villages of Okropno and Barmaki, which were part of the Chomsk volost, Kobryn County, Grodno Province, was settled by immigrants from the Bialowieza forest region.
+On Schubert's map from 1826-1840:
 
-From 1921 to 1939, it was part of Poland, in the Drohiczyn County, Polesie Voivodeship. In 1921, the village had 35 households and 68 inhabitants in the Chomsk gmina. The village on the Polish WIG map:
+Schubert link
 
-<img width="431" height="190" alt="WIG" src="https://github.com/user-attachments/assets/eacd3525-a4bc-4680-a7f5-dfa95b0dcbb5" />
+In 1830, the Zuk estate was located near the village. During the uprising of 1830-31, rebels from Tito Puslowski detachment found refuge and support here. The settlement is also marked on the military-topographic map of the Russian Empire from 1846-1863:
 
-From December 4, 1939, it was part of the BSSR, in the Drohiczyn County, Pinsk Region, with 38 households and 209 inhabitants, and a primary school. From January 15, 1940, it was in the Drohiczyn District, and from October 12, 1940, in the Niemierza Village Council. The village on the Red Army map:
+VTKRI link
 
-<img width="392" height="188" alt="RKKA" src="https://github.com/user-attachments/assets/1f99c444-fe84-4a2f-ae15-7c30c0f109c7" />
+In 1858, the village of Popina in the Osowiec volost was the center of a rural community that was part of Ivan Zuk Popina estate. There were 188 registered souls (state peasants), a church, and a public school. In 1886, the estate had a winery, a malt house, horse-driven and wind-driven mills. In the RGIA archive, F. 899 Op. 1 D. 517, extreme dates - 1800, 1891-1917, there is a mention of our village:
 
-The village on the German kdwr map:
+> Powers of attorney of Count Samoilow A.N., Countess Bobrynska (née Szuwalowa) S.A., Countess Bobrynska (née Polowcewa) N.A., issued to various persons (Kolesow A.S., Lazarewicz Yu.S., Gelfreikh G.M., B.F. Morenshild, A.A. Denu von, Z.A. Laskowski) to represent the interests of the owners and manage the estates and factories, including Smelianski in Czerkasy County, Kiev Province, Zakoziel, Belin, Perekrestie, and Popina in Kobryn County, Grodno Province.
 
-<img width="394" height="196" alt="kdwr" src="https://github.com/user-attachments/assets/8625dd27-81e7-49a4-b8bf-fdcd203abef0" />
+In 1905, the village had 386 inhabitants and a functioning parish school. The estate had 56 inhabitants. The village on the one-verst map:
 
-During the Great Patriotic War, 24 residents of the village were killed and 21 did not return from the front. Since 1954, it has been part of the Brest region. In 1960, the village had 163 residents, and in 1970, 160 residents. In 1976, Okropno and Burmaki were included in the village. In 1995, there were 146 households and 380 residents.
+1-ka link
+
+Also on the three-verst map:
+
+3ka link
+
+Also in the RGIA archive, 1913, F. 899 Op. 1 D. 468:
+
+> Lease agreement and sale record concluded by N.A. Bobrynska (née Polowcewa) with I.B. Zuk for the latter's estate in Popina, Kobryn district, Grodno province.
+
+RGIA 1914, F. 899 Op. 1 D. 469:
+
+> Power of attorney granted by N.A. Bobrynska (née Polowcewa) to B.F. Morenshild for conducting business related to the acquisition from I.B. Zuk of the Popin Kobryn estate in the Kobryn district of the Grodno province. Kobryn district of the Grodno province.
+
+From 1921 to 1939, it was part of Poland, in the Osowiec gmina, Drohiczyn povet, Polesie Voivodeship. In 1921, the village of Popina had 16 households and 106 inhabitants, and in 1922, a stone church was built. The village on the Polish WIG map:
+
+wig link
+
+From December 4, 1939, it was part of the BSSR, in the Osowiec volost, Drohiczyn district, Pinsk region. From January 15, 1940, it was in the Drohiczyn district, and from October 12, 1940, it was in the Popina village council, part of the Kalinin collective farm. There was a functioning elementary school. The village on the Red Army map:
+
+Red Army link
+
+Also on the German kdwr map:
+
+kdwr link
+
+During the Great Patriotic War, 22 residents of the village were killed, and 17 did not return from the front. Since 1954, it has been part of the Brest Region. In 1960, the village had 719 residents, in 1970 - 235 residents, in 1995 - 73 households and 169 residents.
 
 References and materials used in the post:
 - Cities and villages of Belarus, Brest region
 - etomest.ru 
 - wikipedia.org
+- RGIA
+- LGIA
