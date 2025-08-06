@@ -1,4 +1,4 @@
-![lgia2](https://github.com/user-attachments/assets/794854ff-6bd7-4df2-9168-b2af08d470ff)---
+---
 title: "Village Popina"
 date: "2025-08-06"
 tags: 
