@@ -9,23 +9,23 @@ tags:
 
 Военно-топографическая карта Российско Империи за 1846-1863 гг.:
 
-втпкр
+<img width="834" height="535" alt="WTKRI 1846-1863" src="https://github.com/user-attachments/assets/0dba205b-caa2-4d4d-ab3d-a25f4a300370" />
 
 На карте одновёрстке:
 
-й-ка
+<img width="1451" height="769" alt="1-ка" src="https://github.com/user-attachments/assets/615e752b-3c7e-49df-aca6-74b31c4eb6f0" />
 
 На карте трёхверстке:
 
-3-ка
+<img width="633" height="496" alt="3-ka" src="https://github.com/user-attachments/assets/a3b27c86-0ca7-4ec0-9985-da4074ae1749" />
 
 На польской карте WIG:
 
-wig
+<img width="777" height="464" alt="wig" src="https://github.com/user-attachments/assets/7511d759-29a3-44ff-8cf3-465c42ae1860" />
 
 Также на немецкой карте kdwr 1920-1923 гг.:
 
-kdwr
+<img width="700" height="486" alt="kdwr" src="https://github.com/user-attachments/assets/a4337db4-753f-4c5d-8fd1-b610128609f3" />
 
 Деревня появилась в 1956-58 гг. В связи с осушением болот и соединение хуторов Заваёва, Козье, Поляна, Рожны, Товстина, Черемш и других. С 1959 года в Дрогичинском районе, Бресткой области, Радостовской сельсовет. В 1960 году насчитывалось 167 жителей, в 1970 году - 290 жителй, в составе колхоза "Красный партизан". В 1995 году 72 двора и 235 жителей, работает начальная школа.
 
