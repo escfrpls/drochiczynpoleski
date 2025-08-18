@@ -17,23 +17,23 @@ tags:
 
 В 1858 году деревня деревня, центр сельской общины в Дрогичинской волости, в составе имения Островки помеищка Осипа Богурского, насчитывалось 150 ревизорских душ (государственных селян). В 1905 году деревня, насчитывалось 290 жителей, работала начальная школа. Деревня на карте одновёрстке:
 
-<img width="334" height="180" alt="1-ka" src="https://github.com/user-attachments/assets/261b500d-328c-43f2-88cf-081bca5590d4" />
+<img width="313" height="160" alt="1-ka" src="https://github.com/user-attachments/assets/3e231085-3020-4d4f-ad2c-a23a554708d0" />
 
 Также на карте трёхвёрстке:
 
-<img width="382" height="172" alt="3-ka" src="https://github.com/user-attachments/assets/616e01c6-94e7-4263-bdd9-cc94eef2d0d0" />
+<img width="382" height="172" alt="3-ka" src="https://github.com/user-attachments/assets/69782bec-b6c5-41da-a24b-2d4c34a28849" />
 
 С 1921 по 1939 года в составе Польши, в Дрогичинской гмине, Дрогичинского повета, Полеского воеводства. В 1921 году насчитывалось 18 дворов и 148 жителей. Деревня на польской карте WIG:
 
-<img width="363" height="170" alt="WIG" src="https://github.com/user-attachments/assets/2fa84c16-db0a-4b85-9fc5-fbe7ac2717d5" />
+<img width="318" height="192" alt="WIG" src="https://github.com/user-attachments/assets/7b32b795-c077-4aeb-8cb1-ee3a53b4dad5" />
 
 Также на немецкой карте kdwr:
 
-<img width="382" height="208" alt="kdwr" src="https://github.com/user-attachments/assets/708c3dba-6dbb-4f9d-9657-df12910177d0" />
+<img width="369" height="192" alt="kdwr" src="https://github.com/user-attachments/assets/e187e5c8-4390-4c75-9cc5-c59abacaa072" />
 
 С 04.12.1939 год в составе БССР, в Дрогичинской волости, Дрогичинского повета, Пинской области.Насчитывалось 64 двора и 449 жителей. С 15.01.1940 года в Дрогичинском районе, с 12.10.1940 года в Липницком сельсовете. Деревня на карте РККА:
 
-<img width="275" height="143" alt="RKKA" src="https://github.com/user-attachments/assets/73a012bb-310a-4f42-8fa4-1254cb49ddcc" />
+<img width="327" height="220" alt="RKKA" src="https://github.com/user-attachments/assets/be387675-88ae-4ccd-ac50-0e80b4026c73" />
 
 В Великую Отечественную войну погибло 9 жителей деревни, 8 на фронте.В в деревне насчитывалось 355 жителей. В 1970 г. деревня в Дрогичинском сельсовете, 352 жителя.В 1995 году - 91 двор и 221 житель.
 
