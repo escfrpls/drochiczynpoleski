@@ -21,7 +21,7 @@ tags:
 
 Также на карте трёхвёрстке:
 
-<img width="382" height="172" alt="3-ka" src="https://github.com/user-attachments/assets/69782bec-b6c5-41da-a24b-2d4c34a28849" />
+<img width="387" height="184" alt="3-ka" src="https://github.com/user-attachments/assets/39be9574-1255-49c2-8ab9-2ecd8ff26041" />
 
 С 1921 по 1939 года в составе Польши, в Дрогичинской гмине, Дрогичинского повета, Полеского воеводства. В 1921 году насчитывалось 18 дворов и 148 жителей. Деревня на польской карте WIG:
 
