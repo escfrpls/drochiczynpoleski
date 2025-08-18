@@ -21,7 +21,7 @@ In 1858, the village, the center of the rural community in the Drohiczyn volost,
 
 Also on the three-verst map:
 
-<img width="382" height="172" alt="3-ka" src="https://github.com/user-attachments/assets/69782bec-b6c5-41da-a24b-2d4c34a28849" />
+<img width="387" height="184" alt="3-ka" src="https://github.com/user-attachments/assets/39be9574-1255-49c2-8ab9-2ecd8ff26041" />
 
 From 1921 to 1939, it was part of Poland, in the Drohiczyn gmina, Drohiczyn powiat, Polesie Voivodeship. In 1921, there were 18 households and 148 inhabitants. The village on the Polish WIG map:
 
