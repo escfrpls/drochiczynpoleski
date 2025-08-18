@@ -2,7 +2,7 @@
 title: "Village Raszyn"
 date: "2025-08-13"
 tags: 
-  - "Raszn"
+  - "Raszyn"
 ---
 
 Written sources mention a church in 1588, 1634, and 1640 (Information from the book Cities and Villages of Belarus).
