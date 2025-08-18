@@ -17,11 +17,11 @@ Also on the military-topographic map of the Russian Empire for 1846-1863:
 
 In 1858, the village, the center of the rural community in the Drohiczyn volost, part of the estate of Osip Bogurski, had 150 registered souls (state peasants). In 1905, the village had 290 inhabitants and a primary school. The village on the one-verst map:
 
-<img width="313" height="160" alt="1-ka" src="https://github.com/user-attachments/assets/3e231085-3020-4d4f-ad2c-a23a554708d0" />
+<img width="313" height="160" alt="1-ka" src="https://github.com/user-attachments/assets/4784e79d-aef6-430b-9ac5-4d685c0c42df" />
 
 Also on the three-verst map:
 
-<img width="387" height="184" alt="3-ka" src="https://github.com/user-attachments/assets/39be9574-1255-49c2-8ab9-2ecd8ff26041" />
+<img width="387" height="184" alt="3-ka" src="https://github.com/user-attachments/assets/74d7f291-3fc8-4641-ae98-dfb2ce1579d6" />
 
 From 1921 to 1939, it was part of Poland, in the Drohiczyn gmina, Drohiczyn powiat, Polesie Voivodeship. In 1921, there were 18 households and 148 inhabitants. The village on the Polish WIG map:
 
