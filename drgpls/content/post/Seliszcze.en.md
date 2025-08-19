@@ -13,11 +13,11 @@ This fund contains information about state forests, forestry, and a description 
 
 The village on Schubert's map from 1826-1840:
 
-Schubert link
+<img width="502" height="313" alt="Szubert 1826-1840" src="https://github.com/user-attachments/assets/5ce261a4-e5b9-43e1-9c41-e494c6c9bc2d" />
 
 Also on the military topographic map of the Russian Empire for 1846-1864:
 
-VTKRI link
+<img width="507" height="359" alt="WTKRI 1846-1863" src="https://github.com/user-attachments/assets/54a0d49f-bf26-4fbb-9fb6-2202e5c177af" />
 
 The RGIA archive contains a record of our village, F. 577 Op. 10 D. 901, with dates ranging from June 7, 1865 to August 22, 1872. At that time, the estate was owned by M.V. Winter:
 
@@ -25,21 +25,21 @@ The RGIA archive contains a record of our village, F. 577 Op. 10 D. 901, with da
 
 Written sources also mention it in 1890 as the estate of Ilia Garbaruk in the Osowiec volost, Kobryn district, Grodno province, Russian Empire. The estate had 400 dessiatines of land. In 1905, the estate had 12 residents, and the settlement of “Plotina Seliszcze” had 12 residents. The village on the one-verst map:
 
-1-ka
+<img width="437" height="194" alt="1-ka" src="https://github.com/user-attachments/assets/c43edc5c-bf99-4599-86e2-94f7246905d4" />
 
 Also on the three-verst map:
 
-3-ka
+<img width="368" height="197" alt="3-ka" src="https://github.com/user-attachments/assets/372b789a-8f7c-40ee-aa18-7151294f6310" />
 
 From 1921 to 1939, it was part of Poland, in the Osowiec gmina, Drohiczyn district, Polesie Voivodeship. In the 1930s, there were 2 households. The village on the Polish WIG map:
 
 Also on the German military map kdwr:
 
-kdwr lnik
+<img width="355" height="200" alt="kdwr" src="https://github.com/user-attachments/assets/4430f49f-2234-4013-b312-1639c3121ead" />
 
 From 1939, it was part of the Belarus SSR. From December 4, 1949, it was part of the Osowiec volost, Drohiczyn district, Pinsk region, Selishche colony. There were 40 inhabitants. From October 12, 1940, it was part of the Liachowicze village council, Drohiczyn district. The village on the Red Army map:
 
-rkka link
+<img width="326" height="197" alt="RKKA" src="https://github.com/user-attachments/assets/721d64dc-db22-4c1c-8d4d-961072dc66fc" />
 
 During the Great Patriotic War, on June 19, 1943, partisans destroyed the hydroelectric power station on the Dnieper-Bug Canal. Since 1954, it has been part of the Brest region. Since 1959, it has been part of the Popina village council, with a population of 172. In 1970, there were 170 residents, and in 1995, there were 32 households and 57 residents.
 
