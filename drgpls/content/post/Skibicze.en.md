@@ -7,7 +7,7 @@ tags:
 
 The village is mentioned in documents from 1769 as part of the Grand Duchy of Lithuania.
 
-From 1795, it was part of the Russian Empire in the Kobrin district, Slonim district, from 1797 in the Lithuanian district, and from 1801 in the Grodno province. The village on Schubert's map of 1832:
+From 1795, it was part of the Russian Empire in the Kobryn district, Slonim district, from 1797 in the Lithuanian district, and from 1801 in the Grodno province. The village on Schubert's map of 1832:
 
 <img width="322" height="160" alt="Shubert 1832" src="https://github.com/user-attachments/assets/80a55adb-873a-458e-a6a5-86efd709065e" />
 
