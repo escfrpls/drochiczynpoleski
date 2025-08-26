@@ -9,7 +9,7 @@ The village was established in 1960 during the liquidation of farmsteads and oth
 
 The village on Google Maps in 2025:
 
-link
+<img width="855" height="532" alt="2025" src="https://github.com/user-attachments/assets/a0daa23b-435f-46f3-8327-a04410432a6e" />
 
 References and materials used in the post:
 - Google maps
