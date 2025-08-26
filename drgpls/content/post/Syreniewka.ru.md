@@ -9,7 +9,7 @@ tags:
 
 Деревня карт google на 2025 год:
 
-link
+<img width="855" height="532" alt="2025" src="https://github.com/user-attachments/assets/a0daa23b-435f-46f3-8327-a04410432a6e" />
 
 Ссылки и информация используемая в материале:
 - Google maps
