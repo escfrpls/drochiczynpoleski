@@ -15,7 +15,13 @@ Also on the military-topographic map of the Russian Empire for 1846-1863:
 
 <img width="361" height="278" alt="WTKRI 1846-1863" src="https://github.com/user-attachments/assets/e0b6dfd8-489e-47a7-bc08-36cfdadfbd49" />
 
-In 1858, the village was the center of the rural community in the Drohiczyn volost. There were 96 revisor souls (state peasants) who belonged to the estate of Balkuny, owned by landowner Peter Kraszewsk, and Skibicze, jointly owned by Korazowa, Pesecki, and Jacenicz. There were also 23 registered souls (state peasants) in the Skibicze village community in the Bezdziez rural community. In 1905, there were 18 inhabitants. The village on the one-verst map:
+In 1858, the village was the center of the rural community in the Drohiczyn volost. There were 96 revisor souls (state peasants) who belonged to the estate of Balkuny, owned by landowner Peter Kraszewsk, and Skibicze, jointly owned by Korazowa, Pesecki, and Jacynicz. There were also 23 registered souls (state peasants) in the Skibicze village community in the Bezdziez rural community. In 1905, there were 18 inhabitants. 
+
+The RGIA archive contains a reference to the village, F. 577 Op. 10 D. 1132, dates: October 24, 1864 - October 23, 1872.
+
+> Case concerning the redemption of land plots from Faustyna and Elizabeta Jacynicz of the Skibicze estate by temporarily obligated peasants. (Grodno Province) October 24, 1864 - October 23, 1872.
+
+The village on the one-verst map:
 
 <img width="399" height="188" alt="1-ka" src="https://github.com/user-attachments/assets/23e39e12-1b50-4295-be9b-b96376028306" />
 
