@@ -9,11 +9,11 @@ Tolkovo was mentioned in 1636 as a manor house within the Braszewicze estate. It
 
 From 1795 it was part of the Russian Empire, in the Kobryn district of Slonim, from 1797 it was part of Lithuania, and from 1801 it was part of the Grodno province. The village appears on Schubert's 1832 map:
 
-Schubert link
+<img width="480" height="194" alt="Szubert 1832" src="https://github.com/user-attachments/assets/7e1e6935-a779-42cc-b6b1-b3ef2fdc6414" />
 
 Also on the military topographic map of the Russian Empire from 1846-1863:
 
-VTKRI link
+<img width="441" height="317" alt="WTKRP 1846-1863" src="https://github.com/user-attachments/assets/fc6813e1-0103-4938-a398-690d9258fea8" />
 
 In the RGIA archive, F. 384, Op. 3 D. 1384, with dates ranging from January 22, 1846 to June 12, 1848, mentions our village:
 
@@ -25,23 +25,23 @@ The Russian State Historical Archive also contains a document on the lustration 
 
 The Lithuanian archives contain a mention and description of the estate of Pani Tolkowa, described in [the adjacent article](https://drohiczyn-poleski.com/ru/post/panitolkova/). In 1858, the village, the center of a rural community in the Antopol volost of the Kobryn district, had 445 inspectorate souls (state peasants). In 1886, the village had 48 households and 669 residents. In 1890, the community owned 1,075 dessiatines of land, of which 526 were for food. In 1905, the village had 1,005 residents and a church and parish school. The Tolkovo estate had 11 residents. The village on a one-verst map:
 
-1-verst
+<img width="562" height="349" alt="1-ka" src="https://github.com/user-attachments/assets/021c1777-9fcc-4839-bd04-dbb7c35184fd" />
 
 Also on a three-verst map:
 
-3-verst
+<img width="552" height="340" alt="3-ka" src="https://github.com/user-attachments/assets/cf5d1e65-a657-48ea-9f58-f1993ab7e526" />
 
 From 1921 to 1939, it was part of Poland, in the Antopol gmina, Kobryn district, Polesie voivodeship. In 1921, there were 33 households and 230 residents. By 1930, there were 140 households. Poles constituted 73.9% of the population during this period, while Ruthenians made up 26.1%. Orthodox Christians predominated (100%). It is worth noting that by the late 1940s, the village had a large Protestant community, as described in the [adjacent article](https://drohiczyn-poleski.com/ru/post/tolkovo_protestant/). The village on the German military map kdwr:
 
-kdwr link
+<img width="565" height="309" alt="kdwr" src="https://github.com/user-attachments/assets/0dcd6133-a92b-4ef4-b2ad-22ef0bff516b" />
 
 Also on the Polish map WIG:
 
-WIG link
+<img width="526" height="324" alt="wig" src="https://github.com/user-attachments/assets/d18c1716-d64d-4cb5-bfb3-7e8b0051c0f0" />
 
 From December 4, 1939, part of the Belarus SSR, in the Kobryn district, Brest region. As of January 15, 1940, in the Antopol District, and as of October 12, 1940, in the Pierwomajsk Village Council, there were 727 residents. The village on the Red Army map:
 
-Red Army link
+<img width="490" height="367" alt="rkka" src="https://github.com/user-attachments/assets/919d61f9-5e2a-4ce3-acc1-283857d7e23b" />
 
 Twenty-seven village residents died during the Great Patriotic War, and 24 did not return from the front. Since 1959, in the Drogichinsky District, and since 1960, in the Antopol Village Council. In 1960, there were 489 residents, in 1970, 527 residents, and in 1995, there were 121 households and 233 residents.
 
