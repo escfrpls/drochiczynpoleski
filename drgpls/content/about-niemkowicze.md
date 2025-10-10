@@ -16,11 +16,11 @@ menu:
 This article contains information about the village of Niemkowicze, Pruzana district, now Belarus.
 Since my one of the branches “Kaluta” comes from there. I collect any information about this village and also publish what I have at the moment, as well as every other article about the village, with time will be supplemented. I will be glad to any new information or clarification of historical inaccuracies on my side.
 The appearance of the village Nemkovichi is probably connected with the settlement of the land, as we can see from the name with great probability the settlement was founded by representatives of the family Nemkovichi, but so there are other assumptions, which I will note in this article.
-<hr style=“border: 1px solid red; opacity: 0.5;”>
+<hr style="border: 1px solid red; opacity: 0.5;">
 
 In a legal (administrative*) case involving Prince Franciszek Sapieha, who was a privy counselor and prosecutor. This case is about, concerning Princess Stefan Radziwill and her claims against the owners (posessors) of the land of Sielce.
 > In the 16th-17th centuries Lichacze, Postolowo, Mokre, Kuszli and all neighboring villages adjacent to Niemkowicze are mentioned, but Niemkowicze is never mentioned there, but the very fact that these lands were included in the Sielec land says it as a primary source.
-<hr style=“border: 1px solid blue; opacity: 0.5;”>
+<hr style="border: 1px solid blue; opacity: 0.5;">
 
 Also in the document “Acts of the Brest City Court, 157b-171b”. There are mentions of settlements near Niemkowicze, but there are no mentions of the village itself. Here they are:
 
@@ -32,22 +32,22 @@ Postolovo
 
 Zamoshe
 > 1631 May 1. Statement by Pawel Dymski-Szmogorowski about the disappearance of various gold and silver items from his possession during his stay at the court of Alexandra Janowa Wisznewska in Nowoszucy, Pinsk district, where they arrived for the wedding of Alexander Wisznewski from their estate of Zamoszje. In the theft of these things he suspects his driver Jan Piotrowicz, in Polish p. 2249-50.
-<hr style=“border: 1px solid blue; opacity: 0.5;”>
+<hr style="border: 1px solid blue; opacity: 0.5;">
 
 “Inventory of the Kobryn Starostvo” for 1597, there is information about the Wojtaszta Jakowicki, in which the villages near Niemkowicze are mentioned, these are: Poroslany, Zadeny, Lezajka. Niemkowicze are not mentioned in any written form.
-<hr style=“border: 1px solid blue; opacity: 0.5;”>
+<hr style="border: 1px solid blue; opacity: 0.5;">
 
 In the “Revision of the Kobryn Starostvo, carried out by order of Her Majesty's Queen” of 1618, the villages near Niemkowicze are mentioned, and these are: Poroslany, Jakowicze*?, Zadeny, Lezajka. Niemkowicze are not mentioned in any written form.
-<hr style=“border: 1px solid blue; opacity: 0.5;”>
+<hr style="border: 1px solid blue; opacity: 0.5;">
 
 In the “Income Tax Register” of 1667 and the register of 1690 the village of Niemkowicze is not mentioned. But villages nearby are mentioned, and these are: Krasne, Postolowo, Zamoszje, Mokre, Lezajka, Poroslany, Jakowicze*?, Zadeny. It is also important to note that there is a mention of a settlement named Nieńkowicze (Niemkowicze), as one of the options we can assume that the name was later transformed into Niemkowicze or a typo in the text.
-<hr style=“border: 1px solid blue; opacity: 0.5;”>
+<hr style="border: 1px solid blue; opacity: 0.5;">
 
 From the Uniate MK of the village Mokre (near Niemkowicze), which is stored in RGIA (St. Petersburg) for 1776-1801, there are records about the inhabitants of the village Niemkowicze.
-<hr style=“border: 1px solid blue; opacity: 0.5;”>
+<hr style="border: 1px solid blue; opacity: 0.5;">
 
 From the “Income Tax Register” of 1775, Niemkowicze and Kuszle had 15 farms together and were listed under Pan Sawicki. He was a lieutenant (Lieutenant*?) in the royal service. Before 1775 Sawicki gave the villages of Niemkowicze and Kuszli (also his other holdings as Czarnolozy, Krasne, Pieski, Klepaczy) to the long-term lease strażnikowicza (guard*?) of the Owrucki surname Jelski. However, there may be a letter error in the documents and it could be stolnikowicza (stolnik), in which case we could assume that we are talking about Ignacy Jelski, who was promoted in 1775 to flag bearer (flagman) of the Lithuanian First Guard. Later a major of the Kingdom of Poland, died in 1820, he was the son of Stolnik owrucki Maciej Jelski. Further on in history Niemkowiczewas always owned by several noble families.
-<hr style=“border: 1px solid blue; opacity: 0.5;”>
+<hr style="border: 1px solid blue; opacity: 0.5;">
 
 The village on Schubert's map of 1820-1840:
 
@@ -83,7 +83,7 @@ In 1870 it was a part of Pruzana uyezd, Wielokosielsk parish.
 In 1890 the estate had 65 dessiatinas of land.
 
 According to the enumeration of 1897 Niemkowicze was located in Kotra parish, Pruzana district, Grodno province. There were 16 households and 98 inhabitants. There was a bread store.
-<hr style=“border: 1px solid blue; opacity: 0.5;”>
+<hr style="border: 1px solid blue; opacity: 0.5;">
 
 Niemkowicze on the Austro-Hungarian map:
 
@@ -104,7 +104,7 @@ From 1921 as part of Poland. Niemkowicze on the WIG map:
 
 Since 1924 in Pruzana district, Kotra rural municipality. Since 1933 in Pruzana district, Rudniki rural commune.
 From the accounts of the locals, before World War 2, virtually the entire village was of the Protestant Pentecostal religious persuasion. According to the stories, Protestantism entered the village from a local man who had returned from working (earning) in the United States. Also, people who had previously practiced Catholicism or Orthodoxy in their majority attended Protestant meetings. They often gathered in the homes of local people for worship.
-<hr style=“border: 1px solid blue; opacity: 0.5;”>
+<hr style="border: 1px solid blue; opacity: 0.5;">
 
 From 1939 it was a part of BSSR. Since 15.01.1940 in Pruzana district, Brest region. There were 31 yards and 135 inhabitants. In the Great Patriotic War in June, 1942 Hitlerites burned the village and killed 25 inhabitants. The village on the RKKA map:
 
