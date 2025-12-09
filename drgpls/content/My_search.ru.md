@@ -10,7 +10,14 @@ menu:
     name: Деревня Немковичи
     title: Деревня Немковичи
     url: /about/niemkowicze/
-    weight: 10
+    weight: 1
+  kaljuta:
+    identifier: about-kaljuta
+    parent: my-search
+    name: Род Калюта
+    title: Информация о роде Калюта, Kaljuta, Kaluta, Kalutczyk
+    url: /about/kaljuta/
+    weight: 2
 ---
 
 В данном разделе моего проекта, я буду публиковать статьи и населенных пунктах и о родовых ветках, буду делиться информацией и рассказывать подробно, что мне удалось найти.
