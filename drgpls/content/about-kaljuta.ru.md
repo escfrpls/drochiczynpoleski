@@ -10,5 +10,5 @@ menu:
     name: Род Калюта
     title: Информация о роде Калюта, Kaljuta, Kaluta, Kalutczyk
     url: /about/kaljuta/
-    weight: 1
+    weight: 2
 ---
