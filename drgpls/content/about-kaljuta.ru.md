@@ -1,5 +1,5 @@
  ---
-title: "Информация о роде Калюта, Kaljuta, Kaluta, Kalutczyk"
+title: "Род Калюта"
 description: "family Kaljuta"
 author: "Tymoteusz Kaljuta"
 slug: /about/kaljuta
