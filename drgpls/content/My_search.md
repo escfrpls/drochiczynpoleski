@@ -10,7 +10,14 @@ menu:
     name: Village Niemkowicze
     title: Village Niemkowicze
     url: /about/niemkowicze/
-    weight: 2
+    weight: 1
+  kaljuta:
+    identifier: about-kaljuta
+    parent: my-search
+    name: Information about the 'Калюта, Kaljuta, Kaluta, Kalutczyk' family
+    title: Information about the 'Калюта, Kaljuta, Kaluta, Kalutczyk' family
+    url: /about/kaljuta/
+    weight: 1
 ---
 
 In this section of my project, I will publish articles and settlements and ancestral branches, I will share information and tell in detail what I was able to find.
