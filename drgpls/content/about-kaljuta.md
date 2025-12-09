@@ -1,5 +1,5 @@
  ---
-title: "Information about the 'Калюта, Kaljuta, Kaluta, Kalutczyk' family"
+title: "Family Kaljuta"
 description: "family Kaljuta"
 author: "Tymoteusz Kaljuta"
 slug: /about/kaljuta
