@@ -10,5 +10,5 @@ menu:
     name: Family Kaljuta
     title: Information about the 'Калюта, Kaljuta, Kaluta, Kalutczyk' family
     url: /about/kaljuta/
-    weight: 1
+    weight: 2
 ---
