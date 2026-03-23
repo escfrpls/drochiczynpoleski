@@ -86,6 +86,22 @@ In the list of Christian Catholic settlements of 1726 - Brashevichi is mentioned
 
 ![1726-1_53635908475_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/584ed0d5-c2eb-4f6a-903b-787848550c9d)
 
+It’s worth adding that metric books (metrical records) for Braszewicze are available in the Main Archive of Old Acts:
+
+**Brashevichi, Kobryn Deanery, Vilnius Diocese**
+
+- **Baptisms:** 1811–1826  
+  **Marriages:** 1811–1827  
+  **Burials:** 1811–1819, 1821, 1831  
+  [Link to the record unit](https://www.szukajwarchiwach.gov.pl/ru/jednostka/-/jednostka/25754065)
+
+- **Baptisms:** 1827–1847  
+  [Link to the record unit](https://www.szukajwarchiwach.gov.pl/ru/jednostka/-/jednostka/25762710)
+
+- **Baptisms:** 1848–1866  
+  [Link to the record unit](https://www.szukajwarchiwach.gov.pl/ru/jednostka/-/jednostka/25807020)
+
+  
 References and information used in the material:
 
 1. ru.wikipedia.org/wiki/Брашевичи
