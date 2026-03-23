@@ -86,6 +86,22 @@ Greek Catholic Church. Brashevichi (Kobrin) - 1823 года
 
 ![1726-1_53635908475_o](https://github.com/escfrpls/drochiczynpoleski/assets/125834172/584ed0d5-c2eb-4f6a-903b-787848550c9d)
 
+Стоит добавить, что метрические книги по Брашевичам имеются в Главном архиве древних актов:
+
+**Брашевичи, Кобринский деканат, Виленская диецезия**
+
+- **Крещения:** 1811–1826  
+  **Венчания:** 1811–1827  
+  **Погребения:** 1811–1819, 1821, 1831  
+  [Ссылка на единицу хранения](https://www.szukajwarchiwach.gov.pl/ru/jednostka/-/jednostka/25754065)
+
+- **Крещения:** 1827–1847  
+  [Ссылка на единицу хранения](https://www.szukajwarchiwach.gov.pl/ru/jednostka/-/jednostka/25762710)
+
+- **Крещения:** 1848–1866  
+  [Ссылка на единицу хранения](https://www.szukajwarchiwach.gov.pl/ru/jednostka/-/jednostka/25807020)
+
+  
 Ссылки и информация используемая в материале:
 
 1. ru.wikipedia.org/wiki/Брашевичи
